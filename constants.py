@@ -1,0 +1,2 @@
+OPENAI_API_KEY = "sk-"
+ELEVEN_API_KEY = ""
