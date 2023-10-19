@@ -1,4 +1,5 @@
-import React, { useState, useEffect, useRef } from "react";
+import * as React from 'react';
+import { useState, useEffect, useRef } from "react";
 import {
   StyleSheet,
   Text,
@@ -6,6 +7,8 @@ import {
   TextInput,
   Button,
   ScrollView,
+  Image,
+  SafeAreaView
 } from "react-native";
 import { StatusBar } from "expo-status-bar";
 import Slider from "@react-native-community/slider";
@@ -13,26 +16,44 @@ import LottieView from "lottie-react-native";
 import CustomButton from "../../../components/customButton";
 import * as Speech from "expo-speech";
 import Constants from "expo-constants";
+// npx expo install expo-av
+// npx expo install expo-file-system
+import { Audio } from 'expo-av';
+
 
 const uri = Constants?.expoConfig?.hostUri
   ? Constants.expoConfig.hostUri.split(`:`).shift().concat(`:3000`)
   : `/create`;
-renderWithData = async (t, min, setGenText) => {
+renderWithData = async (t, min, setGenText, setDriveName) => {
   console.log("----")
   fetch_url = "http://" + uri + `/create?topic=${t}&min=${min}`
   console.log(fetch_url)
   const response = await fetch(fetch_url);
-  console.log(response)
   const res = await response.json();
   console.log(res)
-  setGenText(res);
+  setDriveName(res['name']);
+  setGenText(res['text']);
 };
+
+
 
 export default function index() {
   const animation = useRef(null);
   const [topic, setTopic] = useState("");
   const [length, setLength] = useState(1);
   const [genText, setGenText] = useState("");
+  const [driveName, setDriveName] = useState("");
+
+  async function playSound() {
+    console.log('Loading Sound');
+    const sound = new Audio.Sound()
+    await sound.loadAsync({
+      uri: "https://drive.google.com/uc?export=view&id=" + driveName
+  })
+    console.log('Playing Sound');
+    await sound.playAsync();
+  }
+
   return (
     <ScrollView style={styles.scrollView} keyboardShouldPersistTaps='handled'>
       <View style={styles.container}>
@@ -71,9 +92,10 @@ export default function index() {
         </Text>
         </View>
         <View style={styles.bottom}>
+          
           <CustomButton
             onPress={() => {
-              renderWithData(topic, length, setGenText);
+              renderWithData(topic, length, setGenText, setDriveName);
             }}
             title="Create"
           />
@@ -81,7 +103,8 @@ export default function index() {
             <View></View>
           ) : (
             <View>
-              <Button
+              <Button title="Play Sound" onPress={playSound} />
+              {/* <Button
                 title="Press to Start"
                 onPress={() =>
                   Speech.speak(genText, {
@@ -92,9 +115,12 @@ export default function index() {
                 }
               />
               <Button title="pause" onPress={() => Speech.pause()} />
-              <Button title="resume" onPress={() => Speech.resume()} />
+              <Button title="resume" onPress={() => Speech.resume()} /> */}
             </View>
           )}
+
+
+
         </View>
         <Text>{genText}</Text>
       </View>
