@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # encoding: utf-8
-from flask import Flask, jsonify, request
+from flask import Flask, jsonify, request, send_file
 import os
 import gnews
 import openai
@@ -10,11 +10,15 @@ from datetime import datetime
 import requests
 import datetime
 load_dotenv()
+from pydrive.auth import GoogleAuth 
+from pydrive.drive import GoogleDrive
+from moviepy.editor import concatenate_audioclips, AudioFileClip
 
-openai.api_key = os.getenv("OPENAI_API_KEY")
-weather_api_key = os.getenv("WEATHER_API_KEY")
-# Initialize chat model
-chat_model = ChatOpenAI(model_name='gpt-3.5-turbo-16k')  # Make sure to set the API key as an environment variable
+
+# openai.api_key = os.getenv("OPENAI_API_KEY")
+# weather_api_key = os.getenv("WEATHER_API_KEY")
+# # Initialize chat model
+# chat_model = ChatOpenAI(model_name='gpt-3.5-turbo-16k')  # Make sure to set the API key as an environment variable
 
 
 def gen_article_text(topic, env="prod"):
@@ -211,6 +215,59 @@ def gen_story_podcast(user_prompt, num_words):
         #file_names.append("sound_effects/original_transition.wav")
     return text
 
+def generate_name():
+    name = "Testing"
+    return name
+
+def upload_wav_file_and_get_ID():
+    print(777777)
+    gauth = GoogleAuth()
+
+    # Try to load saved client credentials
+    gauth.LoadCredentialsFile("mycreds.txt")
+
+    if gauth.credentials is None:
+        # Authenticate if they're not there
+        gauth.GetFlow()
+        gauth.flow.params.update({'access_type': 'offline'})
+        gauth.flow.params.update({'approval_prompt': 'force'})
+        gauth.LocalWebserverAuth()
+    elif gauth.access_token_expired:
+        # Refresh them if expired
+        gauth.Refresh()
+    else:
+        # Initialize the saved creds
+        gauth.Authorize()
+
+    # Save the current credentials to a file
+    gauth.SaveCredentialsFile("mycreds.txt")  
+
+    drive = GoogleDrive(gauth)
+
+    title = generate_name() + ".txt"
+    team_drive_id = '1WdeZhQ_vegXPMA-JeoM0pldAOKbCCVcx'
+    parent_folder_id = '1TtWk3uo0jTC0BR2CAlaH8DgcRtp0hDCb'
+    f = drive.CreateFile({
+        'title': title,
+        'parents': [{
+            'kind': 'drive#fileLink',
+            'teamDriveId': team_drive_id,
+            'id': parent_folder_id
+        }]
+    })
+    f.SetContentFile("/Users/danielbouvin/Documents/KTH/År 5/DH2465/PodPerfect/TextTales-2.0/backend/sound_effects/test123.wav")
+    f.Upload(param={'supportsTeamDrives': True})
+
+    files = drive.ListFile({"q": "'" + parent_folder_id + "' in parents and mimeType!='application/vnd.google-apps.folder'"}).GetList()
+
+    name = ""
+    for file in files:
+        if file['title'] == title:
+            name = file['id']
+        
+    return name
+        
+
 app = Flask(__name__)
 @app.route('/')
 def hello_world():
@@ -218,28 +275,36 @@ def hello_world():
 
 @app.route('/create')
 def get_create():
+    print(00000)
+    
     # Argument fetched from url params
     user_prompt = request.args.get('topic')
     num_minutes = request.args.get('min')
     num_words = int(num_minutes)*135
-    prompt = "Can you create a documentary/news broadcast/podcast/fantasy story about this input? Respond only by returning 'YES' or explain why it does not work. Input = {}".format(user_prompt)
-    response = chat_model.predict(prompt)
-    if "YES" != response:
-        return print(response)
+    # prompt = "Can you create a documentary/news broadcast/podcast/fantasy story about this input? Respond only by returning 'YES' or explain why it does not work. Input = {}".format(user_prompt)
+    # response = chat_model.predict(prompt)
+    # if "YES" != response:
+    #     return print(response)
 
-    prompt = "What category would you classify this input trying to create? Respond just by returning 'NEWS', 'STORY' or 'DOCUMENTARY' Input = {}".format(user_prompt)
-    category = chat_model.predict(prompt)
+    # prompt = "What category would you classify this input trying to create? Respond just by returning 'NEWS', 'STORY' or 'DOCUMENTARY' Input = {}".format(user_prompt)
+    # category = chat_model.predict(prompt)
     
-    if category == "NEWS":
-        podcast_text = gen_news_podcast(user_prompt)
-        return jsonify(podcast_text)
-    elif category == "DOCUMENTARY":
-        podcast_text = gen_doc_podcast(user_prompt, num_words)
-        return jsonify(podcast_text)
-    else:
-        podcast_text = gen_story_podcast(user_prompt, num_words)
-        return jsonify(podcast_text)
+    # if category == "NEWS":
+    #     podcast_text = gen_news_podcast(user_prompt)
+    #     return jsonify(podcast_text)
+    # elif category == "DOCUMENTARY":
+    #     podcast_text = gen_doc_podcast(user_prompt, num_words)
+    #     return jsonify(podcast_text)
+    # else:
+    #     podcast_text = gen_story_podcast(user_prompt, num_words)
+    #     return jsonify(podcast_text)
     
+    text = "hello"
+    name = upload_wav_file_and_get_ID()
 
+    data = {'text': text, 'name': name}
+    
+    return jsonify(data)
+    
 
 app.run(host='0.0.0.0', port=3000)
