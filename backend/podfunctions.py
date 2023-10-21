@@ -36,7 +36,7 @@ class PerfecPod:
     def podify(self, user_prompt, num_minutes=False, voice="Adam"):
 
 
-        return user_prompt + str(num_minutes)
+        # return user_prompt + str(num_minutes)
 
         prompt = "Can you create a documentary/news broadcast/podcast/fantasy story about this input? Respond only by returning 'YES' or explain why it does not work. Input = {}".format(user_prompt)
         response = chat_model.predict(prompt)
