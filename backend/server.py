@@ -224,7 +224,7 @@ def upload_wav_file_and_get_ID():
     gauth = GoogleAuth()
 
     # Try to load saved client credentials
-    gauth.LoadCredentialsFile("mycreds.txt")
+    # gauth.LoadCredentialsFile("mycreds.txt")
 
     if gauth.credentials is None:
         # Authenticate if they're not there
@@ -255,7 +255,8 @@ def upload_wav_file_and_get_ID():
             'id': parent_folder_id
         }]
     })
-    f.SetContentFile("/Users/danielbouvin/Documents/KTH/År 5/DH2465/PodPerfect/TextTales-2.0/backend/sound_effects/test123.wav")
+    #f.SetContentFile("/Users/danielbouvin/Documents/KTH/År 5/DH2465/PodPerfect/TextTales-2.0/backend/sound_effects/test123.wav")
+    f.SetContentFile("./sound_effects/test123.wav")
     f.Upload(param={'supportsTeamDrives': True})
 
     files = drive.ListFile({"q": "'" + parent_folder_id + "' in parents and mimeType!='application/vnd.google-apps.folder'"}).GetList()
@@ -307,4 +308,4 @@ def get_create():
     return jsonify(data)
     
 
-app.run(host='0.0.0.0', port=3000)
+app.run(host='0.0.0.0', port=8080)
