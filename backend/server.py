@@ -160,60 +160,64 @@ def gen_doc_podcast(user_prompt, num_words):
     
     return text
 
-def gen_story_podcast(user_prompt, num_words):
-    # Save audiofile
-    # if not os.path.exists("story_audio"):
-    #     os.makedirs("story_audio")
-    prompt = "How many chapters are appropriate for a {} word long story? Return just the specified number".format(num_words)
-    response = chat_model.predict(prompt)
-    # Hårdkoda som lista istället <---- daniel
-    try:
-        chapters = int(response)
-    except:
-        if num_words < 1000:
-            chapters = 1
-        else:
-            chapters = int(num_words / 500)
-    print(chapters)
-    text = ""
-    prompt = "Create the outline/chapters for a {} word long story with {} chapters about {}. Specify how many words each section should have. Return your answer in the following format '*****Chapter 1, *****Chapter 2, *****Chapter 3'".format(num_words, chapters, user_prompt) 
-    print(prompt)
-    response = chat_model.predict(prompt)
-    print("----")
-    print(response)
-
-    prompt = "Summarise what the story is about: {}".format(response)
-    topic = chat_model.predict(prompt)
-
-    split_response = response.split('*****')
-    sections = []
-    for part in split_response:
-        if len(part) > 10:
-            sections.append(part)
-    
-    # chapter_length = int(num_words / len(sections))
-    chapter_length = int(num_words / chapters)
-    print(sections)
-    # file_names = []
-    summary = ""
-    for i in range(len(sections)):
-        print(i)
-        print(111111)
-        prompt = "You are writing a story about {} and now you are going to write about this chapter {}. This has happened so far in the story: '{}'. Use approximatly {} number of words in your output. Start with 'Chapter X: ' + the headline for this chapter".format(topic, sections[i], summary, chapter_length) 
-        print(prompt)
-        print(22222)
-        response = chat_model.predict(prompt)
-        print(response)
-        print('*****')
-        prompt = "Summarise: {}".format(response)
-        summary = chat_model.predict(prompt)
-        #audio = generate(text=response, voice="Adam", model="eleven_monolingual_v1", api_key=ELEVEN_API_KEY)
-        #save(audio, "story_audio/story_about_{}_in_{}_mins_{}.wav".format(user_prompt, num_minutes, i))
-        text += "\n" + response + "\n"
+def gen_story_podcast(self, user_prompt, num_words):
         
-        #file_names.append("story_audio/story_about_{}_in_{}_mins_{}.wav".format(user_prompt, num_minutes, i))
-        #file_names.append("sound_effects/original_transition.wav")
-    return text
+    if num_words < 1000:
+        prompt = "Create a story about '{}'. The story should be approximately {} number of words".format(user_prompt, num_words)
+        return chat_model.predict(prompt)
+    else:
+        chapters = int(num_words / 300)
+        prompt = "Create a detailed outline for a story about '{}' with {} scenes. Return your answer in the following format:".format(user_prompt, str(chapters*3))
+        for i in range(1, 3*chapters+1):
+            prompt += "\nScene {}:".format(str(i))
+
+        outline = chat_model.predict(prompt)
+        scene_list = []
+        for i in range(1, chapters*3+1):
+            scene_before_index = outline.index("Scene {}".format(str(i)))
+            if i < chapters*3:
+                scene_after_index = outline.index("Scene {}".format(str(i+1)))
+                scene = outline[scene_before_index:scene_after_index]
+            else:
+                scene = outline[scene_before_index:]
+            scene_list.append(scene)
+
+        prompt = "Specify the characters and in what scene they enter the story based on this outline:\n{}\n\nReturn in the format:\nName of character - Description - Scene Number".format(outline)
+        characters = chat_model.predict(prompt)
+        extended_scenes = []
+
+        for i in range(chapters):
+            number_of_scenes = 3
+            response_format = "Return in the format:\nNarrative {}:\nNarrative {}:\nNarrative {}:".format(str(i*3+1), str(i*3+2), str(i*3+3))
+            scenes = scene_list[i*3] + "\n" + scene_list[i*3+1] + "\n" + scene_list[i*3+2]
+            if i < chapters - 1:
+                    scenes += "\n" + scene_list[i*3+3]
+                    response_format += "\nNarrative {}:".format(str(i*3+4))
+                    number_of_scenes = 4
+            
+            prompt = "Turn these {} scenes into narratives and expand them:\n{}\n\nHere is a list of characters and in what scene they will or have been introduced:\n{}\n\n{}".format(str(number_of_scenes), scenes, characters, response_format)
+            response = chat_model.predict(prompt)
+
+            k = 0
+            for j in range(i*3+1,i*3+number_of_scenes+1):
+                k += 1
+                scene_before_index = response.lower().index("narrative {}".format(str(j)))
+                if j < i*3+number_of_scenes:
+                    scene_after_index = response.lower().index("narrative {}".format(str(j+1)))
+                    scene = response[scene_before_index:scene_after_index]
+                else:
+                    scene = response[scene_before_index:]
+                
+                if k < 4:
+                    extended_scenes.append(scene)
+
+        cleaned_text = []
+        for row in extended_scenes:
+            split_row = row.split("\n")[1:]  # Remove the first element
+            restored_row = "\n".join(split_row)  # Join the remaining elements with newline
+            cleaned_text.append(restored_row)
+
+        return cleaned_text
 
 def generate_name():
     name = "Testing"
