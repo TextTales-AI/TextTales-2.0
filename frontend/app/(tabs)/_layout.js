@@ -5,7 +5,7 @@ import MusicPlayerComponent from "../../components/musicPlayerComponent";
 export const UserContext = React.createContext(null);
 
 export default () => {
-  const [user, setUser] = useState("test");
+  const [user, setUser] = useState("");
   return (
     <>
       <UserContext.Provider value={{ user: user, setUser: setUser }}>

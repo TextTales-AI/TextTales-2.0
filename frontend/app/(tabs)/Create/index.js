@@ -1,5 +1,5 @@
 import * as React from "react";
-import { useState, useEffect, useRef } from "react";
+import { useState, useEffect, useRef, useContext } from "react";
 import {
   StyleSheet,
   Text,
@@ -16,9 +16,7 @@ import LottieView from "lottie-react-native";
 import CustomButton from "../../../components/customButton";
 import * as Speech from "expo-speech";
 import Constants from "expo-constants";
-// npx expo install expo-av
-// npx expo install expo-file-system
-import { Audio } from "expo-av";
+import { UserContext } from "../_layout";
 
 const uri = Constants?.expoConfig?.hostUri
   ? Constants.expoConfig.hostUri.split(`:`).shift().concat(`:8080`)
@@ -29,10 +27,20 @@ renderWithData = async (
   min,
   setGenText,
   setDriveName,
-  setSound,
+  setUser,
   demo = false
 ) => {
+  console.log("----");
   if (demo) {
+    // New
+    console.log("IN DEMO");
+    setUser(
+      "https://drive.google.com/uc?export=view&id=" +
+        "1TtWk3uo0jTC0BR2CAlaH8DgcRtp0hDCb"
+    );
+    return;
+
+    console.log("demo");
     await Audio.setAudioModeAsync({
       staysActiveInBackground: true,
       interruptionModeAndroid: 1,
@@ -46,6 +54,7 @@ renderWithData = async (
     setSound(sound);
     setDriveName("demo");
     setGenText("demo demo demo");
+    console.log("yada");
     return;
   }
 
@@ -57,22 +66,14 @@ renderWithData = async (
   console.log(res);
   console.log("-----create");
   // För att få ljuduppselning in the background men verkar bara funka i standalone app
-  await Audio.setAudioModeAsync({
-    staysActiveInBackground: true,
-    interruptionModeAndroid: 1,
-    shouldDuckAndroid: false,
-    playThroughEarpieceAndroid: false,
-    allowsRecordingIOS: false,
-    interruptionModeIOS: 1,
-    playsInSilentModeIOS: true,
-  });
-  const { sound } = await Audio.Sound.createAsync({
-    uri: "https://drive.google.com/uc?export=view&id=" + res["name"],
-  });
-  setSound(sound);
-  setDriveName(res["name"]);
-  setGenText(res["text"]);
-  console.log("-------Done");
+  // const { sound } = await Audio.Sound.createAsync({
+  //   uri: "https://drive.google.com/uc?export=view&id=" + res["name"],
+  // });
+  setUser("https://drive.google.com/uc?export=view&id=" + res["name"])
+  // setSound(sound);
+  // setDriveName(res["name"]);
+  // setGenText(res["text"]);
+  // console.log("-------Done");
 };
 
 export default function index() {
@@ -81,17 +82,7 @@ export default function index() {
   const [length, setLength] = useState(1);
   const [genText, setGenText] = useState("");
   const [driveName, setDriveName] = useState("");
-  const [sound, setSound] = React.useState();
-
-  // Tror detta är för att sluta spela när man lämnar komponenten
-  React.useEffect(() => {
-    return sound
-      ? () => {
-          console.log("Unloading Sound");
-          sound.unloadAsync();
-        }
-      : undefined;
-  }, [sound]);
+  const { user, setUser } = useContext(UserContext);
 
   // React.useEffect(() => {
   //   console.log("-- in mount ---");
@@ -154,36 +145,12 @@ export default function index() {
                 length,
                 setGenText,
                 setDriveName,
-                setSound,
-                true
+                setUser,
+                false
               );
             }}
             title="Create"
           />
-          {!sound ? (
-            <View></View>
-          ) : (
-            <View>
-              <Button
-                title="Play Sound"
-                onPress={async () => {
-                  await sound.playAsync();
-                }}
-              />
-              {/* <Button
-                title="Press to Start"
-                onPress={() =>
-                  Speech.speak(genText, {
-                    language: "en-US",
-                    pitch: 1,
-                    rate: 1,
-                  })
-                }
-              />
-              <Button title="pause" onPress={() => Speech.pause()} />
-              <Button title="resume" onPress={() => Speech.resume()} /> */}
-            </View>
-          )}
         </View>
         <Text>{genText}</Text>
       </View>
