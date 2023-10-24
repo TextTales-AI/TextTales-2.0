@@ -69,7 +69,7 @@ renderWithData = async (
   // const { sound } = await Audio.Sound.createAsync({
   //   uri: "https://drive.google.com/uc?export=view&id=" + res["name"],
   // });
-  setUser("https://drive.google.com/uc?export=view&id=" + res["name"])
+  setUser("https://drive.google.com/uc?export=view&id=" + res["name"]) //"https://drive.google.com/uc?export=view&id=" + res["name"])
   // setSound(sound);
   // setDriveName(res["name"]);
   // setGenText(res["text"]);
@@ -167,6 +167,7 @@ const styles = StyleSheet.create({
     backgroundColor: "#fff",
     alignItems: "center",
     justifyContent: "center",
+    paddingBottom: 300,
   },
   top: {
     flex: 3,

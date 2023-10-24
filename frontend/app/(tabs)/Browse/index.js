@@ -8,7 +8,6 @@ export default function Browse() {
   return (
     <View style={styles.container}>
       <Text>test</Text>
-      <Button title="test" onPress={() => setUser("new value")} />
     </View>
   );
 }

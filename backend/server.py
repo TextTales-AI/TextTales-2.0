@@ -244,7 +244,7 @@ def upload_wav_file_and_get_ID():
 
     drive = GoogleDrive(gauth)
 
-    title = generate_name() + ".txt"
+    title = generate_name() + ".mp3"
     team_drive_id = '1WdeZhQ_vegXPMA-JeoM0pldAOKbCCVcx'
     parent_folder_id = '1TtWk3uo0jTC0BR2CAlaH8DgcRtp0hDCb'
     f = drive.CreateFile({
