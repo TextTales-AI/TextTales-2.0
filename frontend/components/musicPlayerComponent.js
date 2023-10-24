@@ -40,7 +40,7 @@ export default function MusicPlayerComponent() {
   const bottomSheetRef = useRef(null);
 
   // variables
-  const snapPoints = useMemo(() => ["20%", "60%"], []);
+  const snapPoints = useMemo(() => ["20%", "40%"], []);
 
   // callbacks
   const handleSheetChanges = useCallback((index) => {
@@ -101,7 +101,7 @@ export default function MusicPlayerComponent() {
             </Animated.View>
           )}
 
-          <Text>{user}</Text>
+          {/* <Text>{user}</Text> */}
         </View>
       </BottomSheet>
     </View>
@@ -128,6 +128,7 @@ const styles = StyleSheet.create({
     // width: "100%",
     flex: 1,
     zIndex: 10000,
+    marginTop: 10,
   },
   box: {
     width: "100%",

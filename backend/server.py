@@ -216,7 +216,7 @@ def gen_story_podcast(user_prompt, num_words):
     return text
 
 def generate_name():
-    name = "Testing"
+    name = "newTestAdam"
     return name
 
 def upload_wav_file_and_get_ID():
@@ -256,7 +256,7 @@ def upload_wav_file_and_get_ID():
         }]
     })
     #f.SetContentFile("/Users/danielbouvin/Documents/KTH/År 5/DH2465/PodPerfect/TextTales-2.0/backend/sound_effects/test123.wav")
-    f.SetContentFile("./sound_effects/test123.wav")
+    f.SetContentFile("./sound_effects/demo.mp3")
     f.Upload(param={'supportsTeamDrives': True})
 
     files = drive.ListFile({"q": "'" + parent_folder_id + "' in parents and mimeType!='application/vnd.google-apps.folder'"}).GetList()
