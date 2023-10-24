@@ -16,11 +16,16 @@ from moviepy.editor import concatenate_audioclips, AudioFileClip
 import uuid
 from elevenlabs import voices, generate, play, save
 
+
+
+
+ELEVEN_API_KEY = "755a30d09214587ea63d704c1eb42cb9"
 openai.api_key = os.getenv("OPENAI_API_KEY")
-weather_api_key = os.getenv("WEATHER_API_KEY")
-ELEVEN_API_KEY = os.getenv("ELEVEN_API_KEY")
+# weather_api_key = os.getenv("WEATHER_API_KEY")
+os.environ["OPENAI_API_KEY"] = "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"
 # # Initialize chat model
 chat_model = ChatOpenAI(model_name='gpt-3.5-turbo-16k')  # Make sure to set the API key as an environment variable
+# Set API keys
 
 class Podcast:
     def __init__(self, user_prompt, num_minutes, category):
@@ -115,8 +120,7 @@ class Podcast:
         #     file_names.append("./sound_effects/{}.wav".format(sound_effect_name))
         
 
-        # file_names = ["./sound_effects/fairytale.wav","./sound_effects/fairytale.wav"]
-        file_names = ["./sound_effects/original_transition.wav","./sound_effects/original_transition.wav"]
+        file_names = ["./sound_effects/fairytale.wav","./sound_effects/fairytale.wav"]
         concatenate_audio_moviepy(file_names, "./story_audio/{}".format(self.sound_file_name))
 
     def upload_wav_file_and_get_ID(self):
@@ -173,6 +177,24 @@ class Podcast:
             text += row + "\n"
         return text
 
+
+
+def concatenate_audio_moviepy(audio_clip_paths, output_path):
+        """Concatenates several audio files into one audio file using MoviePy
+        and save it to `output_path`. Note that extension (mp3, etc.) must be added to `output_path`"""
+        clips = [AudioFileClip(c) for c in audio_clip_paths]
+        final_clip = concatenate_audioclips(clips)
+        final_clip.write_audiofile(output_path)
+
+def ending(title):
+    # text = "You have listened to {} created by PodPerfect. If you liked this story, consider rateing it and share it through the app. Have a great day and I hope to hear from you soon!"
+    #audio = generate(text=response, voice="Adam", model="eleven_monolingual_v1", api_key=ELEVEN_API_KEY)
+    #save(audio, "story_audio/story_about_{}_in_{}_mins_{}.wav".format(user_prompt, num_minutes, i))
+
+    #file_names.append("story_audio/story_about_{}_in_{}_mins_{}.wav".format(user_prompt, num_minutes, i))
+    #file_names.append("sound_effects/original_transition.wav")
+    text = "You have listened to {} created by PodPerfect. If you liked this story, consider rateing it and share it through the app. Have a great day and I hope to hear from you soon!".format(title)
+    return text
 
 def gen_article_text(topic, env="prod"):
     article_titles = list()
@@ -248,12 +270,12 @@ def themes_and_sumamry(text):
   # print(podcast_transcript)
   return themes, theme_1 + theme_2 + theme_3
 
-def concatenate_audio_moviepy(audio_clip_paths, output_path):
-        """Concatenates several audio files into one audio file using MoviePy
-        and save it to `output_path`. Note that extension (mp3, etc.) must be added to `output_path`"""
-        clips = [AudioFileClip(c) for c in audio_clip_paths]
-        final_clip = concatenate_audioclips(clips)
-        final_clip.write_audiofile(output_path)
+# def concatenate_audio_moviepy(self, audio_clip_paths, output_path):
+#         """Concatenates several audio files into one audio file using MoviePy
+#         and save it to `output_path`. Note that extension (mp3, etc.) must be added to `output_path`"""
+#         clips = [AudioFileClip(c) for c in audio_clip_paths]
+#         final_clip = concatenate_audioclips(clips)
+#         final_clip.write_audiofile(output_path)
 
 def gen_intro(town, day, time, w_temp, w_desc, topic, themes):
     # Connect to OpenAI, prompt ChatGPT to summarize the text
@@ -313,114 +335,19 @@ def gen_doc_podcast(user_prompt, num_words):
     
     return text
 
-def gen_story_podcast(user_prompt, num_words):
-    # Save audiofile
-    # if not os.path.exists("story_audio"):
-    #     os.makedirs("story_audio")
-    prompt = "How many chapters are appropriate for a {} word long story? Return just the specified number".format(num_words)
-    response = chat_model.predict(prompt)
-    # Hårdkoda som lista istället <---- daniel
-    try:
-        chapters = int(response)
-    except:
-        if num_words < 1000:
-            chapters = 1
-        else:
-            chapters = int(num_words / 500)
-    print(chapters)
-    text = ""
-    prompt = "Create the outline/chapters for a {} word long story with {} chapters about {}. Specify how many words each section should have. Return your answer in the following format '*****Chapter 1, *****Chapter 2, *****Chapter 3'".format(num_words, chapters, user_prompt) 
-    print(prompt)
-    response = chat_model.predict(prompt)
-    print("----")
-    print(response)
 
-    prompt = "Summarise what the story is about: {}".format(response)
-    topic = chat_model.predict(prompt)
 
-    split_response = response.split('*****')
-    sections = []
-    for part in split_response:
-        if len(part) > 10:
-            sections.append(part)
-    
-    # chapter_length = int(num_words / len(sections))
-    chapter_length = int(num_words / chapters)
-    print(sections)
-    # file_names = []
-    summary = ""
-    for i in range(len(sections)):
-        print(i)
-        print(111111)
-        prompt = "You are writing a story about {} and now you are going to write about this chapter {}. This has happened so far in the story: '{}'. Use approximatly {} number of words in your output. Start with 'Chapter X: ' + the headline for this chapter".format(topic, sections[i], summary, chapter_length) 
-        print(prompt)
-        print(22222)
-        response = chat_model.predict(prompt)
-        print(response)
-        print('*****')
-        prompt = "Summarise: {}".format(response)
-        summary = chat_model.predict(prompt)
-        #audio = generate(text=response, voice="Adam", model="eleven_monolingual_v1", api_key=ELEVEN_API_KEY)
-        #save(audio, "story_audio/story_about_{}_in_{}_mins_{}.wav".format(user_prompt, num_minutes, i))
-        text += "\n" + response + "\n"
+
         
-        #file_names.append("story_audio/story_about_{}_in_{}_mins_{}.wav".format(user_prompt, num_minutes, i))
-        #file_names.append("sound_effects/original_transition.wav")
-    return text
+
+
 
 def generate_name():
     # Generate a unique ID
     unique_id = str(uuid.uuid4())
     return unique_id
 
-def upload_wav_file_and_get_ID():
-    print(777777)
-    gauth = GoogleAuth()
 
-    # Try to load saved client credentials
-    # gauth.LoadCredentialsFile("mycreds.txt")
-
-    if gauth.credentials is None:
-        # Authenticate if they're not there
-        gauth.GetFlow()
-        gauth.flow.params.update({'access_type': 'offline'})
-        gauth.flow.params.update({'approval_prompt': 'force'})
-        gauth.LocalWebserverAuth()
-    elif gauth.access_token_expired:
-        # Refresh them if expired
-        gauth.Refresh()
-    else:
-        # Initialize the saved creds
-        gauth.Authorize()
-
-    # Save the current credentials to a file
-    gauth.SaveCredentialsFile("mycreds.txt")  
-
-    drive = GoogleDrive(gauth)
-
-    title = generate_name() + ".mp3"
-    team_drive_id = '1WdeZhQ_vegXPMA-JeoM0pldAOKbCCVcx'
-    parent_folder_id = '1TtWk3uo0jTC0BR2CAlaH8DgcRtp0hDCb'
-    f = drive.CreateFile({
-        'title': title,
-        'parents': [{
-            'kind': 'drive#fileLink',
-            'teamDriveId': team_drive_id,
-            'id': parent_folder_id
-        }]
-    })
-    #f.SetContentFile("/Users/danielbouvin/Documents/KTH/År 5/DH2465/PodPerfect/TextTales-2.0/backend/sound_effects/test123.wav")
-    f.SetContentFile("./sound_effects/demo.mp3")
-    f.Upload(param={'supportsTeamDrives': True})
-
-    files = drive.ListFile({"q": "'" + parent_folder_id + "' in parents and mimeType!='application/vnd.google-apps.folder'"}).GetList()
-
-    name = ""
-    for file in files:
-        if file['title'] == title:
-            name = file['id']
-        
-    return name
         
 
 app = Flask(__name__)
@@ -433,31 +360,31 @@ def get_create():
     print(00000)
     
     # Argument fetched from url params
-    user_prompt = request.args.get('topic') # User input can be any string
-    num_minutes = request.args.get('min') # Time [0-5, 5-10, 10-15]
-    podcast_type = request.args.get("style") # style ["NEWS", "STORY"]
-    # num_words = int(num_minutes)*135
+    user_prompt = request.args.get('topic')
+    num_minutes = request.args.get('min')
+    prompt = "Can you create a documentary/news broadcast/podcast/fantasy story about this input? Respond only by returning 'YES' or explain why it does not work. Input = {}".format(user_prompt)
+    response = chat_model.predict(prompt)
+    if "YES" != response:
+        return print(response)
 
-    # Pausar detta för tillfället
-    # prompt = "Can you create a documentary/news broadcast/podcast/fantasy story about this input? Respond only by returning 'YES' or explain why it does not work. Input = {}".format(user_prompt)
-    # response = chat_model.predict(prompt)
-    # if "YES" != response:
-    #     return print(response)
+    prompt = "What category would you classify this input trying to create? Respond just by returning 'NEWS', 'STORY' or 'DOCUMENTARY' Input = {}".format(user_prompt)
+    category = chat_model.predict(prompt)
 
-    new_podcast = Podcast(user_prompt, num_minutes, podcast_type)
+    new_podcast = Podcast(user_prompt, num_minutes, category)
     
-    if podcast_type == "NEWS":
-        # Todo fix
+    if category == "NEWS":
         podcast_text = gen_news_podcast(new_podcast)
-    elif podcast_type == "STORY":
+    elif category == "DOCUMENTARY":
+        podcast_text = gen_doc_podcast(new_podcast)
+    else:
         new_podcast.gen_story_podcast()
         new_podcast.audiofy_story()
         new_podcast.upload_wav_file_and_get_ID()
-
+        
 
     data = {'text': new_podcast.list_to_text(), 'name': new_podcast.get_drive_name()}
     
     return jsonify(data)
     
 
-app.run(host='0.0.0.0', port=8080)
+app.run(host='0.0.0.0', port=3000)

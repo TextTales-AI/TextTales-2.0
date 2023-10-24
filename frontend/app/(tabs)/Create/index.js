@@ -22,44 +22,9 @@ const uri = Constants?.expoConfig?.hostUri
   ? Constants.expoConfig.hostUri.split(`:`).shift().concat(`:8080`)
   : `/create`;
 
-renderWithData = async (
-  t,
-  min,
-  setGenText,
-  setDriveName,
-  setUser,
-  demo = false
-) => {
+renderWithData = async (t, min, style, setGenText, setDriveName, setUser) => {
   console.log("----");
-  if (demo) {
-    // New
-    console.log("IN DEMO");
-    setUser(
-      "https://drive.google.com/uc?export=view&id=" +
-        "1TtWk3uo0jTC0BR2CAlaH8DgcRtp0hDCb"
-    );
-    return;
-
-    console.log("demo");
-    await Audio.setAudioModeAsync({
-      staysActiveInBackground: true,
-      interruptionModeAndroid: 1,
-      shouldDuckAndroid: false,
-      playThroughEarpieceAndroid: false,
-      allowsRecordingIOS: false,
-      interruptionModeIOS: 1,
-      playsInSilentModeIOS: true,
-    });
-    const { sound } = await Audio.Sound.createAsync(require("./demo.mp3"));
-    setSound(sound);
-    setDriveName("demo");
-    setGenText("demo demo demo");
-    console.log("yada");
-    return;
-  }
-
-  console.log("----");
-  fetch_url = "http://" + uri + `/create?topic=${t}&min=${min}`;
+  fetch_url = "http://" + uri + `/create?topic=${t}&min=${min}&style=${style}`;
   console.log(fetch_url);
   const response = await fetch(fetch_url);
   const res = await response.json();
@@ -69,7 +34,7 @@ renderWithData = async (
   // const { sound } = await Audio.Sound.createAsync({
   //   uri: "https://drive.google.com/uc?export=view&id=" + res["name"],
   // });
-  setUser("https://drive.google.com/uc?export=view&id=" + res["name"]) //"https://drive.google.com/uc?export=view&id=" + res["name"])
+  setUser("https://drive.google.com/uc?export=view&id=" + res["name"]); //"https://drive.google.com/uc?export=view&id=" + res["name"])
   // setSound(sound);
   // setDriveName(res["name"]);
   // setGenText(res["text"]);
@@ -80,6 +45,7 @@ export default function index() {
   const animation = useRef(null);
   const [topic, setTopic] = useState("");
   const [length, setLength] = useState(1);
+  const [style, setStyle] = useState("STORY");
   const [genText, setGenText] = useState("");
   const [driveName, setDriveName] = useState("");
   const { user, setUser } = useContext(UserContext);
@@ -143,10 +109,10 @@ export default function index() {
               renderWithData(
                 topic,
                 length,
+                style,
                 setGenText,
                 setDriveName,
-                setUser,
-                false
+                setUser
               );
             }}
             title="Create"

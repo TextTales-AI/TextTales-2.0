@@ -26,7 +26,7 @@ export default function MusicPlayerComponent() {
   const videoHeight = useSharedValue(100);
 
   const config = {
-    duration: 300,
+    duration: 500,
     easing: Easing.bezier(0.5, 0.01, 0, 1),
   };
 
@@ -49,7 +49,7 @@ export default function MusicPlayerComponent() {
       videoHeight.value = 100;
       // setVideoHeight(100);
     } else if (index === 1) {
-      videoHeight.value = 200;
+      videoHeight.value = 250;
       // setVideoHeight(200);
     }
   }, []);
@@ -132,7 +132,7 @@ const styles = StyleSheet.create({
   },
   box: {
     width: "100%",
-    height: 200,
+    height: 100,
     zIndex: 1000000,
   },
 });
