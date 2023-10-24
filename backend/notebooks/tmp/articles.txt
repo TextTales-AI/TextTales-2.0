@@ -1,34 +1,176 @@
-Microsoft completes $69b Activision Blizzard acquisition
+Did Microsoft Waste $69 Billion on Activision Blizzard?
 ********
-The final hurdle was approval from the UK's antitrust regulator, the Competition and Markets Authority (CMA), which acquiesced after Microsoft presented a revised deal. The CMA had blocked the o...
+After nearly two years of regulatory proceedings, Microsoft (MSFT 0.36%) finally completed the acquisition of leading game producer Activision Blizzard. The U.K. Competition and Markets Authority was the final holdout, but it granted approval of the deal in October.
+
+The $68.7 billion acquisition is one of the largest in Microsoft's history. In exchange, the Xbox business gains an infusion of $8.7 billion in revenue from best-selling titles, including Call of Duty, Diablo, Overwatch, and World of Warcraft, in addition to some valuable mobile franchises, such as King's Candy Crush.
+
+However, Microsoft didn't get everything it wanted. To get approval, it had to make some compromises. In July, Microsoft agreed to make one of the all-time best-selling franchises, Call of Duty, available to Sony and Nintendo's game consoles for 10 years.
+
+It also agreed to let Ubisoft Entertainment buy Activision's cloud gaming rights. This means all the cloud gaming rights for Activision's PC and console content produced over the next 15 years will be owned by Ubisoft.
+
+These compromises were needed to win the prize, but can Microsoft still reap enough growth out of Activision to justify the steep price tag?
+
+Microsoft is building a large base of players
+
+This won't be Microsoft's last acquisition of a video game company. Sony and Microsoft have been in an arms race to acquire studios in recent years to gain scale in the $200 billion video game industry. Microsoft previously paid $7.5 billion for Bethesda Softworks owner ZeniMax Media in 2020, so it's not surprising to see Microsoft swing for the fences with billions in cash resources.
+
+Still, given the size of this transaction, shareholders will want to see good returns on this investment, especially after Microsoft just spent most of the $111 billion in cash and short-term investments it spent the last 30 years accumulating on its balance sheet.
+
+Microsoft's gaming business just became one of the largest in the world. In fiscal 2023 (which ended in June), Microsoft's gaming revenue came to $15.5 billion, according to Statista estimates. Activision will add $8.7 billion to that total to bring Microsoft's gaming revenue to over $23 billion.
+
+Activision will also contribute roughly $2.4 billion of free cash flow. But that means Microsoft paid a high price-to-free cash flow multiple of 28, which is expensive considering Activision's growth.
+
+Over the last 10 years, Activision grew revenue by just 4.5% per year, with free cash flow growing 5.3% annually. Unless Microsoft can squeeze more growth out of this business, it might have overpaid.
+
+When Microsoft originally announced the deal in January 2022, it spent as much time talking about the opportunity to expand into mobile gaming -- a $92 billion market -- as it did about cloud gaming opportunities. Although it doesn't have exclusive cloud gaming rights to Activision's future content, it should be able to grow Xbox Game Pass, which had 25 million subscribers in early 2022.
+
+Game Pass has trailed Sony's 47 million subscribers in PS Plus, according to Statista. However, Microsoft now has a large pool of 356 million monthly active users to market new games and content to. This will satisfy one of Microsoft's top priorities, which is to build a community of players and increase the time players spend across a large portfolio of games. Those are the key ingredients that will create profitable growth opportunities in the video game industry.
+
+Another overlooked opportunity for Microsoft is access to the intellectual property Activision has released going back to the 1980s. Microsoft will look to mine Activision's library for titles it can revive, and perhaps turn into valuable mobile properties. One that stands out is Guitar Hero, which Xbox head Phil Spencer has previously said he wants to revisit. Activision discontinued this franchise years ago, but the advantage of being part of Microsoft is that Activision can now take risks it couldn't before.
+
+To answer the original question, no, I don't believe Microsoft wasted its cash. At least, it's too early to make that call. If Microsoft can help Activision release more new games at a faster pace and innovate with new ideas, the growth it could generate would go a long way toward justifying the cost of the acquisition. Depending on how much profit it can squeeze out of these franchises, this deal could look like a great value in a few years from now.
 ********
-Microsoft Successfully Completes Its Acquisition of Activision Blizzard
+Microsoft Now Owns Activision Blizzard: What It Means for Your Favorite Games
 ********
-UK authorities have granted their approval for Microsoft’s colossal USD 68.7 billion deal with Activision Blizzard, following the green light from the FTC in July. This decision marks a momentous turning point in the gaming industry. As it clears the path for Ubisoft to assume control of iconic titles such as Call of Duty. Consequently, Microsoft is emerging as a global gaming powerhouse.
+From Azeroth to Pandaria, from the Dry Steppes of Sanctuary all the way to Candy Kingdom, the world of Activision Blizzard just got even bigger.
 
-Microsoft Gaming’s CEO, Phil Spencer, a dedicated gamer himself, has expressed his admiration for the profound impact of Activision Blizzard and its subsidiary, King, on gaming and popular culture. Games like Call of Duty, World of Warcraft, and Candy Crush Saga have enraptured millions of players worldwide.
+If, like me, you've played the classic Blizzard games endlessly on PC, Microsoft has potentially game-changing (literally) news for you: You'll soon be able to access these classic games in more formats and places.
 
-Microsoft’s Historic Acquisition of Activision Blizzard is finally complete
+The biggest gaming news of the year came on Friday the 13th, when Microsoft's $69 billion acquisition of gaming studio Activision Blizzard finally closed, with the mammoth gaming studio joining the Xbox team along with popular franchises Call of Duty, Overwatch and World of Warcraft.
 
-Gizchina News of the week Join GizChina on Telegram
+"Today we begin a new chapter as we officially become a part of the Microsoft family, uniting with the amazing Xbox team and co-creating the future of gaming together," Activision Blizzard wrote on Oct. 13. "To the reapers, fighters, rogues, and airstrikers, The sharpshooters, revivers, healers, and bubble bursters, Sorcerers, shamans, slayers and survivors, thank you from the bottom of our hearts for playing with us."
 
-Ubisoft, a major player in the ever-evolving cloud gaming sphere, now possesses the perpetual cloud streaming rights for Call of Duty and other Activision Blizzard titles. This means that in the European Economic Area (EEA), which encompasses EU countries, gamers can freely stream these games.
+It was something of an epic quest just for Microsoft to get here in the first place. The acquisition, announced in January 2022, faced resistance across the world, with regulators in the US, the EU, the UK and New Zealand concerned that it would lead to a lack of competition in the gaming sector, as it would put Microsoft into the mix of the top three video game publishers in the world along with Tencent and Sony.
 
-Beyond the EEA, Ubisoft holds control over the cloud streaming rights, with the option to license them to Microsoft for Xbox Cloud Gaming. The likelihood of withholding these licenses is minimal, given that Microsoft is prepared to pay a wholesale fee for these rights.
+There's a lot that will happen because of this deal, both within Activision Blizzard and with the games it produces, the cloud-streaming subscription services that'll get access to those games and whether Sony and Nintendo benefit from this. I'm here to walk you through what we know, what we don't know yet and what we can wish for.
 
-As part of this groundbreaking deal, Activision Blizzard games will become part of Ubisoft Plus, the company’s game subscription service. While the exact timeline for full availability remains uncertain, this arrangement is set to last for 15 years. With perpetual licenses ensuring Ubisoft’s enduring control.
+Ready Player One (and two) on PS5 and Nintendo
 
-The gaming industry’s shift towards streaming is revolutionizing accessibility. With Ubisoft striving to make gaming as convenient as music and movie streaming. To summarize, Microsoft’s acquisition of Activision Blizzard, Ubisoft’s strides in cloud gaming. And the ever-evolving gaming landscape promise to enhance the convenience and accessibility of gaming for players worldwide.
+To get the acquisition through, Microsoft promised not to lock down Activision Blizzard games to its Xbox consoles. This suggestion of more cross-console compatibility also means lovers of the PC games from Blizzard may soon be able to play in other places.
 
-In a heartfelt email to employees, Activision Blizzard CEO Bobby Kotick commented:
+While I'm hopeful that StarCraft II will be making its way to the Nintendo Switch or PlayStation 5 so I can resume losing 2v2 battles online, it's mostly unknown exactly which games will be added to which consoles.
 
-Today signifies a monumental moment in our company’s storied history. Our union with Microsoft will provide fresh resources and new opportunities for our exceptional teams worldwide. It will empower us to deliver more fun, more joy, and more connections to a broader player base than ever before.
+We can rest assured, though, that Call of Duty will be staying on the PlayStation platform under a 10-year "binding agreement" between Microsoft and Sony as confirmed by Xbox boss Phil Spencer in July. Through a cloud gaming deal with Ubisoft, Activision games could also be coming to the PS5 through the Ubisoft Plus streaming service.
 
-This milestone is the culmination of your dedication and innovation over four decades.
+Microsoft had earlier reached a 10-year deal to bring the Call of Duty series to Nintendo consoles. It's unknown yet if any other games will be coming to the Switch.
 
-Chris Early, Ubisoft’s SVP of Strategic Partnerships & Business Development, added:
+There's also a 10-year deal to keep Call of Duty on Valve's Steam service, but questions remain on whether it'll come to the Steam Deck handheld console.
 
-Taking on these rights allows Ubisoft to introduce Activision Blizzard games like Call of Duty to Ubisoft Plus. And even grant streaming access licenses to cloud gaming companies, service providers, and console manufacturers. In doing so, we are broadening access to these games across various streaming platforms, benefiting more players than ever before.
+Activision Blizzard games on streaming services
+
+Another of Microsoft's big promises when pushing through the acquisition was that it would bring the games acquired to streaming services, negating the need for you to buy physical copies of the games in favor of just downloading them right onto your PC or console. There are already multiple ways this will happen.
+
+First, Xbox has started work on bringing Activision, Blizzard and King game franchises to Xbox Game Pass "and other platforms," with an update on the process expected in the months ahead.
+
+Second, Microsoft sold cloud streaming rights for Activision Blizzard games to Ubisoft in August as part of an agreement to get the acquisition approved by the UK regulatory authority, in an effort to bypass concerns over creating an anti-competitive gaming market.
+
+The deal with Ubisoft contains "perpetual cloud streaming rights for Call of Duty and all other current Activision Blizzard games and those released over the next 15 years," Ubisoft said on Oct.13. Ubisoft has the rights to license the games individually to third-party streaming providers as well.
+
+Third, Microsoft made a 10-year agreement with Nvidia earlier this year to allow continued access to Xbox games on the GeForce Now cloud gaming platform and to add in Activision Blizzard games once the acquisition was approved.
+
+Last, if you live in the European Economic Area, Microsoft is required to allow any cloud streaming service to license Activision games for free so players who own copies of those games can play for free.
+
+Read more: Here Are the Best Game Subscription Services
+
+A gamer's game changer
+
+It's not just the Blizzard worlds and Call of Duty mega franchise. Microsoft now also owns console darling Tony Hawk's Pro Skater, the King's Quest reboot on PC and mobile juggernaut Candy Crush Saga.
+
+Before now, Microsoft hasn't been much involved in the mobile gaming space, but Candy Crush, the third highest-grossing mobile game worldwide in 2023, changes that.
+
+And by acquiring Activision Blizzard's suite of PC games, Microsoft will become more competitive with the Epic Games Store and Valve's Steam, as it will have both the Microsoft Store and Blizzard.net. Games like World of Warcraft have a huge, loyal customer base -- the MMORPG is estimated to have 130 million subscribers and 1.2 million daily players this month -- that now transfers to Microsoft.
+
+Looking forward, as the studio no doubt has multiple games -- including an unnamed Survival game -- in the works, Microsoft likely has its own ideas of what it wants developed, expanded or scrapped.
+
+Judging by the games featured in a trailer announcing the acquisition's closure, Microsoft is especially interested in Call of Duty, World of Warcraft, Diablo, Crash Bandicoot, Candy Crush, Tony Hawk's Pro Skater and Spyro.
+
+IDC gaming analyst Lewis Ward told CNET he thinks it's unlikely Microsoft will change Activision Blizzard's roadmap right out of the gate, sticking with the studio's plans through 2024 at least. But he believes the exit of current CEO Bobby Kotick "will help lift a cloud from the Activision Blizzard brand."
+
+"The acquisition could even breathe new life into smaller games and older franchises like Crash Bandicoot, Hearthstone, Spyro and Tony Hawk's Pro Skater because they may fill a hole in the Game Pass lineup," Ward added.
+
+From a development perspective, the acquisition has the potential to prevent indie games from being made. It's likely Microsoft would focus its budget on pushing in-house content into its Game Pass service rather than giving smaller indie studios the budget to develop their own games for Xbox, Ward says.
+
+Expanding Game Pass may become a primary driver for whatever Microsoft decides to do next with the newly acquired games.
+
+"It's likely that larger undisclosed titles, especially if they are reboots or sequels, have been in the works and will continue to receive support and prioritization under Microsoft, especially if those games will bolster player adoption of Microsoft's Game Pass," a board member of the International Game Developers Association, who asked that we not use their name, told CNET.
+
+Changes to gaming culture
+
+Stepping back from the games themselves for a moment, let's hope that Microsoft has a positive impact across the workplace culture inside Activision Blizzard. The gaming studio has faced accusations of fostering a toxic "frat boy" atmosphere, in an ongoing lawsuit brought by the state of California (Activision has countersued). A labor union has filed a complaint over alleged intimidation.
+
+In 2021, Activision Blizzard agreed to pay $18 million to settle a lawsuit from the US Equal Employment Opportunity over allegations of sexual harassment, pregnancy discrimination and retaliation, with former CEO J. Allen Brack stepping down and more than 20 workers being fired.
+
+Microsoft's 2022 diversity report cites women as making up 30.7% of its workforce. Activision Blizzard's sits at 25% as of the end of 2022. While employee numbers are an indication of diversity efforts, they don't tell the whole story: The environment in which people work is also critical for making impactful, inclusive games in 2023 and ahead.
+
+When announcing the acquisition in January 2022, Microsoft CEO Satya Nadella discussed how he had shifted Microsoft's intensely competitive inner workings, and said Spencer would do the same within Activision Blizzard.
+
+"The culture of our organization is my No. 1 priority," Nadella said at the time. "We are supportive of the goals and the work Activision Blizzard is doing and we also recognize that after the close, we will have significant work to do in order to continue to build a culture where everyone can do their best work."
+
+Microsoft's Activision Blizzard roster of games
+
+For the record, here are all the Activision Blizzard gaming series now owned by Microsoft:
+
+PC and console games from Blizzard:
+
+Warcraft
+
+World of Warcraft
+
+Overwatch
+
+Hearthstone
+
+Diablo
+
+Heroes of the Storm
+
+StarCraft 2
+
+Console games from Activision:
+
+Call of Duty
+
+Tony Hawk's Pro Skater
+
+Crash Bandicoot
+
+Spyro
+
+Skylanders
+
+King's Quest
+
+Prototype
+
+Geometry Wars
+
+Mobile games from King:
+
+Candy Crush
+
+Pet Rescue
+
+Farm Heroes
+
+Rebel Riders
+
+Bubble Witch
+
+Diamond Diaries
+
+Pyramid Solitaire
+
+Blossom Blast
+
+The continued rise of Xbox
+
+Microsoft's various 10-year deals with competitors mean there will be no immediate impacts of the acquisition on Sony's PlayStation or in the Nintendo space. But over time, it's likely to benefit Microsoft in the console wars.
+
+"If you think about it, Sony's customers will now be paying Microsoft to play CoD and all those other franchises," IDC's Ward said. "It's just a huge sea change in terms of the flow of money, and potentially some customer-related information, moves around the gaming ecosystem."
+
+Activision Blizzard's exit from being an independent studio to become part of the Microsoft empire will have far-reaching consequences across all gaming platforms worldwide: mobile, PC, consoles and streaming.
+
+Whether our favorite games are rebooted, scrapped or greenlit, Microsoft now wields much greater power to decide how, where and what we play.
 ********
 Xbox chief says Activision Blizzard games aren’t coming to Xbox Game Pass until 2024
 ********
@@ -78,37 +220,61 @@ It will be an interesting time over the coming years to see how Microsoft capita
 
 For more Insider Gaming coverage, check out the news about Diablo IV’s Season 2 delay
 ********
-Did Microsoft Waste $69 Billion on Activision Blizzard?
+Microsoft spent two years trying to buy Santa Monica based Activision Blizzard. For Xbox CEO, that was the easy part
 ********
-After nearly two years of regulatory proceedings, Microsoft (MSFT -1.40%) finally completed the acquisition of leading game producer Activision Blizzard. The U.K. Competition and Markets Authority was the final holdout, but it granted approval of the deal in October.
+Listen to this post
 
-The $68.7 billion acquisition is one of the largest in Microsoft's history. In exchange, the Xbox business gains an infusion of $8.7 billion in revenue from best-selling titles, including Call of Duty, Diablo, Overwatch, and World of Warcraft, in addition to some valuable mobile franchises, such as King's Candy Crush.
+After two years co-piloting the biggest acquisition in video game history past an onslaught of challenges, Xbox CEO Phil Spencer now moves on to his next quest: making Microsoft’s takeover of Santa Monica’s Activision Blizzard worth the hassle.
 
-However, Microsoft didn't get everything it wanted. To get approval, it had to make some compromises. In July, Microsoft agreed to make one of the all-time best-selling franchises, Call of Duty, available to Sony and Nintendo's game consoles for 10 years.
+Microsoft, which owns the Xbox gaming system, closed its $69 billion deal to buy game-maker Activision Blizzard on Friday after fending off global opposition from antitrust regulators and rivals.
 
-It also agreed to let Ubisoft Entertainment buy Activision's cloud gaming rights. This means all the cloud gaming rights for Activision's PC and console content produced over the next 15 years will be owned by Ubisoft.
+It marks a career-defining moment for Spencer, who first joined Microsoft as an intern in 1988 and has helmed Xbox since 2014. After years of lagging behind rival Sony’s PlayStation, acquiring Activision’s collection of popular game titles gives Microsoft a rare chance to catch up.
 
-These compromises were needed to win the prize, but can Microsoft still reap enough growth out of Activision to justify the steep price tag?
+“His job really just starts today,” said analyst Gil Luria, technology strategist at D.A. Davidson, after the deal’s closure. “All he’s been doing is preparing for today where he actually gets to integrate the business.”
 
-Microsoft is building a large base of players
+And it marks the end of an era for Activision Blizzard CEO Bobby Kotick, who’s led the Southern California maker of Call of Duty and other blockbuster franchises since 1991 after helping to buy it from bankruptcy. Kotick said he’s assisting with the transition until the end of the year.
 
-This won't be Microsoft's last acquisition of a video game company. Sony and Microsoft have been in an arms race to acquire studios in recent years to gain scale in the $200 billion video game industry. Microsoft previously paid $7.5 billion for Bethesda Softworks owner ZeniMax Media in 2020, so it's not surprising to see Microsoft swing for the fences with billions in cash resources.
+Activision Blizzard was still reeling from worker protests, lawsuits and government investigations over allegations of workplace harassment against women and unequal pay when Microsoft privately reached out about buying the company in 2021.
 
-Still, given the size of this transaction, shareholders will want to see good returns on this investment, especially after Microsoft just spent most of the $111 billion in cash and short-term investments it spent the last 30 years accumulating on its balance sheet.
+When the companies announced a planned merger in January 2022, Microsoft CEO Satya Nadella made clear it would be “critical for Activision Blizzard to drive forward” on its commitments to improve its workplace culture.
 
-Microsoft's gaming business just became one of the largest in the world. In fiscal 2023 (which ended in June), Microsoft's gaming revenue came to $15.5 billion, according to Statista estimates. Activision will add $8.7 billion to that total to bring Microsoft's gaming revenue to over $23 billion.
+That was just the start of Microsoft’s challenges in bringing home the deal. After negotiations with Spencer faltered, top rival Sony brought its concerns about losing access to the Call of Duty franchise to regulators around the world. The strongest opposition came from U.S. antitrust enforcers emboldened by President Joe Biden’s administration to take a tougher look at big tech deals, as well as their counterparts in the United Kingdom who finally relented in approving the deal Friday only after Microsoft agreed to make concessions.
 
-Activision will also contribute roughly $2.4 billion of free cash flow. But that means Microsoft paid a high price-to-free cash flow multiple of 28, which is expensive considering Activision's growth.
+“Microsoft didn’t have a choice. If they wanted to be long-term competitive with Sony and the PlayStation platform, they need to have a much more robust content offering,” Luria said.
 
-Over the last 10 years, Activision grew revenue by just 4.5% per year, with free cash flow growing 5.3% annually. Unless Microsoft can squeeze more growth out of this business, it might have overpaid.
+But, “in retrospect, they should have read the writing on the wall in terms of the difficulty of closing the deal,” Luria said. “They needed to do the deal to stay competitive, but knowing what they know now, they might have done it differently.”
 
-When Microsoft originally announced the deal in January 2022, it spent as much time talking about the opportunity to expand into mobile gaming -- a $92 billion market -- as it did about cloud gaming opportunities. Although it doesn't have exclusive cloud gaming rights to Activision's future content, it should be able to grow Xbox Game Pass, which had 25 million subscribers in early 2022.
+A key moment came in June, when a federal judge weighed the U.S. Federal Trade Commission’s attempt to block the merger while it awaited further review. In an unusual move for a CEO that telegraphed the deal’s importance, Spencer spent the better part of two weeks at the defendant table of a San Francisco courtroom conferring with Microsoft’s lawyers. The judge eventually dismissed the FTC’s request, though the agency is still seeking to unwind the deal.
 
-Game Pass has trailed Sony's 47 million subscribers in PS Plus, according to Statista. However, Microsoft now has a large pool of 356 million monthly active users to market new games and content to. This will satisfy one of Microsoft's top priorities, which is to build a community of players and increase the time players spend across a large portfolio of games. Those are the key ingredients that will create profitable growth opportunities in the video game industry.
+Microsoft’s success in integrating Activision’s business is “not guaranteed, especially as its track record with acquisitions has been a mixed bag,” said George Jijiashvili, senior principal analyst at research and advisory firm Omdia. Last year, Microsoft spent $7.5 billion to acquire ZeniMax Media, the parent company of video game publisher Bethesda Softworks, maker of Elder Scrolls and Fallout.
 
-Another overlooked opportunity for Microsoft is access to the intellectual property Activision has released going back to the 1980s. Microsoft will look to mine Activision's library for titles it can revive, and perhaps turn into valuable mobile properties. One that stands out is Guitar Hero, which Xbox head Phil Spencer has previously said he wants to revisit. Activision discontinued this franchise years ago, but the advantage of being part of Microsoft is that Activision can now take risks it couldn't before.
+Microsoft’s two key game launches this year from its Bethesda merger, Redfall and Starfield, have “been met with mixed reactions at best,” Jijiashvili said. “However, with globally popular game franchises such as Call of Duty now under its wing, the company is strategically much better positioned.”
 
-To answer the original question, no, I don't believe Microsoft wasted its cash. At least, it's too early to make that call. If Microsoft can help Activision release more new games at a faster pace and innovate with new ideas, the growth it could generate would go a long way toward justifying the cost of the acquisition. Depending on how much profit it can squeeze out of these franchises, this deal could look like a great value in a few years from now.
+Another challenge for Microsoft will be overcoming the workforce challenges that dogged Activision before the takeover.
+
+As of late last year, Activision Blizzard had 13,000 employees, about 72% in North America, according to a regulatory filing. Microsoft has already pledged it will stay neutral if the nearly 10,000 workers in the U.S. and Canada seek to organize into a labor union, part of a 2022 agreement with the Communications Workers of America meant to address U.S. political concerns about the merger’s effects.
+
+“It is a new day for workers at Activision Blizzard,” said CWA President Claude Cummings Jr. in a statement Friday.
+
+“Over two years ago, workers at Activision Blizzard’s studios captured the country’s attention through walkouts and other protests over discrimination, sexual harassment, pay inequity, and other issues they were facing on the job,” Cummings Jr. said. “Their efforts to form unions were met with illegal retaliation and attempts to delay and block union elections. Now these workers are free to join our union through a fair process, without interference from management.”
+
+In a Friday welcome email to Activision employees, Spencer said he wanted to “reiterate that we hold ourselves to a high bar in delivering the most inclusive and welcoming experiences for players, creators, and employees.”
+
+MATT O’BRIEN, AP Technology Writer
+********
+Microsoft to begin “doubling down” on games following acquisition of Activision, CEO says
+********
+Following the acquisition of Activision Blizzard, Microsoft’s CEO, Satya Nadella, has revealed that the company is “looking forward to really doubling down both as a game producer and a publisher”.
+
+In an interview with Axel Springer (via Insider) , Nadella was asked about the importance of the deal being approved, and he spoke about the company being able to make a “real contribution” to consumer markets.
+
+“When I think about Microsoft, I think of perhaps developer tools, proprietary software, and gaming. Those are three things that we've done from the very beginning,” Nadella explained. “And so, to us, gaming is the one place where we think we have a real contribution to make in consumer markets.
+
+“If I look at it, the amount of time people allocate to gaming is going up and Gen Z is going to do more of that. The way games are made, the way the games are delivered, is changing radically. Whether it's mobile, or consoles, or PCs, or even the cloud,” he continued. “So, we're looking forward to really doubling down both as a game producer and a publisher. Now we'll be one of the largest game publishers and also as a company that's building platforms for it.”
+
+Microsoft’s acquisition of Activision was officially closed earlier this month , following the UK regulator, the Competition and Markets Authority, giving its approval to an amended version of the deal. It blocked the original deal over concerns that it could harm competition in cloud gaming in the UK, but Microsoft addressed this by stating that it will sell the cloud streaming rights for current and new Activision games (releasing across the next 15 years) to Ubisoft.
+
+In a statement released when the deal was closed, Xbox boss Phil Spencer said: "Today we start the work to bring beloved Activision, Blizzard, and King franchises to Game Pass and other platforms. We’ll share more about when you can expect to play in the coming months. We know you’re excited – and we are too."
 ********
 After blockbuster Microsoft deal, gaming giants are still sitting on $45 billion cash hoard
 ********
@@ -143,86 +309,6 @@ Still, Konvoy's Chapman anticipates the picture for gaming VCs and startups will
 Tougher times
 
 Video game publishers have been grappling with a deterioration of macroeconomic conditions, with high inflation and rising interest rates denting consumer appetite for discretionary spending. Whereas in 2020, when consumers were flush with cash thanks to easy monetary conditions, times have gotten tougher in 2022 and 2023 as central bankers have increased interest rates in a bid to stem rising prices. Still, the video game player base continues to increase, with a worldwide player base of 3.381 million today, according to Konvoy. The video game market is still massive, and is projected to reach $188 billion in overall sales in 2023, according to Konvoy. That figure is up a modest 3% from the previous year, when gaming sales totaled $183 billion. But growth has accelerated slightly from 2022, when gaming sales rose only 2%. That came after the standout year of 2021. Gaming revenue reached $180 billion that year, climbing more than 8% from $166 billion in 2020 I assume, according to Konvoy's research. In 2020, the industry saw even bigger growth — more than 9% year over year. That was when pandemic lockdowns were in full swing, and people had more time to spend playing video games indoors. Konvoy is projecting long-term growth for the games industry in the coming years, though. The firm said that it expects a compound annual growth rate of 9% in the next five years, with the industry reaching a whopping $288 billion in overall sales by 2028. WATCH: Bandai Namco Entertainment discusses the success of 'Elden Ring'
-********
-Xbox CEO explains why Activision Blizzard Games aren't on Game Pass yet
-********
-Update October 18, 2023 at 8 AM ET: Xbox's Phil Spencer clarified in an interview that Microsoft isn't expecting to begin ABK game integrations until 2024 for Xbox Game Pass.
-
-After 19 months of court cases, talks with regulators, and legal battles, Microsoft finally purchased Activision Blizzard. The deal, worth $69 billion, has been the talk of the tech world and the gaming industry since the acquisition was first announced in January 2022. Now that it's done, the discussion shifts to how soon the library of games from Activision Blizzard will make its way to Game Pass.
-
-Statements from Activision Blizzard and precedent set by Microsoft's past gaming acquisitions give us some idea of when ABK titles will be added to Game Pass, but we still don't know a lot. Even comments from Phil Spencer, CEO Microsoft Gaming, only shed a bit of light on the company's plans.
-
-How Activision Blizzard compares to Microsoft buying Bethesda
-
-(Image credit: Bethesda Softworks LLC)
-
-Activision Blizzard is the largest acquisition Microsoft has ever made, but it's far from the only purchase. Microsoft bought Bethesda in March 2021. Less than one week after that deal, 20 Bethesda titles were added to the Xbox Game Pass list. More games made their way to Microsoft's subscription service, including the complete mainline Fallout series in June 2022. Several classic Bethesda titles followed in August, including Quake 4.
-
-With Bethesda entirely in the fold, Starfield launched earlier this year. It earned high praise and was called "one of Microsoft's best exclusive games in over a decade" in our Starfield review.
-
-Microsoft will likely take a similar approach to the Activision Blizzard acquisition. Some titles will go to Game Pass sooner rather than later, while more will be added over time. Of course, some games may take much longer than others.
-
-How Activision Blizzard is different than past acquisitions
-
-(Image credit: Activision Publishing)
-
-Don't book off work yet, as you likely won't be able to get the biggest Activision Blizzard titles through Xbox Game Pass right away. In fact, you'll have to wait until at least 2024. Even then, titles will likely roll out gradually.
-
-With the largest acquisition in Microsoft's history comes many complicated steps the tech giant will have to take. Call of Duty is one of the largest gaming franchises, so it is expectedly connected to several licensing deals. Before the CMA approved Microsoft buying Activision Blizzard, the latter discussed its plans for Call of Duty.
-
-The gaming giant said it doesn't have immediate plans to offer Modern Warfare III or Diablo IV. Instead, Microsoft will likely look into adding premium games to Game Pass some time in 2024.
-
-It’s awesome to see anticipation building for Call of Duty®: Modern Warfare® III. As we continue to work toward regulatory approval of the Microsoft deal, we’ve been getting some questions whether our upcoming and recently launched games will be available via Game Pass. While we do not have plans to put Modern Warfare® III or Diablo IV into Game Pass this year, once the deal closes, we expect to start working with Xbox to bring our titles to more players around the world. And we anticipate that we would begin adding games into Game Pass sometime in the course of next year. @ATVI_AB on X (Twitter)
-
-Activision Blizzard was vague even when stating that premium ABK games will likely come to Game Pass in 2024. There are likely a lot of agreements in place and discussions to be had before you see the entire ABK library on Game Pass.
-
-Making sure Activision Blizzard doesn't hurt Game Pass
-
-As strange as it may sound, Microsoft has to ensure that adding Activision Blizzard games to its subscription service does not hurt Game Pass. Microsoft has deals with third-party developers that would likely be unhappy if a sudden drop of Call of Duty or another popular ABK title undercut their own title on Xbox Game Pass.
-
-Xbox Game Pass titles also get engagement bonuses, so Microsoft has to juggle things in that regard. If a sudden wave of Activision Blizzard titles dropped the engagement of games that are part of a deal with a third-party, that could affect that company's relationship with Microsoft and Xbox.
-
-There's a good chance that Microsoft will stagger the release of ABK games. Curating titles rather than dropping them all at once would allow the tech giant to direct people toward specific games and help ensure a smooth integration of Activision Blizzard into Xbox Game Pass and other forms of Game Pass.
-
-Why aren't Activision Blizzard games on Game Pass?
-
-(Image credit: Official Xbox Podcast)
-
-Spencer's comments echoed the sentiments of Activision Blizzards. The gaming executive also shared why Activision Blizzard games haven't been added to Game Pass yet.
-
-"The regulatory process took so long, and frankly there was a lot of uncertainty in that process... that we weren’t able to get in and work with [Activision Blizzard] on that back catalog work. Now that the deal is closed, we’re starting that work, but there is work," said Spencer during an episode of the Xbox podcast.
-
-"I think the Activision Twitter handle... did put out something that talked about 2024. I think that’s accurate. I would love it if there was some kind of secret celebration drop that’s coming in the next couple of weeks — there’s not."
-
-Spencer emphasized that if Microsoft had plans to add ABK games to Game Pass this year that he'd "be straight with people" and announce what was on the way.
-
-During that same podcast episode, Spencer said that while he doesn't plan to force studios to revive old IP, that he would be "all in" if a team wanted to bring back a franchise.
-
-A massive opportunity for Xbox and Activision Blizzard
-
-(Image credit: Blizzard Entertainment)
-
-Corden has an entire piece breaking down how the Activision Blizzard deal closing creates a massive opportunity for Microsoft and gaming. Xbox and PC Game Pass could skyrocket with the addition of Activision Blizzard titles. Cloud gaming and mobile gaming should get a considerable boost as well. You just may have to wait a bit for your favorite games to make their way to Xbox Game Pass.
-********
-Microsoft Launches $3.65 Billion Exchange for Activision Debt
-********
-(Bloomberg) -- Microsoft Corp. has kicked off an exchange offer for Activision Blizzard Inc.’s outstanding debt as part of its acquisition of the game and entertainment software company.
-
-Most Read from Bloomberg
-
-The world’s largest software maker will replace the Activision securities currently held by bondholders with up to $3.65 billion of new notes and a cash consideration, according to a statement.
-
-As part of the exchange offer, Activision will be soliciting consents from eligible bondholders “to adopt certain proposed amendments” to the existing bond that will get rid of certain covenants, restrictive provisions and events of default, according to the release.
-
-The early tender date for the offer is October 27, at which time bondholders would be eligible to receive the total exchange consideration. The last day for bondholders to submit tender offers is November 14. Both dates are able to be extended by the company.
-
-On Monday, Microsoft completed its $69 billion purchase of Activision after a nearly two-year fight with global regulators threatened to scuttle the deal. The transaction was able to close after Microsoft made alterations to its merger agreement to win over UK authorities.
-
-The US Federal Trade Commission, which lost an attempt to block the deal in court, continues to pursue legal action in its own administrative hearing. That could still force the two companies to unwind the merger if the commission is successful.
-
-Most Read from Bloomberg Businessweek
-
-©2023 Bloomberg L.P.
 ********
 Microsoft-Activision is a done deal – but what if the FTC still wins? Ask Whole Foods.
 ********
@@ -299,86 +385,6 @@ Reporting by Jenna Greene
 Our Standards: The Thomson Reuters Trust Principles.
 
 Opinions expressed are those of the author. They do not reflect the views of Reuters News, which, under the Trust Principles, is committed to integrity, independence, and freedom from bias.
-********
-Prices for Activision games in Argentina and Turkey soar by 2,300% and nearly 1,000% respectively
-********
-Just a few days after Microsoft completed its record-breaking acquisition of Activision Blizzard, regional prices for the company’s games on Steam have skyrocketed in Argentina and Turkey. The changes affected the Call of Duty franchise, as well as some classic titles.
-
-Based on SteamDB data, Activision updated prices for its games in several regions on October 16. Argentina and Turkey were the two countries affected the most by the changes.
-
-Below are the new prices for Call of Duty and other Activision titles in Argentine pesos and Turkish lira, and how they have changed compared to previous ones:
-
-Call of Duty: Modern Warfare (2007) / Modern Warfare 2 (2009) — ARS 8,000 (23x, +2,206%), ₺519.99 (10.6x, +961%);
-
-(2007) / (2009) — ARS 8,000 (23x, +2,206%), ₺519.99 (10.6x, +961%); Call of Duty: Black Ops II — ARS 24,000 (24x, +2,302%), ₺1,559.99 (9.5x, +851%);
-
-— ARS 24,000 (24x, +2,302%), ₺1,559.99 (9.5x, +851%); Call of Duty: Black Ops III — ARS 24,000 (24x, +2,302%), ₺1,559.99 (7.7x, +646%);
-
-— ARS 24,000 (24x, +2,302%), ₺1,559.99 (7.7x, +646%); Call of Duty: Black Ops Cold War — ARS 24,000 (2.6x, +166%), ₺1,559.99 (1.6x, +60%);
-
-— ARS 24,000 (2.6x, +166%), ₺1,559.99 (1.6x, +60%); Spyro Reignited Trilogy — ARS 16,000 (16x, +1,501%), ₺1,039.99 (6.3x, +533%);
-
-— ARS 16,000 (16x, +1,501%), ₺1,039.99 (6.3x, +533%); Crash Bandicoot N. Sane Trilogy — ARS 16,000 (23.5x, +2,256%), ₺1,039.99 (6.3x, +533%);
-
-— ARS 16,000 (23.5x, +2,256%), ₺1,039.99 (6.3x, +533%); Crash Bandicoot 4: It’s About Time — ARS 16,000 (4.6x, +361%), ₺1,039.99 (2.6x, +160%);
-
-— ARS 16,000 (4.6x, +361%), ₺1,039.99 (2.6x, +160%); Prototype — ARS 8,000 (23x, +2,206%), ₺519.99 (10.6x, +961%);
-
-— ARS 8,000 (23x, +2,206%), ₺519.99 (10.6x, +961%); Zeus + Poseidon — ARS 4,000 (23x, +2,207%), ₺259.99 (7.8x, +687.8%);
-
-— ARS 4,000 (23x, +2,207%), ₺259.99 (7.8x, +687.8%); Geometry Wars 3: Dimensions Evolved — ARS 6,000 (23x, +2,207%), ₺390.99 (10x, +902.5%);
-
-— ARS 6,000 (23x, +2,207%), ₺390.99 (10x, +902.5%); TimeShift — ARS 8,000 (23x, +2,207%), ₺519.99 (13x, +1,233%);
-
-— ARS 8,000 (23x, +2,207%), ₺519.99 (13x, +1,233%); King’s Quest Collection — ARS 8,000 (23x, +2,207%), ₺519.99 (7.8x, +687%);
-
-— ARS 8,000 (23x, +2,207%), ₺519.99 (7.8x, +687%); Caesar 3 — ARS 2,400 (23x, +2,209%), ₺155.99 (7.7x, +679%).
-
-Recent price increase for Call of Duty: Modern Warfare 2 in Argentina (via SteamDB)
-
-Interestingly, some titles have now become more expensive in Argentina compared to the US dollar. For example, converting Call of Duty: Black Ops II’s new regional price of ARS 24,000 results in $68.56 (vs. the US price of $59.99), Crash Bandicoot N. Sane Trilogy now costs $45.71 (vs. the US price of $39.99), etc.
-
-As reported by The Gamer, prices for Activision games also increased in Brazil — e.g. Call of Duty: Black Ops II went up nearly 150%. Upon further examination of SteamDB, it turned out that the changes affected regions such as Kazakhstan, South Korea, Ukraine, Indonesia, Philippines, and Uruguay. But the hikes were not as dramatic compared to Argentina and Turkey.
-
-It is unclear whether this has anything to do with the closing of Microsoft’s $68.7 billion acquisition of Activision Blizzard, as the Call of Duty maker could have planned the increase ahead. But this move is in line with the ongoing trend of big publishers phasing out cheap regional prices due to fluctuations in some currencies against the US dollar. This is also part of the fight against players switching their Steam regions to buy cheaper games in Latin America, Turkey, or Kazakhstan.
-
-Last year, Valve updated recommended regional prices, with Turkey and Argetina seeing hikes of more than 450%. This led to many publishers increasing the prices for their products, especially in regions where they were historically cheap.
-
-Video games, however, are not the only thing getting more expensive for customers in certain countries. For example, Sony last month increased PS Plus prices in Turkey by nearly 500%, while prices in the US, UK, and Japan went up 20-30%.
-********
-2 Green Flags for Microsoft's Future
-********
-Microsoft (MSFT -1.40%) has been a company to watch this year after becoming one of the biggest names in artificial intelligence (AI) and completing its purchase of game developer Activision Blizzard. The tech giant is on a promising growth trajectory as it expands in multiple areas of tech and could have a lot to offer investors over the long term.
-
-Only a decade ago, Microsoft appeared to be fading from relevancy, losing ground to the likes of Apple and Alphabet. However, current CEO Satya Nadella has pulled off an impressive turnaround since taking on the position in 2014. The company has rebuilt itself and could prove unstoppable in the coming years.
-
-So, here are two green flags for Microsoft's future.
-
-1. Arguably the most influential company in artificial intelligence
-
-In 2023, Microsoft has emerged as a major player in AI. The company's over $10 billion investment in ChatGPT developer OpenAI has granted it a 49% stake in the start-up. The partnership gave Microsoft a head start in the industry, coming out ahead of cloud rivals Amazon and Alphabet.
-
-Microsoft has hastily integrated OpenAI's technology across its software lineup, including updates to its cloud platform Azure, Office productivity suite, Bing, and more. OpenAI CEO Sam Alterman told The Information last week that the company is generating revenue at a pace of more than $1 billion a year. OpenAI's revenue in 2022 totalted $28 million. However, the start-up's AI technology and the potency of Microsoft's productivity brands could prove a killer combination.
-
-Alongside attracting customers to its AI services on Azure, Microsoft is monetizing its AI expansion by adding new tools to other platforms.
-
-The company will soon launch Copilot, an AI assistant for Microsoft 365 users that will debut as a $30 add-on to a regular 365 subscription. Copilot could be the start of a lucrative future for the company as it expands its AI offerings.
-
-Data from Grand View Research shows the AI market was valued at $137 billion in 2022 and is projected to expand at a compound annual growth rate of 37% through 2030. Meanwhile, with its cloud services and various productivity platforms, Microsoft is well positioned to become the go-to for the millions of businesses and consumers looking to add AI to their daily workflows.
-
-The popularity of Microsoft's products has made it one of the most influential companies in AI, and you won't want to miss out on its future in the sector.
-
-2. Completing the biggest video game deal in history
-
-In January 2022, Microsoft announced plans to acquire Activision Blizzard in a deal worth a record $69 billion. The purchase has been held up by antitrust concerns, with regulators worldwide performing checks on whether it would grant Microsoft too much control of the market. However, the deal officially went through last week when U.K. regulators gave their approval after some revisions to the acquisition.
-
-Activision Blizzard is home to some of the world's most profitable game franchises, including Call of Duty, World of Warcraft, Candy Crush, and more. The valuable library of titles will be an asset in expanding Microsoft's Xbox brand and Game Pass service.
-
-Game Pass is a subscription-based platform, often described as a Netflix for games, which has proven useful in attracting new users to the company's consoles and services. Xbox Game Pass has rapidly grown since its launch in 2017, with subscribers increasing by 150% between 2020 and 2022.
-
-When purchasing a console, consumers have long faced the question of whether to buy Sony's PlayStation or an Xbox. However, Xbox Game Pass has strengthened the argument for Microsoft's console, increasing the value of an Xbox as users can pay a monthly fee for access to a large library of games rather than paying for titles individually. Introducing Activision's games to Game Pass will only make Xbox consoles and services more attractive to shoppers.
-
-Microsoft's annual revenue has risen 68% over the last five years, with operating income up 106%. However, there's no telling how far those figures could climb over the next five years as it continues to expand in AI and video games. Microsoft has massive potential over the long term, making its stock a screaming buy right now.
 ********
 40 studios to rule them all: inside Microsoft Gaming divisions post-Activision Blizzard deal
 ********
@@ -800,125 +806,85 @@ Candy Crush Saga
 
 Other Microsoft Gaming subsidiaries worth mentioning
 ********
-Microsoft Stock Earnings Preview: Can MSFT Beat Estimates?
+Kotick to Depart Activision Blizzard
 ********
-Microsoft has exceeded EPS estimates four quarters in a row. Will it be five?
+Activision Blizzard Inc. said its long-serving chief executive, Bobby Kotick, will step down following the recent closure of its merger with Microsoft Inc.
 
-Microsoft will report quarterly earnings on October 24 after the stock market closes at 3:05 p.m. Central Time.
+Kotick has been at Activision Blizzard’s helm since its very beginning in 2008. He previously served as chief executive of video game publisher Activision Inc. from 1991 to 2008.
 
-The tech giant is expected to post EPS of $2.65 on $54.54 billion in revenue.
+During that time, Activision was brought back from near bankruptcy and acquired a series of development studios. Kotick then played a crucial role in the organization and execution of a merger with the gaming division of French entertainment company Vivendi SE, including its subsidiary Blizzard Entertainment Inc. The merger closed in 2008, creating Activision Blizzard Inc., with Kotick in charge.
 
-Microsoft has exceeded EPS estimates four quarters in a row.
+Since then, the Santa Monica-based company has become one of the largest and most profitable video game companies in the world, boasting iconic franchises including “Call of Duty” and “Overwatch.” The company was acquired by Microsoft this month after more than a year and a half of pushback from regulators including the Federal Trade Commission and the United Kingdom’s Competition and Markets Authority. The deal, worth a reported $68.7 billion, closed on Oct. 13.
 
-The Activision-Blizzard acquisition has finally closed, securing Microsoft's big gaming and VR investment.
+“Combining with Microsoft will bring new resources and new opportunities to our extraordinary teams worldwide,” Kotick said in a note to employees. “It will also enable us to deliver more fun, more joy and more connection to more players than ever before.”
 
-Microsoft (MSFT) stock has had a great 2023 so far, opening the year at $243.08 and sitting well above that mark at a current price of $327.
+Kotick is the co-chairman of the Call of Duty Endowment, a nonprofit that he co-founded with Brian Kelly, the chairman of Activision Blizzard. The endowment funds organizations that help veterans find “high-quality careers” after leaving military service and promotes awareness of the value veterans bring to the workplace.
 
-The stock is already up 35% on the year, and we've yet to approach the holiday season where new bonus money tends to hit the stock market—we'll see if the recent market selloff will scare investors away or entice them to invest in big-name tech stocks like Microsoft.
+In the fall of 2021, about 1,000 Activision Blizzard employees signed a petition asking for Kotick to be removed from the company. The company previously settled cases with the Securities and Exchanges Commission and the Equal Employment Opportunity Commission, which alleged, respectively, that Activision failed to maintain disclosure controls and procedures and that it “subject(ed) employees to sexual harassment, pregnancy discrimination and retaliation.” As part of the EEOC settlement, Activision created an $18 million fund for eligible claimants who claimed they experienced such conditions during their employment at Activision. The company has also expanded both its Ethics and Compliance team and its Ethics Ambassador Program.
 
-The stock price has a +-$14.68 expected move through next week based on current implied volatility, which encompasses the upcoming earnings announcement. The stock has a +-$28.04 expected move through the December monthly options cycle, which means this earnings week accounts for about half of the expected movement through nearly the rest of the year.
+“Brian and I couldn’t be more excited for the next chapter for Activision Blizzard,” Kotick said. “We now join one of the most successful global companies, poised for unprecedented opportunities to connect the world through our games. As a part of Microsoft, we will be even better, together.”
 
-Bullish on Microsoft Earnings
-
-Microsoft finally closed its $69 billion gaming deal with Activision-Blizzard (ATVI) which is the biggest gaming deal we've seen yet. It also bolstered its artificial intelligence efforts, which sets the company up for a nice positive narrative on this quarterly earnings call.
-
-Microsoft beat earnings-per-share (EPS) estimates four quarters in a row, and revenue estimates 75% of the time during the same period. I don't see much of a negative sentiment with Microsoft earnings this time around with so much positive news, but we'll see what the market says on Tuesday.
-
-Bearish on Microsoft Earnings
-
-Observers have lofty expectations of a strong forecast during Microsoft's earnings call this quarter, and this shouldn't surprise anyone after the massive acquisition of Activision-Blizzard. With grand expectations come an easier path to disappointment though. If future guidance is weak and the tech giant fails to beat EPS and/or revenue expectations—or any other negative surprise becomes known—we could see this popular tech stock fall in value after the earnings announcement in this bleak stock market we've seen recently.
-
-Tune in on Tuesday, Oct. 24 at 11 a.m. Central Time for a full earnings strategy breakdown on Options Trading Concepts Live before the company's announcement.
-
-Mike Butler, tastylive director of market intelligence, has been in the markets and trading for a decade. He appears on Options Trading Concepts Live, airing Monday-Friday. @tradermikeyb
-
-For live daily programming, market news and commentary, visit tastylive or the YouTube channels tastylive (for options traders), and tastyliveTrending for stocks, futures, forex & macro.
-
-Trade with a better broker, open a tastytrade account today. tastylive, Inc. and tastytrade, Inc. are separate but affiliated companies.
+According to a 2022 proxy filing, Kotick is entitled to a $14.4 million payment if he departs Activision Blizzard due to a change of company control, a clause that was in his contract before the Microsoft deal began.
 ********
-Spyro 4 finally on the horizon, but may now be Xbox exclusive
+Xbox Partner Preview showcase announced for Wednesday
 ********
-The Spyro series is one of the most popular OG PlayStation games in history alongside its fellow platforming icon, Crash Bandicoot.
+Xbox Partner Preview showcase announced for Wednesday The livestream will feature Alan Wake 2, Like a Dragon: Infinite Wealth, and ARK: Survival Ascended.
 
-Advert 10
+The season of gaming news events has come and gone, but the major players still have a couple of surprises up their sleeves before 2023 officially comes to a close. Xbox is hot off the acquisition of Activision Blizzard and will look to keep the momentum rolling with an Xbox Partner Preview showcase this week, highlighting upcoming games from third-party developers.
 
-From 1998 to 2000, the Spyro series was published by Sony Interactive Entertainment, which was later passed around by companies before Activision acquired the licence in 2008. Spyro would become a successful franchise on multiple platforms including PC, Nintendo, and Xbox as well as on the PlayStation brand.
-
-Check out the Spyro Reignited Trilogy trailer below!
-
-Loading…
-
-Advert 10
-
-The most recent release in the series was Spyro Reignited Trilogy in 2018 on PS4 and Xbox One before making its way to PC and Nintendo Switch. This collection of glorious classics included remasters of the original three games that were released on PS1. There were rumours of a Spyro 4 circulating earlier this month, but as of yet, nothing has materialised.
-
-Earlier this week the biggest saga in recent video game history came to an end after Microsoft finally acquired Activision Blizzard in a deal worth $68.7 billion. As a result of this goliath takeover, it means that franchises such as Call of Duty, World of Warcraft, Overwatch, Crash Bandicoot and of course, Spyro became first-party Xbox properties.
-
-We already know that Call of Duty will remain multiplatform following the takeover, at least for the foreseeable future, but what about the other Activision properties? Well, it seems that some may become Xbox console exclusives, which should come as no surprise.
-
-Advert 10
-
-Fans on Reddit have been discussing the future of the Spyro series with it potentially becoming an Xbox exclusive. “Spyro joins Xbox! Hopefully, this could push for having a new Spyro game in the future,” said Redditor LuxerWap kicking off the discussion on the thread.
+Microsoft announced the Xbox Partner Preview in a post to Xbox Wire. The event will take place on Wednesday, October 25, 2023. It’ll be streamed on Xbox’s YouTube and Twitch channels. This is the first installment in what is planned to be a series of livestreams that highlight games from developers outside of Microsoft’s massive stable.
 
 
 
+Source: Remedy Entertainment
 
+This new show format will deliver a fresh mix of indie games and familiar favorites from our third-party partners like Ryu Ga Gotoku Studio, Remedy Entertainment, Studio Wildcard, and others with more than 20 minutes of trailers and new gameplay footage.
 
-Advert 10
+While fans are undoubtedly hungry for details about what the future holds now that Microsoft’s acquisition of Activision Blizzard is complete, the company is telling folks not to get their hopes up. The announcement states that the “Xbox Partner Preview will not feature any additional news, game reveals, or Game Pass information related to the recent acquisition of Activision Blizzard King.”
 
-
-
-
-
-“Potentially great for Spyro maybe but not good for the industry as a whole and definitely not good for gamers :( I'm sad this acquisition got approved,” replied gamblingGenocider.
-
-“I'm not happy about this, I have no interest in owning an Xbox and I don't enjoy gaming on PC compared to my Switch or PS5,” exclaimed sunyoung-luna. “Yay, a new game..... oh wait! I won't get to play it because it'll be exclusive to Xbox!! No way I'm buying a brand new console for two IPs (Crash and Spyro),” said a downbeat Alternative-Pay6464.
-
-Advert 10
+With the first Xbox Partner Preview just two days away, it’ll be interesting to see how the format works and how Microsoft looks to implement it in the future. Be sure to bookmark our Xbox topic page as we’ll be reporting any news out of the showcase right here on Shacknews.
 ********
-Microsoft CEO Satya Nadella says he weighs 2 factors when considering making an acquisition
+Microsoft-Activision Takeover Emboldens Merger Arb Traders to Boost Their Bets
 ********
-Microsoft has made several big acquisitions in the past decade under CEO Satya Nadella. Axel Springer
+(Bloomberg) -- Traders who bet on corporate mergers and acquisitions are boosting their wagers on a slew of proposed deals, after successful trades on transactions like Microsoft Corp.’s purchase of Activision Blizzard Inc. have left them with more money to invest.
 
-Satya Nadella has orchestrated a slew of acquisitions at Microsoft since becoming CEO in 2014.
+Most Read from Bloomberg
 
-He laid out his criteria for possible acquisitions at Axel Springer's annual award ceremony Tuesday.
+Microsoft’s $69 billion purchase of the game developer, which closed on Friday, plus Amgen Inc.’s $28 billion acquisition of drugmaker Horizon Therapeutics Plc earlier this month have also left investors with more confidence that companies can overcome the objections of the Federal Trade Commission to many corporate combinations.
 
-His remarks come on the heels of Microsoft closing its $69 billion Activision Blizzard deal.
+The traders that wager on these deals, known as merger arbitrageurs, aren’t confident that every announced acquisition will happen, but are growing more hopeful about many.
 
-Satya Nadella has closed a number of deals for Microsoft in his tenure as CEO, and he says there are two key factors he considers when eyeing possible acquisitions.
+Take Seagen Inc, the biotech firm that said in March it had agreed to sell itself to Pfizer Inc for $43 billion. Its share price has risen more than 4% since September 21 to $215, compared with the $229 cash offer, getting an extra boost in the last few months from Amgen’s success. That leaves the gap between the two prices near its narrowest level yet. Another boon for merger arb traders was Seagen’s reporting positive results from a late-stage cancer drug candidate, supporting the company’s stock price even if the acquisition doesn’t go through.
 
-Nadella discussed his thought process for acquisitions while speaking at the Axel Springer Award ceremony in Berlin on Tuesday. Axel Springer is Insider's parent company.
+As traders plow more money into deals, they got a reminder on Tuesday of the potential risks. VMware Inc. which is going through regulatory reviews for its $69 billion takeover by Broadcom Inc., saw its shares fall as much as 12.1% after a report said Chinese regulators, one of the last remaining hurdles to the deal closing, could take longer to approve the transaction than previously expected. A spokesperson for VMware said the company continues to expect the deal to close on Oct. 30.
 
-"To me there are a couple of criteria," Nadella said. "First thing is, is this something that Microsoft can add real value to? If you take LinkedIn or GitHub or Activision or Mojang or what have you, they all have to make sense that Microsoft has some unique contribution that we can make both because of our technology, our brand, our go-to-market to the asset. Otherwise, why do it? And then of course at the end of the day, it has to make financial sense as well."
+Story continues
 
-After clearing hurdles with antitrust regulators, Microsoft has closed its $69 billion deal with Activision Blizzard, the video games publisher behind blockbusters like "Call of Duty" and "World of Warcraft." Microsoft also bought Minecraft creator Mojang Studios for $2.5 billion in November 2014.
+The difference between VMware’s share price and the value of Broadcom’s cash-and-stock offer, or the spread for deal, gapped out to more than $16 on Tuesday morning, from around $6 as of Monday’s close. Bill Gross, who has grown vocal about merger arbitrage strategy, said on Friday that the stock might have benefited from the cash freed up by the Activision purchase.
 
-Nadella has spoken before about the importance of gaming to Microsoft's future.
+Arbs are also looking at pending transactions further down the line, especially those likely to wrap up next year. Shale oil maker Pioneer Natural Resources Co, software developer Splunk Inc. and biotechnology supplier Abcam Plc are among their popular picks, according to an informal Bloomberg news survey of five specialists.
 
-"As a large company, I think it's critical to define the core, but it's important to make smart choices on other businesses in which we can have fundamental impact and success," he wrote in a memo to employees a few months after he became CEO in 2014. "The single biggest digital life category, measured in both time and money spent, in a mobile-first world is gaming."
+Between the Microsoft and Amgen transactions, and recent gains on Seagen shares, the second half of the year is generating strong returns for the merger arbitrage strategy, said Aaron Glick at TD Cowen. These gains come amid relatively light acquisition volume this year, giving arbs fairly limited situations to trade in, Glick said. Year-to-date value of deals announced in North America have fallen about 22% to $810 billion from a year ago, data compiled by Bloomberg show.
 
-With Nadella at the helm, Microsoft also bought professional networking site LinkedIn for $26.2 billion in 2016 and code hosting platform GitHub for $7.5 billion in 2018. Microsoft has also invested $13 billion into OpenAI, the developer of ChatGPT.
+Here’s a breakdown of other deals that are capturing traders’ attention:
 
-Read the original article on Business Insider
-********
-Microsoft CEO Satya Nadella promotes the company's AI push in its annual report for 2023
-********
-Microsoft has just released its annual financial report for its 2023 fiscal year As part of that report, its CEO Satya Nadella has written and published his annual letter to the company's shareholders. As expected, Nadella is continuing to push Microsoft's big bet with generative AI, which he feels "will fundamentally transform productivity for every individual, organization, and industry on earth."
+Exxon-Pioneer
 
-In his letter, Nadella stated:
+Exxon Mobil Corp. this month agreed to buy Pioneer Natural Resources Co. for $59.5 billion, the oil major’s largest takeover in more than two decades. While the deal is expected to close in the first half of 2024, a key question is whether it will face lengthy antitrust scrutiny. The Biden administration had toughened its review of oil and gas industry deals and asked FTC to investigate high gas prices. But the gap between Pioneer shares and the price Exxon’s paying, known as the spread excluding dividends, is just about $7 as of Monday’s close. That amounts to a difference of 2.7%, signaling investor optimism that the deal will be completed.
 
-This next generation of AI will reshape every software category and every business, including our own. Forty-eight years after its founding, Microsoft remains a consequential company because time and time again—from PC/Server, to Web/Internet, to Cloud/Mobile—we have adapted to technological paradigm shifts. Today, we are doing so once again, as we lead this new era.
+Cisco-Splunk
 
-In his lengthy letter, Nadella offers some examples of how Microsoft's AI products are already helping companies around the world. He cites the Latin American online marketplace company Mercado Libre which is using GitHub Copilot to help reduce the time its developers take to write code. He also mentions how the car maker Mercedes-Benz is testing the use of ChatGPT, powered by Microsoft's Azure OpenAI Service, so its in-car assistant is improved.
+Cisco Systems Inc. in September said it plans to buy Splunk in a deal valued at about $28 billion. It represents the networking giant’s biggest acquisition yet and a massive push into software and artificial intelligence-powered data analysis. Cisco CEO believed the transaction would close within nine to 12 months. Splunk’s shares were at $148.25 at Monday’s close, about 5.6% below the cash offer of $157, a relatively narrow spread implying that investors see a high probability of the transaction closing.
 
-Nadella says that the combination of natural language and a "new reasoning engine" have helped to launch this new AI era at Microsoft. He added:
+Danaher-Abcam
 
-Together, these two breakthroughs will unlock massive new opportunity. And, in fact, just last month we announced our vision for Copilot, an everyday AI companion. We are building Copilot into all our most used products and experiences and allowing people to summon its power as a standalone app as well. Just like you boot up an OS to access applications or use a browser to visit websites today, our belief is that you will invoke a Copilot to do all those activities and more: to shop, to code, to analyze, to learn, to create.
+Danaher Corp. said it’s buying Abcam, a maker of laboratory products including immune proteins used in drug discovery, for $5.7 billion in August. The deal is expected to close in mid-2024. One wrinkle is the company’s founder, Jonathan Milner, who’s been trying to persuade investors to reject the bid. He owns about a 6.2% stake. But top Abcam holder HBK Capital, which has amassed a 7.5% stake, has voiced support. Abcam’s shares rose 1.55% to close at $22.96 on Monday, about 4.3% below the $24 offer.
 
-The letter goes over the new products and services that Microsoft has introduced over the past year in its various departments. Of course, he also mentions, almost in passing, the recent acquisition of Activision Blizzard by Microsoft for nearly $69 billion, which is by far the biggest purchase in the company's history.
+(Updates with comment from VMware in fifth paragraph)
 
-One big thing Nadella failed to mention in his annual report is Microsoft's decision to lay off 10,000 of its employees in January 2023. Those layoffs are continuing at the company, as its LinkedIn subsidiary recently announced it would let go of 668 additional workers.
+Most Read from Bloomberg Businessweek
+
+©2023 Bloomberg L.P.
 ********
 Organizing Update
 ********
@@ -928,67 +894,27 @@ Last Friday, Microsoft completed its acquisition of Activision Blizzard, paving 
 
 “It is a new day for workers at Activision Blizzard,” said CWA President Claude Cummings Jr. “Over two years ago, workers at Activision Blizzard’s studios captured the country’s attention through walkouts and other protests over discrimination, sexual harassment, pay inequity, and other issues they were facing on the job. Their efforts to form unions were met with illegal retaliation and attempts to delay and block union elections. Now these workers are free to join our union through a fair process, without interference from management. Microsoft’s high-road approach should be the norm across the industry.”
 ********
-Microsoft is now a gaming juggernaut
+Poll: Which old Xbox IP would you like to see revived?
 ********
-Microsoft (MSFT) officially owns Activision Blizzard (ATVI), making it the third-largest gaming company in the world by revenue behind just Tencent and Sony (SONY). But the acquisition does more than boost Microsoft’s standing in the global gaming industry. It gives the company far greater access to the mobile gaming market, lines it up for revenue via mobile games advertising, and provides it with the opportunity to grow its Xbox Game Pass subscription service and Xbox Cloud Gaming streaming service.
+Xbox is now sitting on a dragon's hoard of IP, but which of their dormant franchises should they revisit first? We've got a few ideas, but what do you think?
 
-“It's certainly a seismic shift in how the money flows around the gaming ecosystem,” explained International Data Corporation (IDC) research director Lewis Ward. “It is the biggest acquisition in Microsoft's history. It is one of the biggest acquisitions in the tech market. It is … by anyone’s measure, a big sea change.”
+Which old Xbox IP would you like to see revived? Banjo Kazooie
 
-But don’t expect the company to start reaping the benefits of the $69-billion deal anytime soon. Microsoft still has a long way to go before it can begin to put its stamp on any of Activision Blizzard’s games like “Call of Duty” and longer still before its bet on cloud gaming pays off.
+Spyro the Dragon
 
-Microsoft is a major mobile player
+MechAssault
 
-Microsoft has never had much of a hand in the mobile gaming market. And while the console and PC markets are huge, bringing in $43 billion and $40 billion respectively in 2023, the mobile gaming market is even larger. According to a study by data.ai and IDC, the segment will bring in a whopping $103 billion this year alone.
+Tony Hawk's Pro Skater
 
-ADVERTISEMENT Advertisement
+Guitar Hero
 
-But with Activision Blizzard, Microsoft is now one of the biggest players in mobile gaming. Activision Blizzard’s “Candy Crush Saga” was the second-highest-grossing mobile game in the world in the first half of 2023 behind only Tencent’s “Honor of Kings.” And as of Q2 2023, Activision Blizzard’s King mobile division had an incredible 238 million monthly active users. That’s far more than Activision’s 92 million, despite that arm running “Call of Duty,” or Blizzard’s 26 million.
+StarCraft
 
-Blizzard gift cards are seen at the shop in Krakow, Poland, on July 17, 2023. (Jakub Porzycki/NurPhoto via Getty Images) (NurPhoto via Getty Images)
+Project Gotham Racing
 
-“The amount of revenue that 'Candy Crush' generates should not be underestimated,” said Forrester senior analyst Will McKeon-White. “Microsoft has also traditionally had a minimal ... mobile gaming presence. So this acquisition also significantly helps out with that.”
+Other (comment below) We've had 1 response. Log in or Register to vote
 
-That mobile presence also gives Microsoft a significant leg up in the mobile advertising space. After all, mobile games generate money via either in-game sales or ads, and “Candy Crush” does both.
-
-Subscriptions and cloud gaming are key
-
-Outside of mobile gaming, Activision Blizzard gives Microsoft the firepower it needs to exploit its Game Pass subscription service and nascent Xbox Cloud Gaming. Game Pass gives subscribers access to hundreds of games that they can download to their Xbox consoles or PCs for $16.99 per month. The service has been a key portion of Microsoft’s gaming strategy, with CEO Satya Nadella regularly calling out the service during the company’s earnings calls.
-
-In January, Nadella announced that the service had surpassed 120 million monthly active users. And with Activision Blizzard’s library of intellectual property, Microsoft can make Game Pass an even more appealing option for gamers, giving the company more firepower to drive subscriptions over time.
-
-Then there’s the cloud gaming aspect of the deal. Microsoft is the leader in cloud gaming, and has opened up the service to a slew of new devices including smart TVs and even Meta’s (META) Quest 3 AR/VR headset. But cloud gaming is still in its early stages. The quality of streams doesn’t always match up to what you’d get playing games on a console or PC, and high-speed internet still isn’t available in portions of the US, let alone globally.
-
-A general view of tradefairgoers is seen in front of the Xbox booth during the opening day of Gamescom at the Cologne Trade Fair Center in Cologne, Germany, on Aug. 23, 2023 (Ying Tang/NurPhoto via Getty Images). (NurPhoto via Getty Images)
-
-“In terms of cloud gaming, we're still in the active experimentation phase,” McKeon-White said. “And while the current results are much better than they were previously, it's still ... not the best possible experience for playing video games, if we’re completely honest.”
-
-It’s also important to note that cloud gaming is still a small portion of overall gaming revenue. But, eventually, the service could power Game Pass subscriptions.
-
-“I think it is a positive for cloudstream gaming,” Ward said. “I think that it will be one of the drivers of growth over time, but let's not kid ourselves. Right now, it's only like 2% or 3% of market revenue. It's a very small component of total market revenue.”
-
-Sign up for the Yahoo Finance Tech newsletter. (Yahoo Finance)
-
-But as Microsoft perfects the technology and high-speed internet continues to spread across the globe, Xbox Cloud Gaming will become a far more attractive and viable option for gamers in regions where consoles and PCs are too expensive due to taxes or import restrictions.
-
-Microsoft can take advantage of Activision Blizzard’s library
-
-There’s one other aspect to Microsoft’s acquisition that could prove beneficial over time, and that’s how the company could take advantage of older Activision Blizzard properties. There are a slew of titles, such as “Guitar Hero,” that the gaming giant hasn’t worked on in years, and with Microsoft’s backing, it could begin to dig those out of storage and breathe new life into them.
-
-What’s more, it gives Microsoft a boost to the number of first-party games it will release each year.
-
-“There's just a critical mass that they probably weren't at prior to the acquisition, and this pushes them over the top,” Wedbush analyst Michael Pachter told Yahoo Finance. “You suddenly go from maybe a half a game a year of new content under the old Microsoft to four, five, plus ‘World of Warcraft.’ ”
-
-Taken as a whole, the acquisition is a boon for Microsoft. Though it could take some time for it to begin to pay dividends. After all, with games already in development it will be a while before Microsoft has any real say in how Activision Blizzard develops new titles.
-
-There’s also the looming threat that the Federal Trade Commission (FTC) could break up the companies as part of its antitrust case against Microsoft. The FTC is moving forward with an in-house challenge to the deal and working on an appeal to a prior ruling against the commission’s effort to halt the move.
-
-Still, if everything pans out in Microsoft’s favor, acquiring Activision Blizzard could be a turning point for the company, and the gaming industry as a whole.
-
-Daniel Howley is the tech editor at Yahoo Finance. He's been covering the tech industry since 2011. You can follow him on Twitter @DanielHowley.
-
-Click here for the latest technology business news, reviews, and useful articles on tech and gadgets
-
-Read the latest financial and business news from Yahoo Finance
+Now that the whole Xbox buying Activision drama is over and the big green machine has successfully absorbed them into the fold, Microsoft find themselves as the custodians of an enormous library of dormant IPs that they could leverage.With the acquisition of Activision Blizzard, the mind races with possibilities of old franchises they could bring back. Perhaps it’s finally time for Spyro the Dragon to get a new game — Crash Bandicoot got one, it’s only fair. Maybe Phil Spencer can smooth over the bad blood with Tony Hawk and get the Pro Skater series back onto the development half pipe? And let’s not forget Blizzard, who are apparently using the legendary StarCraft series as a drinks coaster around the office. Let’s dust that one off too.But even before the Activision deal, Microsoft has been sitting on a dragon’s hoard of IP from their past that we’d love to see come back. Banjo Kazooie is begging for a modern interpretation, and big Phil Spencer has already said he’d love to see a MechAssault remake But what classic IPs do you want to see Microsoft revive? We’ve put some of our top picks below, but if we’ve missed your favourite out, let us know in the comments below.
 ********
 when Season of the Blood launches and Steam download news
 ********
@@ -1038,23 +964,11 @@ Unfortunately, because the game isn't available to pre-order on Steam, there is 
 
 Subscribe here for the latest news where you live
 ********
-Bobby Kotick Confirms he will be CEO of Activision Blizzard until the end of 2023
+New Dragon Ball Series, Best Buy To End Physical Media Sales & More
 ********
-Following the successful acquisition of Activision Blizzard by Microsoft, Bobby Kotick has confirmed that he will continue as CEO until the end of 2023. In a letter addressed to the employees of the company, Kotick expressed his commitment to aiding in the forthcoming transition period and frequently mentioned the Head of Microsoft’s Gaming Division, Phil Spencer.
+27:49
 
-Kotick initially served as CEO of Activision from February 1991 until July 2008. Subsequently, he assumed the role of CEO at Activision Blizzard, a move that followed the merger between Activision and Vivendi Games. Given his substantial ownership stake in the company and the completion of the acquisition, he is poised to receive a substantial financial windfall, potentially totaling hundreds of millions of dollars. Additionally, his contract includes provisions for a severance payment in the event of contract termination or if he decides to depart within the first year following the acquisition.
-
-Have you read?
-
-Sparck Technologies: a Leading Brand in Sustainable Packaging.
-
-How Big Brands Should Be Responsible for Recycling of Their Packaging.
-
-From Assistant to CEO: The Inspirational Journey of Pocketbook Agency’s Female Founders.
-
-From Boardrooms to Finish Lines: Running Coach Stewart Skloss Explains the Rise of Executives Embracing Competitive Running.
-
-Tim Horlick at Ayanda Capital: Balancing Business Success and Charitable Endeavors.
+Everything You Need To Know About The Massive Xbox Leak, Ancient Aliens, & More | IGN The Weekly Fix
 ********
 A 10-hour Diablo 4 trial is available for all Xbox players this weekend
 ********
@@ -1080,92 +994,156 @@ Activision Blizzard, which was acquired by Microsoft last week, has claimed that
 
 Xbox boss Phil Spencer said this week that players shouldn’t expect the company to start adding Activision Blizzard titles to Game Pass until 2024.
 ********
-News & Commentary: October 15, 2023 ✦ OnLabor
+Overwatch 2's Next Collaboration Is With K-Pop Group Le Sserafim
 ********
-In this weekend’s news and commentary, California’s healthcare workers will have a $25 minimum wage; Microsoft’s purchase of Activision Blizzard nears completion and could lead to unionization; a report highlights recent organizing efforts at abortion services providers; and NLRB releases data on the past year’s ULP charges and election petitions.
+Overwatch 2 is following Fortnite’s footsteps and holding its first-ever musical collaboration, this one with K-Pop group Le Sserafim.
 
-On Friday, California’s governor Gavin Newsom signed a bill that will increase the minimum wage for most healthcare workers to $25 per hour by 2026. Advocates for the bill had described it as a necessary measure to help address the state’s healthcare worker shortage. The bill was contentious in California’s legislature. Many Democrats worried that rural community hospitals facing a significantly higher minimum wage would either collapse or pass on higher costs to patients. Lawmakers compromised by implementing a staggered rollout period. Large hospitals will be required to pay $23 per hour starting next year and $25 by 2026, while small rural providers and providers serving high rates of Medicare and Medi-Cal patients will start at $18 per hour and will reach $25 in 2033. Other compromises in the bill included a provision blocking cities and counties from raising wages locally, and a provision blocking attempts to cap hospital executive pay.
+Blizzard announced the collaboration with the five-member girl group, whose name is an anagram for “I’m fearless,” in an official blog post published on Wednesday. The event will see new in-game content inspired by the rising K-pop band behind hits like “FEARLESS” and “ANTIFRAGILE.”
 
-Next, on Friday Microsoft acquired the video game production company Activision Blizzard. Microsoft’s $69-billion purchase was announced more than a year ago but had received significant scrutiny from antitrust regulators in the European Union, United Kingdom, and United States. The deal could have significant implications for unionization at Activision. Last year, after Microsoft announced the merger, the CWA and Microsoft entered into a labor neutrality agreement: the CWA supported the merger and Microsoft committed to take a neutral approach to unionization at Activision if the merger went through. The neutrality provision will go into effect 60 days after the company’s purchase closes. According to the CWA, covered employees will be able to communicate with each other and with union representatives “in a way that encourages information sharing and avoids business disruptions.” Activision workers have engaged in high-profile protests in the past several years to highlight discrimination, sexual harassment, and pay inequity.
+LE SSERAFIM x OVERWATCH 2 ✨
 
-As Bloomberg News reports, at least eight reproductive health-care groups have organized since last year’s Supreme Court decision in Dobbs. Data collected by Bloomberg suggests that there has been an increase in organizing at these providers since the Court announced Dobbs. For example, of the twelve Planned Parenthood locations that are unionized, four voted to do so since Dobbs, including one in California with nearly 300 employees. Bloomberg suggested some possible explanations for an increase in organizing. First, many of the newly organized providers are in states have seen influxes of patients coming from states with abortion restrictions. The number of abortions provided in California in the first half of this year had increased 17% compared to the same period in 2020. One worker suggested that clinic workers are feeling overworked and the increased demands may have encouraged them to organize. Second, the healthcare industry has been a source of significant labor activity in the past year. Workers across the health care industry have struggled with staffing shortages, overwork, and low pay. According to one clinician at a Planned Parenthood location, these challenges exist in the reproductive services industry as well, and “working in abortion care and reproductive and sexual health care there are unique stressors as well.”
 
-Finally, the NLRB released data about the past year that provides more evidence of increasing union activity. Bloomberg News analyzed the Board’s reported case data and reports that over 20,000 unfair labor practice charges were filed with the Board in the past year, a 10% jump from the previous year and the highest number of cases since 2016. Workers filed nearly 2,600 union representation petitions, the highest number since 2015. However, with its static staffing level, the Board has been unable to keep pace with the rise in incoming cases. Board Chair Lauren McFerran said that “additional resources are necessary to enable the board to expand staffing capacity and continue processing cases more efficiently.”
+
+? Oct 26 ’Perfect Night’ Music Video
+
+? Nov 1 Exclusive In-Game Event
+
+? Nov 4 BlizzCon Appearance
+
+
+
+Learn More: https://t.co/ujEgYWSx0U pic.twitter.com/qmrNrQEpxh — Overwatch (@PlayOverwatch) October 18, 2023
+
+Le Sserafim — comprised of members Kim Chaewon, Sakura, Huh Yunjin, Kazuha, and Hong Eunchae — will kick off their collaboration with Overwatch 2 with the release of their music video for their new single “Perfect Night,” which premieres October 26 at 9 p.m. PT. In the concept trailer for the music video, one of the members is seen wearing D.Va’s headphones. You can take a good guess who’s wearing them.
+
+Overwatch 2 is getting a new game mode inspired by LE SSEFAFIM
+
+On November 1, Overwatch 2 will launch a game mode inspired by Le Sserafim’s music alongside Legendary hero skins. Details on the mode and the skins will be revealed on October 30. Then the group will make an appearance at this year’s BlizzCon to perform “Perfect Night” and other songs.
+
+“We're extremely excited to be working with Le Sserafim for our game's first musical artist collaboration,” Overwatch general manager Walter Kong wrote in a press release. “Like the heroes of Overwatch, the Le Sserafim members are amazing as individuals, but unstoppable when they come together.”
+
+Le Sserafim is headed to Overwatch 2. Photo credit: Han Myung-Gu/WireImage
+
+Overwatch 2’s first collaboration with a music group, let alone a K-Pop group, comes on the heels of its first anniversary and Microsoft finalizing its $69 billion acquisition of its parent company Activision Blizzard, placing the franchise under new ownership. What better way to celebrate Overwatch moving into its new home and the sequel’s first birthday than an in-game and real world K-Pop concert?
+
+Cristina Alexander is a freelance writer for IGN. To paraphrase Calvin Harris, she wears her love for Sonic the Hedgehog on her sleeve like a big deal. Follow her on Twitter @SonicPrincess15.
 ********
-Xbox Mobile Store Reportedly Still Due In 2024
+World of Warcraft Classic's worst Hardcore class has been revealed, and it's bad news for the MMO's Hunters
 ********
-The Verge journalist Tom Warren made a guest appearance on the latest episode of the Iron Lords Podcast to discuss the aftermath of Microsoft's Xbox successful closure of the $68.7 billion merger with Activision Blizzard. Warren highlighted the importance of the mobile market in this deal, adding that Microsoft still aims to release an Xbox mobile store at some point next year.
+World of Warcraft Classic developer Blizzard has revealed the worst class to play as, and it's bad news for Hunters.
 
-For them, it's the control aspect of these games. Having them on Game Pass. I think a lot of this hasn't really been talked about because it's been overshadowed by the CMA stuff, the cloud stuff, is mobile. All that mobile stuff is huge.
+In a press release provided by the developer, Blizzard revealed what the unluckiest class is for UK players in its MMORPG. Among these stats, it was also revealed what the deadliest place to visit in World of Warcraft Classic is. Unfortunately, the statistics haven't been kind to the Hunter Class, revealing that it has the highest death percentage of any class - 41% of UK players who chose this class ended up meeting their permanent demise. "The Hunter is often seen as a safe class, but beware, as looks can be deceiving," Blizzard tells WoW players.
 
-I think obviously people who play on console and PC probably don't care as much, but mobile is making money, more money than consoles. That's going to be the key, I think.
+If you're trying to stay alive for as long as possible, it's probably a good idea to stay clear of Teldrassil, Undercity, and Stormwind as these locations - according to the UK-specific stats - caused the most deaths amongst players. Blizzard also revealed that the deadliest level for players (where they were defeated by the perils of Hardcore Realms) was at Level 6, with 10% of those not surviving past that level.
 
-It all ties in with Microsoft making an Xbox mobile store that could potentially launch next year, depending on some of the EU regulations that could open up the mobile stores. If all that stuff comes together, then having a good amount of mobile games that you're publishing is going to be super interesting.
-
-We've seen Apple introducing games like Resident Evil Village and stuff to the iPhone 15 Pro. We're on the cusp where mobile might become a lot more interesting and have native games there, not just cloud.
-
-It sounds like the Xbox mobile store is still on track for a 2024 launch. As you may recall, Microsoft Gaming CEO Phil Spencer had first announced it as a strong possibility upon closure of the Activision Blizzard deal:
-
-We want to be in a position to offer Xbox and content from both our third-party partners and us across any screen where somebody would want to play. Today, we can’t do that on mobile devices, but we want to build towards a world that we think will be coming where those devices are opened up. The Digital Markets Act that’s coming — those are the kinds of things that we are planning for. I think it’s a huge opportunity.
-
-Earlier, Spencer said Activision Blizzard King's mobile strength was a key factor in the acquisition as Microsoft had concluded that gaming's business would be untenable without a strong position in the ever-growing mobile market.
-
-Absolutely. In addition, the number that’s not in the Candy Crush/King number is Call of Duty: Mobile and Diablo mobile, which are big franchises that exist in that Activision and Blizzard bucket that are also major players on phones.
-
-Activision/Blizzard/King are now in a position where they have great PC franchises, great console franchises, and great mobile franchises. The real differentiation that they add for Microsoft is their mobile capability.
-
-Are you excited about the prospect of an Xbox mobile store coming up in 2024?
+Just in case you missed it, World of Warcraft actually now belongs to Xbox's parent company after the closure of the Microsoft Activision Blizzard acquisition . Close to two years after it was first announced, Microsoft revealed on October 13 that Activision, and its subsidiaries Blizzard and King, are now part of the Xbox family. Shortly after the announcement, we got a trailer for the acquisition which saw Activision Blizzard characters from Crash Bandicoot, Overwatch, and WoW making an appearance and declaring that "this is home now."
 ********
-Google Ads Begins Global Roll Out of Demand Gen; California Signs Delete Act
+Microsoft Stock Earnings Preview: Can MSFT Beat Estimates?
 ********
-In today's ExchangeWire news digest: Google Ads opens access to its new Demand Gen tool; California's governor signs the Delete Act, allowing citizens to ask brokers to delete their data; and Microsoft-Activision is approved in the UK.
+Microsoft has exceeded EPS estimates four quarters in a row. Will it be five?
 
-Google Ads begins roll out of Demand Gen
+Microsoft will report quarterly earnings on October 24 after the stock market closes at 3:05 p.m. Central Time.
 
-Google Ads has initiated a global roll out of its new AI-powered tool, Demand Gen. Described as the “next generation of Discovery campaigns”, the solution will allow advertisers on social media platforms to access new features, insights, and inventory to streamline the process of discovering and converting audiences.
+The tech giant is expected to post EPS of $2.65 on $54.54 billion in revenue.
 
-California signs Delete Act
+Microsoft has exceeded EPS estimates four quarters in a row.
 
-The governor of California has signed a bill which will give Californians more control over their data. Bill SB 362, also known as the Delete Act, will allow citizens in the US state to request that data brokers delete their personal information, preventing it from being sold to advertisers.
+The Activision-Blizzard acquisition has finally closed, securing Microsoft's big gaming and VR investment.
 
-Microsoft-Activision cleared in UK
+Microsoft (MSFT) stock has had a great 2023 so far, opening the year at $243.08 and sitting well above that mark at a current price of $327.
 
-The UK’s competition regulator has approved Microsoft’s USD$75bn (~£61.1bn) acquisition of gaming giant, Activision Blizzard. The Competition and Markets Authority initially blocked the deal, but finally gave the green light on Friday (13th October), following a substantial concession from the tech titan.
+The stock is already up 35% on the year, and we've yet to approach the holiday season where new bonus money tends to hit the stock market—we'll see if the recent market selloff will scare investors away or entice them to invest in big-name tech stocks like Microsoft.
 
-New on ExchangeWire
+The stock price has a +-$14.68 expected move through next week based on current implied volatility, which encompasses the upcoming earnings announcement. The stock has a +-$28.04 expected move through the December monthly options cycle, which means this earnings week accounts for about half of the expected movement through nearly the rest of the year.
 
-U of Digital's Shiv Gupta on Stopping Ad Fraud, Meta's Ad-Free Tier and the Microsoft Activision Deal
+Bullish on Microsoft Earnings
 
-The Revival of Contextual Advertising: Adapting to the Privacy-First Landscape
+Microsoft finally closed its $69 billion gaming deal with Activision-Blizzard (ATVI) which is the biggest gaming deal we've seen yet. It also bolstered its artificial intelligence efforts, which sets the company up for a nice positive narrative on this quarterly earnings call.
 
-Tech Trends Shaping the Future of Advertising
+Microsoft beat earnings-per-share (EPS) estimates four quarters in a row, and revenue estimates 75% of the time during the same period. I don't see much of a negative sentiment with Microsoft earnings this time around with so much positive news, but we'll see what the market says on Tuesday.
 
-PressBox Digest
+Bearish on Microsoft Earnings
 
-fifty-five Reveals Strategic Approach for Next-Gen MMM Transition
+Observers have lofty expectations of a strong forecast during Microsoft's earnings call this quarter, and this shouldn't surprise anyone after the massive acquisition of Activision-Blizzard. With grand expectations come an easier path to disappointment though. If future guidance is weak and the tech giant fails to beat EPS and/or revenue expectations—or any other negative surprise becomes known—we could see this popular tech stock fall in value after the earnings announcement in this bleak stock market we've seen recently.
 
-Yahoo Properties Worldwide are Now Available through Taboola
+Tune in on Tuesday, Oct. 24 at 11 a.m. Central Time for a full earnings strategy breakdown on Options Trading Concepts Live before the company's announcement.
 
-Hivestack Grows DOOH Marketplace in Thailand with UpMedia Partnership
+Mike Butler, tastylive director of market intelligence, has been in the markets and trading for a decade. He appears on Options Trading Concepts Live, airing Monday-Friday. @tradermikeyb
 
-Want to see your latest press releases featured on ExchangeWire? Email info@exchangewire.com to find out more about our PressBox service.
+For live daily programming, market news and commentary, visit tastylive or the YouTube channels tastylive (for options traders), and tastyliveTrending for stocks, futures, forex & macro.
 
-Fact of the Day
+Trade with a better broker, open a tastytrade account today. tastylive, Inc. and tastytrade, Inc. are separate but affiliated companies.
+********
+The Adobe exec behind the Figma deal expresses frustration over slow pace of regulatory approval
+********
+Adobe executive David Wadhwani wonders whether expensive technology acquisitions should take as long as they are to receive approval from government regulators, he said on Tuesday at the WSJ Tech live event in Laguna Beach, Calif.
 
-20 months – the time between Microsoft announcing and closing its acquisition of Activision Blizzard.
+Adobe, the maker of design software, is working to complete its $20 billion acquisition of Figma, which people use to collaborate on the design of apps and websites. The two companies announced the tie-up in 13 months ago, and they've been dealing with investigations from the U.S. Department of Justice and regulatory bodies in the United Kingdom and in the European Union.
 
-Last Week's Tech Teasers
+The comments come a week after Microsoft closed its $69 billion purchase of game publisher Activision Blizzard, nearly 21 months after disclosing plans for that deal. Microsoft lawyers dealt with pressure from the same three jurisdictions as Adobe, and they took on the U.S. Federal Trade Commission before a district court judge in San Francisco before ultimately winning approval to move forward.
 
-Inspired by our Sustainability in Advertising - JAPAC 2023 report, last week’s quiz was all about the thriving JAPAC region. How well did you do? Find out below!
+Adobe has said it expects to close the Figma deal in 2023.
 
-JP¥ 7.1tn – Japan’s advertising expenditure in 2023? 🇯🇵
+On Tuesday, Wadhwani, president of Adobe's digital media business that includes the subscription-based Creative Cloud, and the key executive driving the transaction, said the company now expects to hear back from regulators in the next few months. The United Kingdom's Competition and Markets Authority says the statutory deadline for the current stage of its inquiry is Dec. 31, 2023. Adobe has agreed to pay Figma $1 billion if regulators reject the deal, or if it isn't completed by mid-March 2024.
 
-– Japan’s advertising expenditure in 2023? 🇯🇵 India – is forecast for a CAGR of 15.9% until 2028? 🌱
+"The question we should be asking is, should it take this long — from a regulatory process, should it take this long to have the conversations?" Wadhwani said, adding that it's important to be able to move quickly with innovation.
 
-– is forecast for a CAGR of 15.9% until 2028? 🌱 Reduced carbon emissions – the top sustainability goal for JAPAC businesses 🌎
+Tools for creative expression, documents and marketing all represent growth opportunities for Adobe, and Figma is the fourth leg of the stool, Wadhwani said.
 
-– the top sustainability goal for JAPAC businesses 🌎 Indonesia – has seen concerns around fraud rise 14% since 2022 🥸
+Since revealing its intent to buy Figma, Adobe has been busy releasing and promoting tools for generative artificial intelligence that can develop images and other content in response to a few words of human input. Wadhwani said he thinks there's an opportunity for Figma to do more generative AI when it comes to automatically creating designs for software. But he said he didn't want to speak for Dylan Field, Figma's co-founder and CEO.
 
-– has seen concerns around fraud rise 14% since 2022 🥸 77% – of JAPAC businesses are open to working directly with DSPs or SSPs 💼
+"We're not a combined company," Wadhwani said.
 
-Challenge yourself on ad tech, martech, media, and commerce, by signing up to The Stack, where we publish a new quiz every Friday.
+The Competition and Markets Authority has been trying to figure out if the deal would substantially lessen competition. The group found that Adobe is still offering to customers customers its XD screen-design tool that competes with Figma, even if it was put in "maintenance mode." Adobe replied that "in an innovative and dynamic market XD cannot be considered a 'material' competitor to Figma."
+
+WATCH: Adobe CEO on new AI models, monetizing Firefly and new growth
+********
+Nintendo Boss Comments on Microsoft Relationship Following Leaked Acquisition Email
+********
+Last month, a number of Microsoft's confidential emails leaked online. Among those emails was one written by Xbox boss Phil Spencer, who openly spoke about a desire to see the company acquire Nintendo. In the email, Spencer laid out the logistical difficulties, but noted that "getting Nintendo would be a career moment." Since then, many have been wondering about any potential impact those comments might have on the relationship between the two companies. In an interview with Inverse, Nintendo of America president Doug Bowser was asked for the first time about Spencer's comments.
+
+"We have a great relationship with Microsoft. We consider them to be partners in many, many ways, and you only have to look at Nintendo Switch to see that partnership. Obviously, Minecraft is on Nintendo Switch, and we brought Banjo Kazooie to Super Smash Bros. Ultimate. So, we're looking forward to that partnership continuing," said Bowser.
+
+Nintendo and Microsoft
+
+Bowser specifically mentions Minecraft on Switch and Banjo-Kazooie in Super Smash Bros. Ultimate, but the relationship between Nintendo and Xbox has produced even bigger results during the Switch era. While PlayStation initially fought against enabling cross-play, Microsoft and Nintendo fully embraced the option, and even participated in a marketing campaign that argued that gaming is "better together." That campaign seemed to put pressure on Sony, who eventually relented, allowing cross-play as an option in various online games, including Minecraft. The relationship between Microsoft and Nintendo even resulted in GoldenEye 007 coming to both Nintendo Switch Online and Xbox Game Pass, making the N64 classic accessible again for the first time in decades.
+
+Xbox has always wanted to take that partnership further, but it will likely never happen. Nintendo has long had a "war chest" of funds to help them even in difficult times, and the company has had a massively successful few years. Switch continues to sell well after more than six years on the market, and Nintendo has expanded the popularity of its franchises through its partnership with Universal, which has led to The Super Mario Bros. Movie, as well as Super Nintendo World attractions at Universal Studios.
+
+Acquisitions in the Video Game Industry
+
+Bowser's comments were part of a broader question from Inverse about the growing trend of acquisitions in the video game industry. Over the last few years, Microsoft has spent billions to acquire both Bethesda and Activision Blizzard, and PlayStation similarly spent quite a bit on Bungie. Nintendo has been a lot more conservative about buying up studios, focusing instead on established partners like Next Level Games, the team behind Luigi's Mansion 3 and Mario Strikers: Battle League. There has been some concern about the impact of consolidation on players, but Bowser points to the growing number of new studios as a positive sign.
+
+"As far as consolidation in the industry goes, I've been a part of this industry for 16-plus years now. One thing that's been constant is the acquisitions of studios. But the other constant is the fact that new studios are popping up every single year. Incredibly creative studios are making content, from indie-sized to AAA-sized games. So as consolidation happens, on an equal basis, we're seeing these new studios, which really just speaks to the dynamic nature of the industry overall. In the end, that bodes well for the player," Bowser told Inverse.
+
+Do you think Microsoft will ever buy Nintendo? Have you been happy with the relationship between the two companies? Share your thoughts with me directly on Twitter at @Marcdachamp or on Instagram at @Dachampgaming!
+********
+Microsoft Gaming CEO is not so enthusiastic on the metaverse
+********
+Microsoft’s (NASDAQ: MSFT) acquisition of gaming giant Activision Blizzard was a big deal. In fact, it was such a big deal that regulators stopped the deal due to concerns it would throttle innovation and lead to less choice for gamers.
+
+Nonetheless, despite the initial hurdles, the $69 billion deal was closed just days ago, growing Microsoft’s gaming business and providing the “building blocks of the metaverse,” as CEO Satya Nadella said when it was announced in 2022.
+
+Yet, since then, leaked documents and public comments hint that the CEO of Microsoft Gaming, Phil Spencer, is less than enthusiastic about the metaverse. In an interview with Bloomberg, he questioned what it even is, stating his view that gamers have already been in it for 30 years.
+
+Spencer also said he was “cautious” about play-to-earn games and called the metaverse a “poorly built videogame,” adding, “that’s just not where I want to spend most of my time.”
+
+Clearly, the Microsoft Gaming CEO feels differently about the metaverse than Nadella, who gushed about the steps toward that the Activision acquisition took.
+
+What is the metaverse, actually?
+
+Most people would agree with Spencer; the metaverse is an ill-defined concept, and it’s less than inspiring in its current iterations. What started as a buzzword that got Mark Zuckerberg so excited, he renamed his company to pivot in its direction seems to have fizzled out. What we’re left with is a loose connection between virtual reality (VR), non-fungible tokens (NFTs), digital objects, and a few other related concepts.
+
+Yet, the metaverse is real; it just hasn’t been built properly yet. Just as Microsoft and other giant corporations tried to develop walled gardens to control the internet, they are trying, and once again failing, to do the same for the metaverse.
+
+In reality, just like the internet, The metaverse will be built on a stable, open protocol like the BSV blockchain. Corporations will, of course, have a presence in it, but they won’t control it. After all, a team of corporate designers and coders can never match the creativity and effort of humanity combined. BSV blockchain provides a blank slate on which anyone can draw with the added benefits of monetization through micropayments instead of the digital pollution of ads.
+
+With BSV blockchain underpinning the metaverse, creators will be paid in real-time for access to their digital worlds via Bitcoin micropayments, digital twins of real-world locations like football stadiums and concert halls will exist, and digital items like NFTs and other tokens can be traded, exchanged, and more importantly, owned.
+
+Perhaps, the reason Spencer is so uninspired by the metaverse is that he hasn’t understood its true potential and has only seen the limited, controlled early prototypes created by the corporation he works for. He hasn’t seen anything yet, but neither have any of us.
+
+Metaverse is going to change the world as we know it: Dereck Hoogenkamp
+
+width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen">
+
+New to blockchain? Check out CoinGeek’s Blockchain for Beginners section, the ultimate resource guide to learn more about blockchain technology.

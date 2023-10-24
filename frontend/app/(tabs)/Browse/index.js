@@ -1,11 +1,14 @@
-import { StatusBar } from "expo-status-bar";
-import { StyleSheet, Text, View } from "react-native";
+import React, { createContext, useContext } from "react";
+import { View, Text, StyleSheet, Button } from "react-native";
+import { UserContext } from "../_layout";
 
-export default function index() {
+export default function Browse() {
+  const { user, setUser } = useContext(UserContext);
+
   return (
     <View style={styles.container}>
-      <Text>Browse</Text>
-      <StatusBar style="auto" />
+      <Text>test</Text>
+      <Button title="test" onPress={() => setUser("new value")} />
     </View>
   );
 }
@@ -13,8 +16,11 @@ export default function index() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: "#fff",
+    padding: 24,
+    backgroundColor: "#FFF",
+  },
+  contentContainer: {
+    flex: 1,
     alignItems: "center",
-    justifyContent: "center",
   },
 });

@@ -1,6 +1,7 @@
 import { Redirect } from "expo-router";
-
 const Index = () => {
-	return <Redirect href="/Create" />;
+  return <Redirect href="/Create" />;
+  
 };
+
 export default Index;
