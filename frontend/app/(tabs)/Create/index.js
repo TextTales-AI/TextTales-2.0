@@ -23,15 +23,56 @@ import { Audio } from "expo-av";
 const uri = Constants?.expoConfig?.hostUri
   ? Constants.expoConfig.hostUri.split(`:`).shift().concat(`:8080`)
   : `/create`;
-renderWithData = async (t, min, setGenText, setDriveName) => {
+
+renderWithData = async (
+  t,
+  min,
+  setGenText,
+  setDriveName,
+  setSound,
+  demo = false
+) => {
+  if (demo) {
+    await Audio.setAudioModeAsync({
+      staysActiveInBackground: true,
+      interruptionModeAndroid: 1,
+      shouldDuckAndroid: false,
+      playThroughEarpieceAndroid: false,
+      allowsRecordingIOS: false,
+      interruptionModeIOS: 1,
+      playsInSilentModeIOS: true,
+    });
+    const { sound } = await Audio.Sound.createAsync(require("./demo.mp3"));
+    setSound(sound);
+    setDriveName("demo");
+    setGenText("demo demo demo");
+    return;
+  }
+
   console.log("----");
   fetch_url = "http://" + uri + `/create?topic=${t}&min=${min}`;
   console.log(fetch_url);
   const response = await fetch(fetch_url);
   const res = await response.json();
   console.log(res);
+  console.log("-----create");
+  // För att få ljuduppselning in the background men verkar bara funka i standalone app
+  await Audio.setAudioModeAsync({
+    staysActiveInBackground: true,
+    interruptionModeAndroid: 1,
+    shouldDuckAndroid: false,
+    playThroughEarpieceAndroid: false,
+    allowsRecordingIOS: false,
+    interruptionModeIOS: 1,
+    playsInSilentModeIOS: true,
+  });
+  const { sound } = await Audio.Sound.createAsync({
+    uri: "https://drive.google.com/uc?export=view&id=" + res["name"],
+  });
+  setSound(sound);
   setDriveName(res["name"]);
   setGenText(res["text"]);
+  console.log("-------Done");
 };
 
 export default function index() {
@@ -40,16 +81,33 @@ export default function index() {
   const [length, setLength] = useState(1);
   const [genText, setGenText] = useState("");
   const [driveName, setDriveName] = useState("");
+  const [sound, setSound] = React.useState();
 
-  async function playSound() {
-    console.log("Loading Sound");
-    const sound = new Audio.Sound();
-    await sound.loadAsync({
-      uri: "https://drive.google.com/uc?export=view&id=" + driveName,
-    });
-    console.log("Playing Sound");
-    await sound.playAsync();
-  }
+  // Tror detta är för att sluta spela när man lämnar komponenten
+  React.useEffect(() => {
+    return sound
+      ? () => {
+          console.log("Unloading Sound");
+          sound.unloadAsync();
+        }
+      : undefined;
+  }, [sound]);
+
+  // React.useEffect(() => {
+  //   console.log("-- in mount ---");
+  //   async function setAudioMode() {
+  //     await Audio.setAudioModeAsync({
+  //       allowsRecordingIOS: false,
+  //       staysActiveInBackground: true,
+  //       interruptionModeIOS: InterruptionModeIOS.DuckOthers,
+  //       playsInSilentModeIOS: true,
+  //       shouldDuckAndroid: true,
+  //       interruptionModeAndroid: InterruptionModeAndroid.DuckOthers,
+  //       playThroughEarpieceAndroid: false,
+  //     });
+  //   }
+  //   setAudioMode();
+  // }, []);
 
   return (
     <ScrollView style={styles.scrollView} keyboardShouldPersistTaps="handled">
@@ -91,15 +149,27 @@ export default function index() {
         <View style={styles.bottom}>
           <CustomButton
             onPress={() => {
-              renderWithData(topic, length, setGenText, setDriveName);
+              renderWithData(
+                topic,
+                length,
+                setGenText,
+                setDriveName,
+                setSound,
+                true
+              );
             }}
             title="Create"
           />
-          {genText.length < 5 ? (
+          {!sound ? (
             <View></View>
           ) : (
             <View>
-              <Button title="Play Sound" onPress={playSound} />
+              <Button
+                title="Play Sound"
+                onPress={async () => {
+                  await sound.playAsync();
+                }}
+              />
               {/* <Button
                 title="Press to Start"
                 onPress={() =>
