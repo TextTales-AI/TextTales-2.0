@@ -288,6 +288,95 @@ def gen_news_podcast(topic):
     print(full_text)
     return full_text
 
+### Vet inte om denna behövs (merge conflict)
+def gen_doc_podcast(user_prompt, num_words):
+    # if not os.path.exists("documentary_audio"):
+    #     os.makedirs("documentary_audio")
+    text = ""
+    prompt = "Create the outline/structure for a {} word long documentary about {}. Specify how many words each section should have. Return your answer in this format '*****Topic 1, *****Topic 2, *****Topic 3'".format(num_words, user_prompt) 
+    response = chat_model.predict(prompt)
+    split_response = response.split('*****')
+    sections = []
+    for part in split_response:
+        if len(part) > 10:
+            sections.append(part)
+    chapter_length = int(num_words / len(sections))
+    file_names = []
+    for i in range(len(sections)):
+        print(i)
+        if i == 0:
+            prompt = "Write the introduction for this documentary about {}, focus on this part {}. Use approximatly {} number of words in your output. ".format(user_prompt, sections[0], chapter_length) 
+        else:
+            prompt = "You are writing a text about {} and now you are going to write about this sub-topic {}. Use approximatly {} number of words in your output. Start with 'Part {}: ' + the headline for this sub-topic".format(user_prompt, sections[i], chapter_length, i) 
+        response = chat_model.predict(prompt)
+        # audio = generate(text=response, voice="Adam", model="eleven_monolingual_v1", api_key=ELEVEN_API_KEY)
+        # save(audio, "documentary_audio/documentary_in_{}_mins_{}.wav".format(num_minutes, i))
+        text += "\n" + response + "\n"
+        # file_names.append("documentary_audio/documentary_in_{}_mins_{}.wav".format(num_minutes, i))
+        # file_names.append("sound_effects/original_transition.wav")
+    # concatenate_audio_moviepy(file_names, "documentary_audio/documentary_about_{}_in_{}_mins.wav".format(user_prompt, num_minutes))
+    
+    return text
+### Vet inte om denna behövs (merge conflict)
+def gen_story_podcast(self, user_prompt, num_words):
+        
+    if num_words < 1000:
+        prompt = "Create a story about '{}'. The story should be approximately {} number of words".format(user_prompt, num_words)
+        return chat_model.predict(prompt)
+    else:
+        chapters = int(num_words / 300)
+        prompt = "Create a detailed outline for a story about '{}' with {} scenes. Return your answer in the following format:".format(user_prompt, str(chapters*3))
+        for i in range(1, 3*chapters+1):
+            prompt += "\nScene {}:".format(str(i))
+
+        outline = chat_model.predict(prompt)
+        scene_list = []
+        for i in range(1, chapters*3+1):
+            scene_before_index = outline.index("Scene {}".format(str(i)))
+            if i < chapters*3:
+                scene_after_index = outline.index("Scene {}".format(str(i+1)))
+                scene = outline[scene_before_index:scene_after_index]
+            else:
+                scene = outline[scene_before_index:]
+            scene_list.append(scene)
+
+        prompt = "Specify the characters and in what scene they enter the story based on this outline:\n{}\n\nReturn in the format:\nName of character - Description - Scene Number".format(outline)
+        characters = chat_model.predict(prompt)
+        extended_scenes = []
+
+        for i in range(chapters):
+            number_of_scenes = 3
+            response_format = "Return in the format:\nNarrative {}:\nNarrative {}:\nNarrative {}:".format(str(i*3+1), str(i*3+2), str(i*3+3))
+            scenes = scene_list[i*3] + "\n" + scene_list[i*3+1] + "\n" + scene_list[i*3+2]
+            if i < chapters - 1:
+                    scenes += "\n" + scene_list[i*3+3]
+                    response_format += "\nNarrative {}:".format(str(i*3+4))
+                    number_of_scenes = 4
+            
+            prompt = "Turn these {} scenes into narratives and expand them:\n{}\n\nHere is a list of characters and in what scene they will or have been introduced:\n{}\n\n{}".format(str(number_of_scenes), scenes, characters, response_format)
+            response = chat_model.predict(prompt)
+
+            k = 0
+            for j in range(i*3+1,i*3+number_of_scenes+1):
+                k += 1
+                scene_before_index = response.lower().index("narrative {}".format(str(j)))
+                if j < i*3+number_of_scenes:
+                    scene_after_index = response.lower().index("narrative {}".format(str(j+1)))
+                    scene = response[scene_before_index:scene_after_index]
+                else:
+                    scene = response[scene_before_index:]
+                
+                if k < 4:
+                    extended_scenes.append(scene)
+
+        cleaned_text = []
+        for row in extended_scenes:
+            split_row = row.split("\n")[1:]  # Remove the first element
+            restored_row = "\n".join(split_row)  # Join the remaining elements with newline
+            cleaned_text.append(restored_row)
+
+        return cleaned_text
+
 def generate_name():
     # Generate a unique ID
     unique_id = str(uuid.uuid4())
