@@ -44,6 +44,8 @@ class Podcast:
         if self.num_words < 1000:
             prompt = "Create a story about '{}'. The story should be approximately {} number of words".format(self.user_prompt, self.num_words)
             self.text_list = [chat_model.predict(prompt)]
+            print("--------")
+            print(self.text_list)
         else:
             chapters = int(self.num_words / 300)
             prompt = "Create a detailed outline for a story about '{}' with {} scenes. Return your answer in the following format:".format(self.user_prompt, str(chapters*3))
@@ -99,6 +101,8 @@ class Podcast:
                 cleaned_text.append(restored_row)
 
             self.text_list = cleaned_text
+            print("--------")
+            print(self.text_list)
 
     def audiofy_story(self, voice="Adam", sound_effect_name="fairytale"):
 
@@ -284,101 +288,17 @@ def gen_news_podcast(topic):
     print(full_text)
     return full_text
 
-def gen_doc_podcast(user_prompt, num_words):
-    # if not os.path.exists("documentary_audio"):
-    #     os.makedirs("documentary_audio")
-    text = ""
-    prompt = "Create the outline/structure for a {} word long documentary about {}. Specify how many words each section should have. Return your answer in this format '*****Topic 1, *****Topic 2, *****Topic 3'".format(num_words, user_prompt) 
-    response = chat_model.predict(prompt)
-    split_response = response.split('*****')
-    sections = []
-    for part in split_response:
-        if len(part) > 10:
-            sections.append(part)
-    chapter_length = int(num_words / len(sections))
-    file_names = []
-    for i in range(len(sections)):
-        print(i)
-        if i == 0:
-            prompt = "Write the introduction for this documentary about {}, focus on this part {}. Use approximatly {} number of words in your output. ".format(user_prompt, sections[0], chapter_length) 
-        else:
-            prompt = "You are writing a text about {} and now you are going to write about this sub-topic {}. Use approximatly {} number of words in your output. Start with 'Part {}: ' + the headline for this sub-topic".format(user_prompt, sections[i], chapter_length, i) 
-        response = chat_model.predict(prompt)
-        # audio = generate(text=response, voice="Adam", model="eleven_monolingual_v1", api_key=ELEVEN_API_KEY)
-        # save(audio, "documentary_audio/documentary_in_{}_mins_{}.wav".format(num_minutes, i))
-        text += "\n" + response + "\n"
-        # file_names.append("documentary_audio/documentary_in_{}_mins_{}.wav".format(num_minutes, i))
-        # file_names.append("sound_effects/original_transition.wav")
-    # concatenate_audio_moviepy(file_names, "documentary_audio/documentary_about_{}_in_{}_mins.wav".format(user_prompt, num_minutes))
-    
-    return text
-
-def gen_story_podcast(user_prompt, num_words):
-    # Save audiofile
-    # if not os.path.exists("story_audio"):
-    #     os.makedirs("story_audio")
-    prompt = "How many chapters are appropriate for a {} word long story? Return just the specified number".format(num_words)
-    response = chat_model.predict(prompt)
-    # Hårdkoda som lista istället <---- daniel
-    try:
-        chapters = int(response)
-    except:
-        if num_words < 1000:
-            chapters = 1
-        else:
-            chapters = int(num_words / 500)
-    print(chapters)
-    text = ""
-    prompt = "Create the outline/chapters for a {} word long story with {} chapters about {}. Specify how many words each section should have. Return your answer in the following format '*****Chapter 1, *****Chapter 2, *****Chapter 3'".format(num_words, chapters, user_prompt) 
-    print(prompt)
-    response = chat_model.predict(prompt)
-    print("----")
-    print(response)
-
-    prompt = "Summarise what the story is about: {}".format(response)
-    topic = chat_model.predict(prompt)
-
-    split_response = response.split('*****')
-    sections = []
-    for part in split_response:
-        if len(part) > 10:
-            sections.append(part)
-    
-    # chapter_length = int(num_words / len(sections))
-    chapter_length = int(num_words / chapters)
-    print(sections)
-    # file_names = []
-    summary = ""
-    for i in range(len(sections)):
-        print(i)
-        print(111111)
-        prompt = "You are writing a story about {} and now you are going to write about this chapter {}. This has happened so far in the story: '{}'. Use approximatly {} number of words in your output. Start with 'Chapter X: ' + the headline for this chapter".format(topic, sections[i], summary, chapter_length) 
-        print(prompt)
-        print(22222)
-        response = chat_model.predict(prompt)
-        print(response)
-        print('*****')
-        prompt = "Summarise: {}".format(response)
-        summary = chat_model.predict(prompt)
-        #audio = generate(text=response, voice="Adam", model="eleven_monolingual_v1", api_key=ELEVEN_API_KEY)
-        #save(audio, "story_audio/story_about_{}_in_{}_mins_{}.wav".format(user_prompt, num_minutes, i))
-        text += "\n" + response + "\n"
-        
-        #file_names.append("story_audio/story_about_{}_in_{}_mins_{}.wav".format(user_prompt, num_minutes, i))
-        #file_names.append("sound_effects/original_transition.wav")
-    return text
-
 def generate_name():
     # Generate a unique ID
     unique_id = str(uuid.uuid4())
     return unique_id
 
-def upload_wav_file_and_get_ID():
+def temp_gen():
     print(777777)
     gauth = GoogleAuth()
 
     # Try to load saved client credentials
-    # gauth.LoadCredentialsFile("mycreds.txt")
+    gauth.LoadCredentialsFile("mycreds.txt")
 
     if gauth.credentials is None:
         # Authenticate if they're not there
@@ -409,8 +329,7 @@ def upload_wav_file_and_get_ID():
             'id': parent_folder_id
         }]
     })
-    #f.SetContentFile("/Users/danielbouvin/Documents/KTH/År 5/DH2465/PodPerfect/TextTales-2.0/backend/sound_effects/test123.wav")
-    f.SetContentFile("./sound_effects/demo.mp3")
+    f.SetContentFile("./notebooks/output/test.mp3")
     f.Upload(param={'supportsTeamDrives': True})
 
     files = drive.ListFile({"q": "'" + parent_folder_id + "' in parents and mimeType!='application/vnd.google-apps.folder'"}).GetList()
@@ -419,9 +338,8 @@ def upload_wav_file_and_get_ID():
     for file in files:
         if file['title'] == title:
             name = file['id']
-        
+
     return name
-        
 
 app = Flask(__name__)
 @app.route('/')
@@ -448,7 +366,10 @@ def get_create():
     
     if podcast_type == "NEWS":
         # Todo fix
-        podcast_text = gen_news_podcast(new_podcast)
+        print("IN NEWS")
+        podcast_name = temp_gen()
+        data = {'text': "TODO", 'name': podcast_name}
+        return jsonify(data)
     elif podcast_type == "STORY":
         new_podcast.gen_story_podcast()
         new_podcast.audiofy_story()

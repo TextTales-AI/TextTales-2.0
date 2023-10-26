@@ -45,7 +45,7 @@ export default function index() {
   const animation = useRef(null);
   const [topic, setTopic] = useState("");
   const [length, setLength] = useState(1);
-  const [style, setStyle] = useState("STORY");
+  const [style, setStyle] = useState("NEWS");
   const [genText, setGenText] = useState("");
   const [driveName, setDriveName] = useState("");
   const { user, setUser } = useContext(UserContext);

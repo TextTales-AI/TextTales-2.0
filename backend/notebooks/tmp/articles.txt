@@ -1,35 +1,3 @@
-Did Microsoft Waste $69 Billion on Activision Blizzard?
-********
-After nearly two years of regulatory proceedings, Microsoft (MSFT 0.36%) finally completed the acquisition of leading game producer Activision Blizzard. The U.K. Competition and Markets Authority was the final holdout, but it granted approval of the deal in October.
-
-The $68.7 billion acquisition is one of the largest in Microsoft's history. In exchange, the Xbox business gains an infusion of $8.7 billion in revenue from best-selling titles, including Call of Duty, Diablo, Overwatch, and World of Warcraft, in addition to some valuable mobile franchises, such as King's Candy Crush.
-
-However, Microsoft didn't get everything it wanted. To get approval, it had to make some compromises. In July, Microsoft agreed to make one of the all-time best-selling franchises, Call of Duty, available to Sony and Nintendo's game consoles for 10 years.
-
-It also agreed to let Ubisoft Entertainment buy Activision's cloud gaming rights. This means all the cloud gaming rights for Activision's PC and console content produced over the next 15 years will be owned by Ubisoft.
-
-These compromises were needed to win the prize, but can Microsoft still reap enough growth out of Activision to justify the steep price tag?
-
-Microsoft is building a large base of players
-
-This won't be Microsoft's last acquisition of a video game company. Sony and Microsoft have been in an arms race to acquire studios in recent years to gain scale in the $200 billion video game industry. Microsoft previously paid $7.5 billion for Bethesda Softworks owner ZeniMax Media in 2020, so it's not surprising to see Microsoft swing for the fences with billions in cash resources.
-
-Still, given the size of this transaction, shareholders will want to see good returns on this investment, especially after Microsoft just spent most of the $111 billion in cash and short-term investments it spent the last 30 years accumulating on its balance sheet.
-
-Microsoft's gaming business just became one of the largest in the world. In fiscal 2023 (which ended in June), Microsoft's gaming revenue came to $15.5 billion, according to Statista estimates. Activision will add $8.7 billion to that total to bring Microsoft's gaming revenue to over $23 billion.
-
-Activision will also contribute roughly $2.4 billion of free cash flow. But that means Microsoft paid a high price-to-free cash flow multiple of 28, which is expensive considering Activision's growth.
-
-Over the last 10 years, Activision grew revenue by just 4.5% per year, with free cash flow growing 5.3% annually. Unless Microsoft can squeeze more growth out of this business, it might have overpaid.
-
-When Microsoft originally announced the deal in January 2022, it spent as much time talking about the opportunity to expand into mobile gaming -- a $92 billion market -- as it did about cloud gaming opportunities. Although it doesn't have exclusive cloud gaming rights to Activision's future content, it should be able to grow Xbox Game Pass, which had 25 million subscribers in early 2022.
-
-Game Pass has trailed Sony's 47 million subscribers in PS Plus, according to Statista. However, Microsoft now has a large pool of 356 million monthly active users to market new games and content to. This will satisfy one of Microsoft's top priorities, which is to build a community of players and increase the time players spend across a large portfolio of games. Those are the key ingredients that will create profitable growth opportunities in the video game industry.
-
-Another overlooked opportunity for Microsoft is access to the intellectual property Activision has released going back to the 1980s. Microsoft will look to mine Activision's library for titles it can revive, and perhaps turn into valuable mobile properties. One that stands out is Guitar Hero, which Xbox head Phil Spencer has previously said he wants to revisit. Activision discontinued this franchise years ago, but the advantage of being part of Microsoft is that Activision can now take risks it couldn't before.
-
-To answer the original question, no, I don't believe Microsoft wasted its cash. At least, it's too early to make that call. If Microsoft can help Activision release more new games at a faster pace and innovate with new ideas, the growth it could generate would go a long way toward justifying the cost of the acquisition. Depending on how much profit it can squeeze out of these franchises, this deal could look like a great value in a few years from now.
-********
 Microsoft Now Owns Activision Blizzard: What It Means for Your Favorite Games
 ********
 From Azeroth to Pandaria, from the Dry Steppes of Sanctuary all the way to Candy Kingdom, the world of Activision Blizzard just got even bigger.
@@ -172,53 +140,99 @@ Activision Blizzard's exit from being an independent studio to become part of th
 
 Whether our favorite games are rebooted, scrapped or greenlit, Microsoft now wields much greater power to decide how, where and what we play.
 ********
-Xbox chief says Activision Blizzard games aren’t coming to Xbox Game Pass until 2024
+Did Microsoft Waste $69 Billion on Activision Blizzard?
 ********
-Xbox chief and Microsoft Gaming CEO Phil Spencer has confirmed that Activision Blizzard games aren’t coming to Xbox Game Pass anytime soon. In the latest official Xbox podcast, Spencer confirms there’s not going to be a big drop of Activision Blizzard games into Xbox Game Pass in the coming weeks and that we won’t see any until 2024.
+After nearly two years of regulatory proceedings, Microsoft (MSFT 0.37%) finally completed the acquisition of leading game producer Activision Blizzard. The U.K. Competition and Markets Authority was the final holdout, but it granted approval of the deal in October.
 
-Here’s what Spencer had to say:
+The $68.7 billion acquisition is one of the largest in Microsoft's history. In exchange, the Xbox business gains an infusion of $8.7 billion in revenue from best-selling titles, including Call of Duty, Diablo, Overwatch, and World of Warcraft, in addition to some valuable mobile franchises, such as King's Candy Crush.
 
-The regulatory process took so long... that we weren’t able to get in and work with the Activision Blizzard on that back catalog work. Now that the deal is closed, we’re starting that work, but there is work. I think the Activision Twitter handle... did put out something that talked about 2024, and I think that’s accurate. I would love it if there was some kind of secret celebration drop that’s coming in the next couple of weeks — there’s not.
+However, Microsoft didn't get everything it wanted. To get approval, it had to make some compromises. In July, Microsoft agreed to make one of the all-time best-selling franchises, Call of Duty, available to Sony and Nintendo's game consoles for 10 years.
 
-Activision Blizzard posted on X (formerly Twitter), ahead of the Microsoft deal closing, that Modern Warfare III and Diablo IV both wouldn’t be coming to Xbox Game Pass this year. But it wasn’t clear about the status of older Activision Blizzard games until Phil Spencer’s clarification today.
+It also agreed to let Ubisoft Entertainment buy Activision's cloud gaming rights. This means all the cloud gaming rights for Activision's PC and console content produced over the next 15 years will be owned by Ubisoft.
 
-“I know there will be some disappointment about that,” admits Spencer. “This acquisition is definitely long-term, so the fact that we’re not hitting day one with a bunch of games dropping in to Game Pass is a little bit of a downer, but I’m very excited about the future. And I just want to be straight with people that that’s where we are.”
+These compromises were needed to win the prize, but can Microsoft still reap enough growth out of Activision to justify the steep price tag?
 
-Many Xbox fans had expected Microsoft to drop older versions of Call of Duty onto Xbox Game Pass almost immediately. Windows Central reported last week that it expected to “see a ton of new games hit Xbox Game Pass the very minute the deal is finalized,” but that never materialized.
+Microsoft is building a large base of players
 
-Some of the expectation for Xbox Game Pass additions was based on the way Microsoft dropped 20 Bethesda games into Game Pass just two days after its acquisition closed. Microsoft also went out of its way to fix classic Xbox 360 Call of Duty titles in July, just ahead of the original Activision Blizzard deal deadline. Players had been complaining for years about not being able to matchmake in games like Call of Duty: Black Ops and the original Call of Duty: Modern Warfare 2, and this suddenly got fixed by Microsoft over the summer.
+This won't be Microsoft's last acquisition of a video game company. Sony and Microsoft have been in an arms race to acquire studios in recent years to gain scale in the $200 billion video game industry. Microsoft previously paid $7.5 billion for Bethesda Softworks owner ZeniMax Media in 2020, so it's not surprising to see Microsoft swing for the fences with billions in cash resources.
+
+Still, given the size of this transaction, shareholders will want to see good returns on this investment, especially after Microsoft just spent most of the $111 billion in cash and short-term investments it spent the last 30 years accumulating on its balance sheet.
+
+Microsoft's gaming business just became one of the largest in the world. In fiscal 2023 (which ended in June), Microsoft's gaming revenue came to $15.5 billion, according to Statista estimates. Activision will add $8.7 billion to that total to bring Microsoft's gaming revenue to over $23 billion.
+
+Activision will also contribute roughly $2.4 billion of free cash flow. But that means Microsoft paid a high price-to-free cash flow multiple of 28, which is expensive considering Activision's growth.
+
+Over the last 10 years, Activision grew revenue by just 4.5% per year, with free cash flow growing 5.3% annually. Unless Microsoft can squeeze more growth out of this business, it might have overpaid.
+
+When Microsoft originally announced the deal in January 2022, it spent as much time talking about the opportunity to expand into mobile gaming -- a $92 billion market -- as it did about cloud gaming opportunities. Although it doesn't have exclusive cloud gaming rights to Activision's future content, it should be able to grow Xbox Game Pass, which had 25 million subscribers in early 2022.
+
+Game Pass has trailed Sony's 47 million subscribers in PS Plus, according to Statista. However, Microsoft now has a large pool of 356 million monthly active users to market new games and content to. This will satisfy one of Microsoft's top priorities, which is to build a community of players and increase the time players spend across a large portfolio of games. Those are the key ingredients that will create profitable growth opportunities in the video game industry.
+
+Another overlooked opportunity for Microsoft is access to the intellectual property Activision has released going back to the 1980s. Microsoft will look to mine Activision's library for titles it can revive, and perhaps turn into valuable mobile properties. One that stands out is Guitar Hero, which Xbox head Phil Spencer has previously said he wants to revisit. Activision discontinued this franchise years ago, but the advantage of being part of Microsoft is that Activision can now take risks it couldn't before.
+
+To answer the original question, no, I don't believe Microsoft wasted its cash. At least, it's too early to make that call. If Microsoft can help Activision release more new games at a faster pace and innovate with new ideas, the growth it could generate would go a long way toward justifying the cost of the acquisition. Depending on how much profit it can squeeze out of these franchises, this deal could look like a great value in a few years from now.
 ********
-Phil Spencer Discusses The Future of Activision Blizzard King Following Acquisition
+Microsoft is now a gaming juggernaut
 ********
-Microsoft recently completed its acquisition of Activision Blizzard King, meaning that the Xbox brand now owns iconic franchises such as Call of Duty, World of Warcraft, Diablo, Overwatch, and Starcraft. While this is incredibly exciting for some gamers, it has also left a lot of questions regarding the future of the IPs and how Microsoft will navigate this acquisition in regards to exclusivity, and the vast library making its way to Xbox Game Pass, which recently surpassed 30 million subscribers.
+Microsoft (MSFT) officially owns Activision Blizzard (ATVI), making it the third-largest gaming company in the world by revenue behind just Tencent and Sony (SONY). But the acquisition does more than boost Microsoft’s standing in the global gaming industry. It gives the company far greater access to the mobile gaming market, lines it up for revenue via mobile games advertising, and provides it with the opportunity to grow its Xbox Game Pass subscription service and Xbox Cloud Gaming streaming service.
 
-During a sit-down interview on the official Xbox YouTube channel, Phil Spencer discussed the future of Activision Blizzard King following its recent acquisition by Microsoft which was finalized earlier this month. With the acquisition of such a large publisher, the possibilities are endless regarding what Microsoft and the Xbox brand could do to capitalize on them now owning some of gaming’s IPs. Still, Phil Spencer appears to be more conservative regarding making the most of what Microsoft now owns.
+“It's certainly a seismic shift in how the money flows around the gaming ecosystem,” explained International Data Corporation (IDC) research director Lewis Ward. “It is the biggest acquisition in Microsoft's history. It is one of the biggest acquisitions in the tech market. It is … by anyone’s measure, a big sea change.”
 
-ABK’s Future On Xbox Game Pass
+But don’t expect the company to start reaping the benefits of the $69-billion deal anytime soon. Microsoft still has a long way to go before it can begin to put its stamp on any of Activision Blizzard’s games like “Call of Duty” and longer still before its bet on cloud gaming pays off.
 
-With such an expansive library at Microsoft’s fingertips now, the thought of Activision Blizzard King games making their way to Xbox Game Pass is very exciting, but Phil Spencer has confirmed that no ABK games will be appearing on Game Pass until 2024 saying,
+Microsoft is a major mobile player
 
-“This acquisition is definitely long-term. So the fact that we’re not hitting day one with a bunch of games dropping into Game Pass is a little bit of a downer, but I’m very excited about the future.”
+Microsoft has never had much of a hand in the mobile gaming market. And while the console and PC markets are huge, bringing in $43 billion and $40 billion respectively in 2023, the mobile gaming market is even larger. According to a study by data.ai and IDC, the segment will bring in a whopping $103 billion this year alone.
 
-This was expected as with the Bethesda acquisition it did take a while before many of its games made their way to Game Pass. It is also worth noting that hearing the word “2024” makes it seem like it will be a long time before we get to see franchises such as Call of Duty on Game Pass, but the new year is only a couple of months away so we should begin to see Activision Blizzard King’s library trickle onto the subscription services in the coming months.
+But with Activision Blizzard, Microsoft is now one of the biggest players in mobile gaming. Activision Blizzard’s “Candy Crush Saga” was the second-highest-grossing mobile game in the world in the first half of 2023 behind only Tencent’s “Honor of Kings.” And as of Q2 2023, Activision Blizzard’s King mobile division had an incredible 238 million monthly active users. That’s far more than Activision’s 92 million, despite that arm running “Call of Duty,” or Blizzard’s 26 million.
 
-Will Call Of Duty Receive Exclusive Content On Xbox?
+Story continues
 
-Understandably, one of the biggest questions that has been asked throughout the acquisition is “What does this mean for the future of Call of Duty?” As we’ve seen with games such as Starfield bypassing Sony’s PlayStation after initially being announced, it is understandable that many saw the move as a way to drive players away from the PlayStation to the Xbox ecosystem in order to play the most popular first-person shooter franchise. Phil Spencer has confirmed that the goal is 100% parity when it comes to Call of Duty and making sure that whether you’re on PC, Xbox, PlayStation, or even Nintendo, no content is exclusive to a specific platform.
+Blizzard gift cards are seen at the shop in Krakow, Poland, on July 17, 2023. (Jakub Porzycki/NurPhoto via Getty Images)
 
-“We have no goal of somehow trying to use Call of Duty to get you to buy an Xbox console.”
+“The amount of revenue that 'Candy Crush' generates should not be underestimated,” said Forrester senior analyst Will McKeon-White. “Microsoft has also traditionally had a minimal ... mobile gaming presence. So this acquisition also significantly helps out with that.”
 
-Could We See Old IPs Come Back In The Future?
+That mobile presence also gives Microsoft a significant leg up in the mobile advertising space. After all, mobile games generate money via either in-game sales or ads, and “Candy Crush” does both.
 
-With such an expansive history of IPs, many gamers are wondering what the acquisition could mean in terms of bringing some beloved franchises back. Some notable IPs that have become moments in time include the likes of Spyro’s Skylanders spin-off series, Guitar Hero, Tony Hawk, and The Lost Vikings. It is possible that we could see some of these return in the future, but Phil Spencer stated that they would have to be done by passionate teams that want to make a difference rather than being motivated by financial gains.
+Subscriptions and cloud gaming are key
 
-“I want to make sure that when we’re going back and visiting something, that we do it with our complete ability– a motivated team that wants to go work on something and make a difference, not just create something for financial gain, or create something for a PR announcement and not deliver on the product.”
+Outside of mobile gaming, Activision Blizzard gives Microsoft the firepower it needs to exploit its Game Pass subscription service and nascent Xbox Cloud Gaming. Game Pass gives subscribers access to hundreds of games that they can download to their Xbox consoles or PCs for $16.99 per month. The service has been a key portion of Microsoft’s gaming strategy, with CEO Satya Nadella regularly calling out the service during the company’s earnings calls.
 
-Tony Hawk’s 1+2 Remastered saw the first two games in the series return in 2020 to huge fanfare, which left many confused when a sequel was seemingly canceled. There have also been discussions on social media among gamers about the possibility of Guitar Hero returning. It would be interesting to see whether Activision Blizzard King could recapture the magic of the early games, but its main competitor Rock Band is still active with new weekly content for Rock Band 4, so there is at least some level of demand still there for a new game.
+In January, Nadella announced that the service had surpassed 120 million monthly active users. And with Activision Blizzard’s library of intellectual property, Microsoft can make Game Pass an even more appealing option for gamers, giving the company more firepower to drive subscriptions over time.
 
-It will be an interesting time over the coming years to see how Microsoft capitalizes on the acquisition and whether it turns out to be a good thing for the company and for gamers alike.
+Then there’s the cloud gaming aspect of the deal. Microsoft is the leader in cloud gaming, and has opened up the service to a slew of new devices including smart TVs and even Meta’s (META) Quest 3 AR/VR headset. But cloud gaming is still in its early stages. The quality of streams doesn’t always match up to what you’d get playing games on a console or PC, and high-speed internet still isn’t available in portions of the US, let alone globally.
 
-For more Insider Gaming coverage, check out the news about Diablo IV’s Season 2 delay
+A general view of tradefairgoers is seen in front of the Xbox booth during the opening day of Gamescom at the Cologne Trade Fair Center in Cologne, Germany, on Aug. 23, 2023 (Ying Tang/NurPhoto via Getty Images).
+
+“In terms of cloud gaming, we're still in the active experimentation phase,” McKeon-White said. “And while the current results are much better than they were previously, it's still ... not the best possible experience for playing video games, if we’re completely honest.”
+
+It’s also important to note that cloud gaming is still a small portion of overall gaming revenue. But, eventually, the service could power Game Pass subscriptions.
+
+“I think it is a positive for cloudstream gaming,” Ward said. “I think that it will be one of the drivers of growth over time, but let's not kid ourselves. Right now, it's only like 2% or 3% of market revenue. It's a very small component of total market revenue.”
+
+Sign up for the Yahoo Finance Tech newsletter.
+
+But as Microsoft perfects the technology and high-speed internet continues to spread across the globe, Xbox Cloud Gaming will become a far more attractive and viable option for gamers in regions where consoles and PCs are too expensive due to taxes or import restrictions.
+
+Microsoft can take advantage of Activision Blizzard’s library
+
+There’s one other aspect to Microsoft’s acquisition that could prove beneficial over time, and that’s how the company could take advantage of older Activision Blizzard properties. There are a slew of titles, such as “Guitar Hero,” that the gaming giant hasn’t worked on in years, and with Microsoft’s backing, it could begin to dig those out of storage and breathe new life into them.
+
+What’s more, it gives Microsoft a boost to the number of first-party games it will release each year.
+
+“There's just a critical mass that they probably weren't at prior to the acquisition, and this pushes them over the top,” Wedbush analyst Michael Pachter told Yahoo Finance. “You suddenly go from maybe a half a game a year of new content under the old Microsoft to four, five, plus ‘World of Warcraft.’ ”
+
+Taken as a whole, the acquisition is a boon for Microsoft. Though it could take some time for it to begin to pay dividends. After all, with games already in development it will be a while before Microsoft has any real say in how Activision Blizzard develops new titles.
+
+There’s also the looming threat that the Federal Trade Commission (FTC) could break up the companies as part of its antitrust case against Microsoft. The FTC is moving forward with an in-house challenge to the deal and working on an appeal to a prior ruling against the commission’s effort to halt the move.
+
+Still, if everything pans out in Microsoft’s favor, acquiring Activision Blizzard could be a turning point for the company, and the gaming industry as a whole.
+
+Daniel Howley is the tech editor at Yahoo Finance. He's been covering the tech industry since 2011. You can follow him on Twitter @DanielHowley.
+
+Click here for the latest technology business news, reviews, and useful articles on tech and gadgets
+
+Read the latest financial and business news from Yahoo Finance
 ********
 Microsoft spent two years trying to buy Santa Monica based Activision Blizzard. For Xbox CEO, that was the easy part
 ********
@@ -262,19 +276,25 @@ In a Friday welcome email to Activision employees, Spencer said he wanted to “
 
 MATT O’BRIEN, AP Technology Writer
 ********
-Microsoft to begin “doubling down” on games following acquisition of Activision, CEO says
+Activision Blizzard games are not coming to Xbox game pass yet
 ********
-Following the acquisition of Activision Blizzard, Microsoft’s CEO, Satya Nadella, has revealed that the company is “looking forward to really doubling down both as a game producer and a publisher”.
+Xbox chief Phil Spencer has confirmed that Activision Blizzard games won’t be coming to Xbox Game Pass in the near future, dashing hopes of a big content drop following Microsoft’s acquisition of the publisher.
 
-In an interview with Axel Springer (via Insider) , Nadella was asked about the importance of the deal being approved, and he spoke about the company being able to make a “real contribution” to consumer markets.
+In the latest Xbox podcast, Spencer stated that due to the lengthy regulatory approval process for the $68.7 billion deal, Microsoft was unable to work with Activision Blizzard on preparing its back catalog for Xbox Game Pass. Now that the acquisition has officially closed, that work can begin, but Spencer cautioned it will take time. Spencer said:
 
-“When I think about Microsoft, I think of perhaps developer tools, proprietary software, and gaming. Those are three things that we've done from the very beginning,” Nadella explained. “And so, to us, gaming is the one place where we think we have a real contribution to make in consumer markets.
+“The regulatory process took so long… that we weren’t able to get in and work with Activision Blizzard on that back catalog work. Now that the deal is closed, we’re starting that work, but there is work. I think the Activision Twitter handle… did put out something that talked about 2024, and I think that’s accurate. I would love it if there was some kind of secret celebration drop that’s coming in the next couple of weeks — there’s not.”
 
-“If I look at it, the amount of time people allocate to gaming is going up and Gen Z is going to do more of that. The way games are made, the way the games are delivered, is changing radically. Whether it's mobile, or consoles, or PCs, or even the cloud,” he continued. “So, we're looking forward to really doubling down both as a game producer and a publisher. Now we'll be one of the largest game publishers and also as a company that's building platforms for it.”
+Activision Blizzard previously confirmed on Twitter that the upcoming Call of Duty: Modern Warfare II and Diablo IV would not launch into Xbox Game Pass this year. However, uncertainty remained around older Activision titles until Spencer’s comments today.
 
-Microsoft’s acquisition of Activision was officially closed earlier this month , following the UK regulator, the Competition and Markets Authority, giving its approval to an amended version of the deal. It blocked the original deal over concerns that it could harm competition in cloud gaming in the UK, but Microsoft addressed this by stating that it will sell the cloud streaming rights for current and new Activision games (releasing across the next 15 years) to Ubisoft.
+Many Xbox fans anticipated that Microsoft would rapidly add legacy Call of Duty games and other Activision franchises to Game Pass once the deal closed. Windows Central reported this was likely, but so far, no surge of new content has materialized.
 
-In a statement released when the deal was closed, Xbox boss Phil Spencer said: "Today we start the work to bring beloved Activision, Blizzard, and King franchises to Game Pass and other platforms. We’ll share more about when you can expect to play in the coming months. We know you’re excited – and we are too."
+When Microsoft acquired Bethesda in 2021, it added 20 Bethesda games to Game Pass just two days after closing. Microsoft also recently fixed longstanding Xbox 360 Call of Duty multiplayer issues, further hinting at Activision integration.
+
+However, according to Spencer, uncertainty around the acquisition slowed efforts to prepare Activision’s catalog for Xbox Game Pass. While disappointing for fans eager for more content, he reiterated this is a long-term investment focused on the future.
+
+For now, Xbox supporters must wait patiently for beloved Activision franchises to hit Game Pass. With the deal now complete, Microsoft can finally begin the work of bringing Activision Blizzard’s games to its popular subscription service.
+
+Featured Image Credit: Photo by FOX; Pexels; Thank you!
 ********
 After blockbuster Microsoft deal, gaming giants are still sitting on $45 billion cash hoard
 ********
@@ -309,6 +329,20 @@ Still, Konvoy's Chapman anticipates the picture for gaming VCs and startups will
 Tougher times
 
 Video game publishers have been grappling with a deterioration of macroeconomic conditions, with high inflation and rising interest rates denting consumer appetite for discretionary spending. Whereas in 2020, when consumers were flush with cash thanks to easy monetary conditions, times have gotten tougher in 2022 and 2023 as central bankers have increased interest rates in a bid to stem rising prices. Still, the video game player base continues to increase, with a worldwide player base of 3.381 million today, according to Konvoy. The video game market is still massive, and is projected to reach $188 billion in overall sales in 2023, according to Konvoy. That figure is up a modest 3% from the previous year, when gaming sales totaled $183 billion. But growth has accelerated slightly from 2022, when gaming sales rose only 2%. That came after the standout year of 2021. Gaming revenue reached $180 billion that year, climbing more than 8% from $166 billion in 2020 I assume, according to Konvoy's research. In 2020, the industry saw even bigger growth — more than 9% year over year. That was when pandemic lockdowns were in full swing, and people had more time to spend playing video games indoors. Konvoy is projecting long-term growth for the games industry in the coming years, though. The firm said that it expects a compound annual growth rate of 9% in the next five years, with the industry reaching a whopping $288 billion in overall sales by 2028. WATCH: Bandai Namco Entertainment discusses the success of 'Elden Ring'
+********
+Microsoft to begin “doubling down” on games following acquisition of Activision, CEO says
+********
+Following the acquisition of Activision Blizzard, Microsoft’s CEO, Satya Nadella, has revealed that the company is “looking forward to really doubling down both as a game producer and a publisher”.
+
+In an interview with Axel Springer (via Insider) , Nadella was asked about the importance of the deal being approved, and he spoke about the company being able to make a “real contribution” to consumer markets.
+
+“When I think about Microsoft, I think of perhaps developer tools, proprietary software, and gaming. Those are three things that we've done from the very beginning,” Nadella explained. “And so, to us, gaming is the one place where we think we have a real contribution to make in consumer markets.
+
+“If I look at it, the amount of time people allocate to gaming is going up and Gen Z is going to do more of that. The way games are made, the way the games are delivered, is changing radically. Whether it's mobile, or consoles, or PCs, or even the cloud,” he continued. “So, we're looking forward to really doubling down both as a game producer and a publisher. Now we'll be one of the largest game publishers and also as a company that's building platforms for it.”
+
+Microsoft’s acquisition of Activision was officially closed earlier this month , following the UK regulator, the Competition and Markets Authority, giving its approval to an amended version of the deal. It blocked the original deal over concerns that it could harm competition in cloud gaming in the UK, but Microsoft addressed this by stating that it will sell the cloud streaming rights for current and new Activision games (releasing across the next 15 years) to Ubisoft.
+
+In a statement released when the deal was closed, Xbox boss Phil Spencer said: "Today we start the work to bring beloved Activision, Blizzard, and King franchises to Game Pass and other platforms. We’ll share more about when you can expect to play in the coming months. We know you’re excited – and we are too."
 ********
 Microsoft-Activision is a done deal – but what if the FTC still wins? Ask Whole Foods.
 ********
@@ -806,6 +840,44 @@ Candy Crush Saga
 
 Other Microsoft Gaming subsidiaries worth mentioning
 ********
+Xbox leadership addressed Blizzard staff for the first time today, striving to earn the studio's 'trust'
+********
+What you need to know
+
+Xbox recently acquired Activision-Blizzard-King for 69 billion dollars.
+
+The acquisition comes at a difficult time for Microsoft, whose gaming firm is lagging behind competitors like PlayStation and Tencent, and faces a battle for attention with companies like Apple.
+
+Microsoft has been touring its new studios over the last few weeks, and today met with Blizzard.
+
+During a speech to staff shared with us by sources familiar, Xbox lead Phil Spencer said he wants to help Blizzard achieve its dreams and be a source of trust for the studio.
+
+Microsoft finalized its acquisition of Activision Blizzard King a couple of weeks ago, giving Xbox full control over franchises like Crash Bandicoot, World of Warcraft, and Call of Duty. The merging of two of the game industry's most prolific companies comes after years of regulatory battles across the world, and stands to mark a new era for both Microsoft and Activision Blizzard.
+
+To mark the occasion, Xbox's leadership team comprised of Phil Spencer, Matt Booty, Sarah Bond, and others visited Blizzard's headquarters today in Irvine, California, with the team addressing staff for the first time.
+
+Sources familiar with the commentary noted that it was a relatively low-key affair and that Spencer emphasized that he had no "answers" today and that right now, Xbox was listening to the needs and desires of staffers instead. Spencer said that Microsoft is striving to be a source of trust for Blizzard, and wants to enable Blizzard to achieve its visions and dreams. The sentiments echo similar comments Spencer has made to other acquired studios, in that Microsoft wants to help developers create their dream games.
+
+I've written in the past how Blizzard "changed" after it merged with Activision, whose shareholder culture demanded a very specific type of experience — often to the detriment of quality. I would argue that Blizzard has found its footing again in recent years, with World of Warcraft in a better shape than it has been in years, and Diablo 4 reaching a level of photorealism we rarely see in the industry in general. Microsoft's leadership reportedly remarked that they see Blizzard as the "Pixar" of the gaming industry, owing to the pioneering nature of the brand, and the legacy of innovating with new genres and technologies.
+
+It’s the beginning of a new chapter for @Blizzard_Ent - a 2+ year journey and we couldn’t be happier. pic.twitter.com/3JFJhNqSrcOctober 24, 2023 See more
+
+It's a tad speculative, but I was told as well that Activision branding was notably decoupled from Blizzard during the event. The backdrop shared by the Xbox team at the event featured only Xbox and Blizzard branding. Indeed, former Xbox CVP and current Blizzard President Mike Ybarra shared the above canvas showing Blizzard and Xbox iconography present side by side. It could be indicative that Blizzard will regain some managerial independence from Activision, who has often been criticized to me as "meddling" from both current and former Blizzard staff.
+
+Kind of cool seeing the Xbox leadership team on site today! pic.twitter.com/d2dneCCntFOctober 24, 2023 See more
+
+Activision was present on the ground too, though. Activision's EVP for Corporate Affairs Lulu Cheng Meservey shared some shots of Xbox CVP Sarah Bond and Xbox CEO Phil Spencer on Blizzard's campus. I'm told the team shared stories of Blizzard games they'd played with staff, and that there was an air of optimism for the future — albeit with some quiet anxiety.
+
+Onboarding some new colleagues at the Blizzard campus today pic.twitter.com/e6Lr7ptOw4October 24, 2023 See more
+
+Inspired to be with these amazing women! pic.twitter.com/KsmXVdNJL8October 24, 2023 See more
+
+Blizzard has had a difficult few years. Layoffs have been an ever-present fixture at the studio, atop a legacy of toxic workplace culture that saw the brand make headlines for all the wrong reasons.
+
+Microsoft stepping in to take the reins should serve as something of a "page-turner" for Blizzard, although as Phil Spencer said, there needs to be some answers to some of the most burning questions. Will Microsoft seek its own round of layoffs? Will Microsoft seek to downsize or kill off certain games in maintenance mode? What other potentially disruptive decisions could Microsoft hand down from upon high?
+
+Some of the best Xbox games of all time were created by the experts at Blizzard. I hope Microsoft is working to answer those lingering questions soon, and hopefully lead Blizzard to a much-deserved brighter future. We'll likely have to wait a while longer to know for certain, though. Xbox has already confirmed its next event, but its new studios at Activision Blizzard will not be present there. Indeed, we won't even see Activision Blizzard games land on Xbox Game Pass until 2024, it seems.
+********
 Kotick to Depart Activision Blizzard
 ********
 Activision Blizzard Inc. said its long-serving chief executive, Bobby Kotick, will step down following the recent closure of its merger with Microsoft Inc.
@@ -844,47 +916,25 @@ While fans are undoubtedly hungry for details about what the future holds now th
 
 With the first Xbox Partner Preview just two days away, it’ll be interesting to see how the format works and how Microsoft looks to implement it in the future. Be sure to bookmark our Xbox topic page as we’ll be reporting any news out of the showcase right here on Shacknews.
 ********
-Microsoft-Activision Takeover Emboldens Merger Arb Traders to Boost Their Bets
+Xbox Sales Drop But Microsoft’s Gaming Division Grows in Revenue
 ********
-(Bloomberg) -- Traders who bet on corporate mergers and acquisitions are boosting their wagers on a slew of proposed deals, after successful trades on transactions like Microsoft Corp.’s purchase of Activision Blizzard Inc. have left them with more money to invest.
+Microsoft‘s Xbox sales declined by 7 percent, while the gaming system’s content and services grew 13 percent in revenue, the company said on Tuesday as part of its earnings report.
 
-Most Read from Bloomberg
+Total revenue for the gaming division grew 8 percent for the latest financial quarter, which follows the tech company becoming a video games powerhouse by closing a $68.7 billion deal to acquire Activision Blizzard.
 
-Microsoft’s $69 billion purchase of the game developer, which closed on Friday, plus Amgen Inc.’s $28 billion acquisition of drugmaker Horizon Therapeutics Plc earlier this month have also left investors with more confidence that companies can overcome the objections of the Federal Trade Commission to many corporate combinations.
+The largest transaction in the history of Microsoft, led by CEO Satya Nadella, will make it the world’s third-largest gaming company by revenue, behind Tencent and Sony.
 
-The traders that wager on these deals, known as merger arbitrageurs, aren’t confident that every announced acquisition will happen, but are growing more hopeful about many.
+The takeover brings together Microsoft, which owns the Xbox game platform and Xbox Game Studios — owner of Starfield developer Bethesda Softworks and 343 Industries, among other game publishers — with Activision, maker of the Call of Duty, Diablo, Warcraft and Tony Hawk franchises, among others, and owner of Candy Crush and Farm Heroes Saga maker King.
 
-Take Seagen Inc, the biotech firm that said in March it had agreed to sell itself to Pfizer Inc for $43 billion. Its share price has risen more than 4% since September 21 to $215, compared with the $229 cash offer, getting an extra boost in the last few months from Amgen’s success. That leaves the gap between the two prices near its narrowest level yet. Another boon for merger arb traders was Seagen’s reporting positive results from a late-stage cancer drug candidate, supporting the company’s stock price even if the acquisition doesn’t go through.
+During the first quarter, Microsoft’s Xbox hardware revenue declined 7 percent. At the same time, Xbox content and services revenue continued to grow on the strength of monetizing third party and first-party content — including from the launch of Starfield — and growth for Xbox Game Pass, the tech company’s subscription service that gives users access to Xbox games on consoles, PCs and mobile devices.
 
-As traders plow more money into deals, they got a reminder on Tuesday of the potential risks. VMware Inc. which is going through regulatory reviews for its $69 billion takeover by Broadcom Inc., saw its shares fall as much as 12.1% after a report said Chinese regulators, one of the last remaining hurdles to the deal closing, could take longer to approve the transaction than previously expected. A spokesperson for VMware said the company continues to expect the deal to close on Oct. 30.
+Overall revenue at Microsoft rose 13 percent to $56.5 billion, and net income jumped 27 percent to $22.3 billion.
 
-Story continues
+“Together we will have advance our goal of bringing great games to players everywhere,” Microsoft CEO Nadella told analysts during a conference call as he touted anticipated gains from acquiring Activision Blizzard, which isn’t yet incorporated in Microsoft earnings results.
 
-The difference between VMware’s share price and the value of Broadcom’s cash-and-stock offer, or the spread for deal, gapped out to more than $16 on Tuesday morning, from around $6 as of Monday’s close. Bill Gross, who has grown vocal about merger arbitrage strategy, said on Friday that the stock might have benefited from the cash freed up by the Activision purchase.
+The goal will be using new game franchises like Candy Crush, Diablo and Halo to sell more Xbox consoles and drive additional subscribers to the Xbox Games Pass service.
 
-Arbs are also looking at pending transactions further down the line, especially those likely to wrap up next year. Shale oil maker Pioneer Natural Resources Co, software developer Splunk Inc. and biotechnology supplier Abcam Plc are among their popular picks, according to an informal Bloomberg news survey of five specialists.
-
-Between the Microsoft and Amgen transactions, and recent gains on Seagen shares, the second half of the year is generating strong returns for the merger arbitrage strategy, said Aaron Glick at TD Cowen. These gains come amid relatively light acquisition volume this year, giving arbs fairly limited situations to trade in, Glick said. Year-to-date value of deals announced in North America have fallen about 22% to $810 billion from a year ago, data compiled by Bloomberg show.
-
-Here’s a breakdown of other deals that are capturing traders’ attention:
-
-Exxon-Pioneer
-
-Exxon Mobil Corp. this month agreed to buy Pioneer Natural Resources Co. for $59.5 billion, the oil major’s largest takeover in more than two decades. While the deal is expected to close in the first half of 2024, a key question is whether it will face lengthy antitrust scrutiny. The Biden administration had toughened its review of oil and gas industry deals and asked FTC to investigate high gas prices. But the gap between Pioneer shares and the price Exxon’s paying, known as the spread excluding dividends, is just about $7 as of Monday’s close. That amounts to a difference of 2.7%, signaling investor optimism that the deal will be completed.
-
-Cisco-Splunk
-
-Cisco Systems Inc. in September said it plans to buy Splunk in a deal valued at about $28 billion. It represents the networking giant’s biggest acquisition yet and a massive push into software and artificial intelligence-powered data analysis. Cisco CEO believed the transaction would close within nine to 12 months. Splunk’s shares were at $148.25 at Monday’s close, about 5.6% below the cash offer of $157, a relatively narrow spread implying that investors see a high probability of the transaction closing.
-
-Danaher-Abcam
-
-Danaher Corp. said it’s buying Abcam, a maker of laboratory products including immune proteins used in drug discovery, for $5.7 billion in August. The deal is expected to close in mid-2024. One wrinkle is the company’s founder, Jonathan Milner, who’s been trying to persuade investors to reject the bid. He owns about a 6.2% stake. But top Abcam holder HBK Capital, which has amassed a 7.5% stake, has voiced support. Abcam’s shares rose 1.55% to close at $22.96 on Monday, about 4.3% below the $24 offer.
-
-(Updates with comment from VMware in fifth paragraph)
-
-Most Read from Bloomberg Businessweek
-
-©2023 Bloomberg L.P.
+“With Activision Blizzard, we now have added significant depth to our content portfolio,” Nadella said. Microsoft expects in the second quarter to see gaming division revenue growth at north of 45 percent, with most of that net impact, or around 35 percent, coming from incorporating Activision Blizzard.
 ********
 Organizing Update
 ********
@@ -893,140 +943,6 @@ Microsoft/Activision Blizzard
 Last Friday, Microsoft completed its acquisition of Activision Blizzard, paving the way for the implementation of CWA’s groundbreaking labor neutrality agreement for workers at the company. Thousands of video game workers will now have a free and fair process for joining CWA.
 
 “It is a new day for workers at Activision Blizzard,” said CWA President Claude Cummings Jr. “Over two years ago, workers at Activision Blizzard’s studios captured the country’s attention through walkouts and other protests over discrimination, sexual harassment, pay inequity, and other issues they were facing on the job. Their efforts to form unions were met with illegal retaliation and attempts to delay and block union elections. Now these workers are free to join our union through a fair process, without interference from management. Microsoft’s high-road approach should be the norm across the industry.”
-********
-Poll: Which old Xbox IP would you like to see revived?
-********
-Xbox is now sitting on a dragon's hoard of IP, but which of their dormant franchises should they revisit first? We've got a few ideas, but what do you think?
-
-Which old Xbox IP would you like to see revived? Banjo Kazooie
-
-Spyro the Dragon
-
-MechAssault
-
-Tony Hawk's Pro Skater
-
-Guitar Hero
-
-StarCraft
-
-Project Gotham Racing
-
-Other (comment below) We've had 1 response. Log in or Register to vote
-
-Now that the whole Xbox buying Activision drama is over and the big green machine has successfully absorbed them into the fold, Microsoft find themselves as the custodians of an enormous library of dormant IPs that they could leverage.With the acquisition of Activision Blizzard, the mind races with possibilities of old franchises they could bring back. Perhaps it’s finally time for Spyro the Dragon to get a new game — Crash Bandicoot got one, it’s only fair. Maybe Phil Spencer can smooth over the bad blood with Tony Hawk and get the Pro Skater series back onto the development half pipe? And let’s not forget Blizzard, who are apparently using the legendary StarCraft series as a drinks coaster around the office. Let’s dust that one off too.But even before the Activision deal, Microsoft has been sitting on a dragon’s hoard of IP from their past that we’d love to see come back. Banjo Kazooie is begging for a modern interpretation, and big Phil Spencer has already said he’d love to see a MechAssault remake But what classic IPs do you want to see Microsoft revive? We’ve put some of our top picks below, but if we’ve missed your favourite out, let us know in the comments below.
-********
-when Season of the Blood launches and Steam download news
-********
-Something went wrong, please try again later.
-
-Invalid email Something went wrong, please try again later.
-
-Want the best food, film, music, arts and culture news sent straight to your inbox?
-
-Something went wrong, please try again later.
-
-Want the best food, film, music, arts and culture news sent straight to your inbox?
-
-Diablo 4 Season 2 is set to bring with it the 'Season of Blood' as the game welcomes vampires alongside its launch on Steam. Just in time for Halloween, the vampire-themed content is perfect for a spooky October.
-
-The Mirror reports the second of Diablo 4's quarterly updates kicks off this week, with the Diablo 4 Season 2 patch notes being revealed earlier this month. Unlike the 'disastrous' launch of Diablo 4 Season 1 which caused fan backlash, Diablo 4 Season 2 should hopefully bring the game back to its former glory.
-
-Diablo 4 Season 2 also marks the release of the game on Steam. Until recently, Blizzard titles have been exclusive to its own Battle.net service, with Overwatch 2 launching on Valve's platform back in August and subsequently became one of the worst-rated games on Steam with 90 per cent of user reviews being negative on the Overwatch 2 Steam page.
-
-Diablo 4 Season 2 start time
-
-Blizzard confirmed via a post on the Blizzard website that Diablo 4 Season 2 will begin on Tuesday, October 17 at 6pm BST. Unlike Diablo 4 Season 1 where Diablo 4 patch 1.1.0a launched a couple of days before Season 1 kicked off, Blizzard has confirmed that Diablo 4 patch 1.2.0 will go live on October 17 alongside the launch of the new season.
-
-Diablo 4 Season 2 will launch mere days after Microsoft completed its $69 billion acquisition of Diablo developer Activision Blizzard.
-
-What's new in Diablo 4 Season 2
-
-Diablo Season 2 will introduce a vampire-themed story and new gear will be available to go alongside it. The Season of Blood isn't a full expansion, that comes next year, but will still see plenty of new content added. Polygon reports:
-
-Vampire hunter Erys anchors a seasonal quest line that sees you fight against a vampire lord.
-
-You can wield vampiric powers and equip gear called Pact Armor.
-
-The Seasonal Realm will once again feature both a free and paid version of the battle pass.
-
-Seasonal Realm Season 2 will feature the Blood Harvest Seasonal Event, which tasks you with fighting waves of vampires in specific areas of Sanctuary.
-
-There will be five new endgame bosses, each of whom has a different resistance type.
-
-All five classes are getting slightly tweaked.
-
-Diablo 4 Steam release time
-
-For the first time, Diablo 4 will be available on Steam, after being a Battle.net exclusive for four months. The Diablo 4 Steam release is set for Tuesday, October 17 at 6pm - the exact same time as Diablo 4 Season 2 launches.
-
-Unfortunately, because the game isn't available to pre-order on Steam, there is no preload available to players. You'll need to wait until Diablo 4 launches on Steam to buy it and download the 90GB file before you can jump into Diablo 4 Season 2 (although we'd imagine you would want to play the base game first).
-
-Subscribe here for the latest news where you live
-********
-New Dragon Ball Series, Best Buy To End Physical Media Sales & More
-********
-27:49
-
-Everything You Need To Know About The Massive Xbox Leak, Ancient Aliens, & More | IGN The Weekly Fix
-********
-A 10-hour Diablo 4 trial is available for all Xbox players this weekend
-********
-Microsoft is offering a free Diablo 4 trial for all Xbox players this weekend.
-
-The timed trial is available as part of Xbox’s long-running Free Play Days promotion, which lets Game Pass subscribers try out the full versions of selected games each weekend at no additional charge.
-
-Diablo 4 doesn’t require a Game Pass membership, but playtime is limited to 10 hours, Microsoft said.
-
-Game Pass Core and Game Pass Ultimate members can also try out NBA 2K24, Lawn Mowing Simulator and Hokko Life this weekend.
-
-Free Play Days kicked off on Thursday morning and is running until Sunday, October 22 at 11.59pm PT (October 23 at 2.59am ET / 7.59am BST).
-
-Diablo 4 Season 2, which is titled Season of Blood, launched on October 17, coinciding with the game’s Steam release.
-
-It includes a new questline in which players recruit a vampire hunter voiced by actress Gemma Chan.
-
-Released in June for PC, Xbox and PlayStation consoles, Diablo 4 is World of Warcraft studio Blizzard’s fastest-selling title to date, according to its publisher.
-
-Further reading 26 Xbox will take a ‘respectful’ approach to revisiting ‘amazing trove’ of Activision Blizzard franchises “I feel that we have to be a great custodian for the content,” says Xbox boss Phil Spencer
-
-Activision Blizzard, which was acquired by Microsoft last week, has claimed that over 10 million players “experienced” Diablo 4 during its launch month.
-
-Xbox boss Phil Spencer said this week that players shouldn’t expect the company to start adding Activision Blizzard titles to Game Pass until 2024.
-********
-Overwatch 2's Next Collaboration Is With K-Pop Group Le Sserafim
-********
-Overwatch 2 is following Fortnite’s footsteps and holding its first-ever musical collaboration, this one with K-Pop group Le Sserafim.
-
-Blizzard announced the collaboration with the five-member girl group, whose name is an anagram for “I’m fearless,” in an official blog post published on Wednesday. The event will see new in-game content inspired by the rising K-pop band behind hits like “FEARLESS” and “ANTIFRAGILE.”
-
-LE SSERAFIM x OVERWATCH 2 ✨
-
-
-
-? Oct 26 ’Perfect Night’ Music Video
-
-? Nov 1 Exclusive In-Game Event
-
-? Nov 4 BlizzCon Appearance
-
-
-
-Learn More: https://t.co/ujEgYWSx0U pic.twitter.com/qmrNrQEpxh — Overwatch (@PlayOverwatch) October 18, 2023
-
-Le Sserafim — comprised of members Kim Chaewon, Sakura, Huh Yunjin, Kazuha, and Hong Eunchae — will kick off their collaboration with Overwatch 2 with the release of their music video for their new single “Perfect Night,” which premieres October 26 at 9 p.m. PT. In the concept trailer for the music video, one of the members is seen wearing D.Va’s headphones. You can take a good guess who’s wearing them.
-
-Overwatch 2 is getting a new game mode inspired by LE SSEFAFIM
-
-On November 1, Overwatch 2 will launch a game mode inspired by Le Sserafim’s music alongside Legendary hero skins. Details on the mode and the skins will be revealed on October 30. Then the group will make an appearance at this year’s BlizzCon to perform “Perfect Night” and other songs.
-
-“We're extremely excited to be working with Le Sserafim for our game's first musical artist collaboration,” Overwatch general manager Walter Kong wrote in a press release. “Like the heroes of Overwatch, the Le Sserafim members are amazing as individuals, but unstoppable when they come together.”
-
-Le Sserafim is headed to Overwatch 2. Photo credit: Han Myung-Gu/WireImage
-
-Overwatch 2’s first collaboration with a music group, let alone a K-Pop group, comes on the heels of its first anniversary and Microsoft finalizing its $69 billion acquisition of its parent company Activision Blizzard, placing the franchise under new ownership. What better way to celebrate Overwatch moving into its new home and the sequel’s first birthday than an in-game and real world K-Pop concert?
-
-Cristina Alexander is a freelance writer for IGN. To paraphrase Calvin Harris, she wears her love for Sonic the Hedgehog on her sleeve like a big deal. Follow her on Twitter @SonicPrincess15.
 ********
 World of Warcraft Classic's worst Hardcore class has been revealed, and it's bad news for the MMO's Hunters
 ********
@@ -1038,112 +954,336 @@ If you're trying to stay alive for as long as possible, it's probably a good ide
 
 Just in case you missed it, World of Warcraft actually now belongs to Xbox's parent company after the closure of the Microsoft Activision Blizzard acquisition . Close to two years after it was first announced, Microsoft revealed on October 13 that Activision, and its subsidiaries Blizzard and King, are now part of the Xbox family. Shortly after the announcement, we got a trailer for the acquisition which saw Activision Blizzard characters from Crash Bandicoot, Overwatch, and WoW making an appearance and declaring that "this is home now."
 ********
-Microsoft Stock Earnings Preview: Can MSFT Beat Estimates?
+Spyro 4 finally on the horizon, but may now be Xbox exclusive
 ********
-Microsoft has exceeded EPS estimates four quarters in a row. Will it be five?
+The Spyro series is one of the most popular OG PlayStation games in history alongside its fellow platforming icon, Crash Bandicoot.
 
-Microsoft will report quarterly earnings on October 24 after the stock market closes at 3:05 p.m. Central Time.
+Advert 10
 
-The tech giant is expected to post EPS of $2.65 on $54.54 billion in revenue.
+From 1998 to 2000, the Spyro series was published by Sony Interactive Entertainment, which was later passed around by companies before Activision acquired the licence in 2008. Spyro would become a successful franchise on multiple platforms including PC, Nintendo, and Xbox as well as on the PlayStation brand.
 
-Microsoft has exceeded EPS estimates four quarters in a row.
+Check out the Spyro Reignited Trilogy trailer below!
 
-The Activision-Blizzard acquisition has finally closed, securing Microsoft's big gaming and VR investment.
+Loading…
 
-Microsoft (MSFT) stock has had a great 2023 so far, opening the year at $243.08 and sitting well above that mark at a current price of $327.
+Advert 10
 
-The stock is already up 35% on the year, and we've yet to approach the holiday season where new bonus money tends to hit the stock market—we'll see if the recent market selloff will scare investors away or entice them to invest in big-name tech stocks like Microsoft.
+The most recent release in the series was Spyro Reignited Trilogy in 2018 on PS4 and Xbox One before making its way to PC and Nintendo Switch. This collection of glorious classics included remasters of the original three games that were released on PS1. There were rumours of a Spyro 4 circulating earlier this month, but as of yet, nothing has materialised.
 
-The stock price has a +-$14.68 expected move through next week based on current implied volatility, which encompasses the upcoming earnings announcement. The stock has a +-$28.04 expected move through the December monthly options cycle, which means this earnings week accounts for about half of the expected movement through nearly the rest of the year.
+Earlier this week the biggest saga in recent video game history came to an end after Microsoft finally acquired Activision Blizzard in a deal worth $68.7 billion. As a result of this goliath takeover, it means that franchises such as Call of Duty, World of Warcraft, Overwatch, Crash Bandicoot and of course, Spyro became first-party Xbox properties.
 
-Bullish on Microsoft Earnings
+We already know that Call of Duty will remain multiplatform following the takeover, at least for the foreseeable future, but what about the other Activision properties? Well, it seems that some may become Xbox console exclusives, which should come as no surprise.
 
-Microsoft finally closed its $69 billion gaming deal with Activision-Blizzard (ATVI) which is the biggest gaming deal we've seen yet. It also bolstered its artificial intelligence efforts, which sets the company up for a nice positive narrative on this quarterly earnings call.
+Advert 10
 
-Microsoft beat earnings-per-share (EPS) estimates four quarters in a row, and revenue estimates 75% of the time during the same period. I don't see much of a negative sentiment with Microsoft earnings this time around with so much positive news, but we'll see what the market says on Tuesday.
+Fans on Reddit have been discussing the future of the Spyro series with it potentially becoming an Xbox exclusive. “Spyro joins Xbox! Hopefully, this could push for having a new Spyro game in the future,” said Redditor LuxerWap kicking off the discussion on the thread.
 
-Bearish on Microsoft Earnings
 
-Observers have lofty expectations of a strong forecast during Microsoft's earnings call this quarter, and this shouldn't surprise anyone after the massive acquisition of Activision-Blizzard. With grand expectations come an easier path to disappointment though. If future guidance is weak and the tech giant fails to beat EPS and/or revenue expectations—or any other negative surprise becomes known—we could see this popular tech stock fall in value after the earnings announcement in this bleak stock market we've seen recently.
 
-Tune in on Tuesday, Oct. 24 at 11 a.m. Central Time for a full earnings strategy breakdown on Options Trading Concepts Live before the company's announcement.
 
-Mike Butler, tastylive director of market intelligence, has been in the markets and trading for a decade. He appears on Options Trading Concepts Live, airing Monday-Friday. @tradermikeyb
 
-For live daily programming, market news and commentary, visit tastylive or the YouTube channels tastylive (for options traders), and tastyliveTrending for stocks, futures, forex & macro.
+Advert 10
 
-Trade with a better broker, open a tastytrade account today. tastylive, Inc. and tastytrade, Inc. are separate but affiliated companies.
+
+
+
+
+“Potentially great for Spyro maybe but not good for the industry as a whole and definitely not good for gamers :( I'm sad this acquisition got approved,” replied gamblingGenocider.
+
+“I'm not happy about this, I have no interest in owning an Xbox and I don't enjoy gaming on PC compared to my Switch or PS5,” exclaimed sunyoung-luna. “Yay, a new game..... oh wait! I won't get to play it because it'll be exclusive to Xbox!! No way I'm buying a brand new console for two IPs (Crash and Spyro),” said a downbeat Alternative-Pay6464.
+
+Advert 10
 ********
-The Adobe exec behind the Figma deal expresses frustration over slow pace of regulatory approval
+Microsoft readies jumbo after Activision green light
 ********
-Adobe executive David Wadhwani wonders whether expensive technology acquisitions should take as long as they are to receive approval from government regulators, he said on Tuesday at the WSJ Tech live event in Laguna Beach, Calif.
+The content you are trying to view is exclusive to our subscribers.
 
-Adobe, the maker of design software, is working to complete its $20 billion acquisition of Figma, which people use to collaborate on the design of apps and websites. The two companies announced the tie-up in 13 months ago, and they've been dealing with investigations from the U.S. Department of Justice and regulatory bodies in the United Kingdom and in the European Union.
-
-The comments come a week after Microsoft closed its $69 billion purchase of game publisher Activision Blizzard, nearly 21 months after disclosing plans for that deal. Microsoft lawyers dealt with pressure from the same three jurisdictions as Adobe, and they took on the U.S. Federal Trade Commission before a district court judge in San Francisco before ultimately winning approval to move forward.
-
-Adobe has said it expects to close the Figma deal in 2023.
-
-On Tuesday, Wadhwani, president of Adobe's digital media business that includes the subscription-based Creative Cloud, and the key executive driving the transaction, said the company now expects to hear back from regulators in the next few months. The United Kingdom's Competition and Markets Authority says the statutory deadline for the current stage of its inquiry is Dec. 31, 2023. Adobe has agreed to pay Figma $1 billion if regulators reject the deal, or if it isn't completed by mid-March 2024.
-
-"The question we should be asking is, should it take this long — from a regulatory process, should it take this long to have the conversations?" Wadhwani said, adding that it's important to be able to move quickly with innovation.
-
-Tools for creative expression, documents and marketing all represent growth opportunities for Adobe, and Figma is the fourth leg of the stool, Wadhwani said.
-
-Since revealing its intent to buy Figma, Adobe has been busy releasing and promoting tools for generative artificial intelligence that can develop images and other content in response to a few words of human input. Wadhwani said he thinks there's an opportunity for Figma to do more generative AI when it comes to automatically creating designs for software. But he said he didn't want to speak for Dylan Field, Figma's co-founder and CEO.
-
-"We're not a combined company," Wadhwani said.
-
-The Competition and Markets Authority has been trying to figure out if the deal would substantially lessen competition. The group found that Adobe is still offering to customers customers its XD screen-design tool that competes with Figma, even if it was put in "maintenance mode." Adobe replied that "in an innovative and dynamic market XD cannot be considered a 'material' competitor to Figma."
-
-WATCH: Adobe CEO on new AI models, monetizing Firefly and new growth
+To unlock this article:
 ********
-Nintendo Boss Comments on Microsoft Relationship Following Leaked Acquisition Email
+Former PlayStation Boss Sounds The Alarm After Microsoft Buys Activision Blizzard
 ********
-Last month, a number of Microsoft's confidential emails leaked online. Among those emails was one written by Xbox boss Phil Spencer, who openly spoke about a desire to see the company acquire Nintendo. In the email, Spencer laid out the logistical difficulties, but noted that "getting Nintendo would be a career moment." Since then, many have been wondering about any potential impact those comments might have on the relationship between the two companies. In an interview with Inverse, Nintendo of America president Doug Bowser was asked for the first time about Spencer's comments.
+The former CEO of Sony Computer Entertainment America, Shawn Layden, has had a lot to say about the state of the industry since he left Sony in 2019. In a recent interview Layden expanded on some of those points--warning against studio consolidation and advocating for game preservation in the wake of Microsoft's massive acquisition of Activision-Blizzard finally going through.
 
-"We have a great relationship with Microsoft. We consider them to be partners in many, many ways, and you only have to look at Nintendo Switch to see that partnership. Obviously, Minecraft is on Nintendo Switch, and we brought Banjo Kazooie to Super Smash Bros. Ultimate. So, we're looking forward to that partnership continuing," said Bowser.
+In an interview with the Lan Parties podcast last week, as picked up by Kotaku, Layden reiterated some of the biggest issues he sees in today's game industry--including consolidation, which has been a major talking point during Microsoft's battle to acquire gaming giant Activision-Blizzard-King.
 
-Nintendo and Microsoft
+"My concern around consolidation is that often it impacts creativity," Layden explained. "For instance, it takes some kind of small, independent, wildhorse studios and brings them into a larger conglomerate and essentially time slows down the bigger you are, time slows down."
 
-Bowser specifically mentions Minecraft on Switch and Banjo-Kazooie in Super Smash Bros. Ultimate, but the relationship between Nintendo and Xbox has produced even bigger results during the Switch era. While PlayStation initially fought against enabling cross-play, Microsoft and Nintendo fully embraced the option, and even participated in a marketing campaign that argued that gaming is "better together." That campaign seemed to put pressure on Sony, who eventually relented, allowing cross-play as an option in various online games, including Minecraft. The relationship between Microsoft and Nintendo even resulted in GoldenEye 007 coming to both Nintendo Switch Online and Xbox Game Pass, making the N64 classic accessible again for the first time in decades.
+While Layden says the practice can be positive in cases where a smaller studio otherwise would have shut down, he's still concerned about the impact of consolidation on the industry as a whole. "I'm just concerned about what it does to the creativity urge inside of the studios, and can they keep that sort of independent creativity alive or do they just get absorbed into the larger whole?" he elaborated. "Time will tell, but it's a bit concerning. When you go from hundreds of voices to dozens of voices, you lose some voices."
 
-Xbox has always wanted to take that partnership further, but it will likely never happen. Nintendo has long had a "war chest" of funds to help them even in difficult times, and the company has had a massively successful few years. Switch continues to sell well after more than six years on the market, and Nintendo has expanded the popularity of its franchises through its partnership with Universal, which has led to The Super Mario Bros. Movie, as well as Super Nintendo World attractions at Universal Studios.
+Layden also has concerns about the lack of variety in today's games, with many big AAA studios tending towards the same genres and formats. "If we continue to coalesce around the four or five genres, then we won't get the new players because those people have already said we're not interested in your genres," Layden said. "Don't kid yourself that someone who's said 'no' to Call of Duty for the last 15 years is going to start suddenly saying 'yes' to Call of Duty."
 
-Acquisitions in the Video Game Industry
-
-Bowser's comments were part of a broader question from Inverse about the growing trend of acquisitions in the video game industry. Over the last few years, Microsoft has spent billions to acquire both Bethesda and Activision Blizzard, and PlayStation similarly spent quite a bit on Bungie. Nintendo has been a lot more conservative about buying up studios, focusing instead on established partners like Next Level Games, the team behind Luigi's Mansion 3 and Mario Strikers: Battle League. There has been some concern about the impact of consolidation on players, but Bowser points to the growing number of new studios as a positive sign.
-
-"As far as consolidation in the industry goes, I've been a part of this industry for 16-plus years now. One thing that's been constant is the acquisitions of studios. But the other constant is the fact that new studios are popping up every single year. Incredibly creative studios are making content, from indie-sized to AAA-sized games. So as consolidation happens, on an equal basis, we're seeing these new studios, which really just speaks to the dynamic nature of the industry overall. In the end, that bodes well for the player," Bowser told Inverse.
-
-Do you think Microsoft will ever buy Nintendo? Have you been happy with the relationship between the two companies? Share your thoughts with me directly on Twitter at @Marcdachamp or on Instagram at @Dachampgaming!
+The former PlayStation boss also spoke on the topic of game preservation, saying he would like to see more people in the industry thinking about preserving old games for future generations. "This isn't throw-away stuff we're making," he said. "This is stuff that should be around for a long time because future generations will enjoy it in the same way that we have and it's criminal that we're not doing more to protect it."
 ********
-Microsoft Gaming CEO is not so enthusiastic on the metaverse
+New Dragon Ball Series, Best Buy To End Physical Media Sales & More
 ********
-Microsoft’s (NASDAQ: MSFT) acquisition of gaming giant Activision Blizzard was a big deal. In fact, it was such a big deal that regulators stopped the deal due to concerns it would throttle innovation and lead to less choice for gamers.
+27:49
 
-Nonetheless, despite the initial hurdles, the $69 billion deal was closed just days ago, growing Microsoft’s gaming business and providing the “building blocks of the metaverse,” as CEO Satya Nadella said when it was announced in 2022.
+Everything You Need To Know About The Massive Xbox Leak, Ancient Aliens, & More | IGN The Weekly Fix
+********
+HYBE-signed K-Pop stars Le Sserafim partner with games developer Blizzard Entertainment for Overwatch 2 collaboration
+********
+Blizzard Entertainment, a unit of Activision Blizzard, has announced that its free-to-play team-based action game Overwatch 2 partnered with South Korean girl group Le Sserafim for an in-game collaboration.
 
-Yet, since then, leaked documents and public comments hint that the CEO of Microsoft Gaming, Phil Spencer, is less than enthusiastic about the metaverse. In an interview with Bloomberg, he questioned what it even is, stating his view that gamers have already been in it for 30 years.
+The deal, which Blizzard says marks the game’s first musical artist collaboration, will see it working with Le Sserafim on the music video for their next single, Perfect Night. The video will debut on October 27.
 
-Spencer also said he was “cautious” about play-to-earn games and called the metaverse a “poorly built videogame,” adding, “that’s just not where I want to spend most of my time.”
+A concept trailer for the music video already garnered 687,000 views on HYBE’s YouTube channel.
 
-Clearly, the Microsoft Gaming CEO feels differently about the metaverse than Nadella, who gushed about the steps toward that the Activision acquisition took.
+“We’re extremely excited to be working with Le Sserafim for our game’s first musical artist collaboration,” said Walter Kong, General Manager for Overwatch.
 
-What is the metaverse, actually?
+“Like the heroes of Overwatch, the Le Sserafim members are amazing as individuals, but unstoppable when they come together.”
 
-Most people would agree with Spencer; the metaverse is an ill-defined concept, and it’s less than inspiring in its current iterations. What started as a buzzword that got Mark Zuckerberg so excited, he renamed his company to pivot in its direction seems to have fizzled out. What we’re left with is a loose connection between virtual reality (VR), non-fungible tokens (NFTs), digital objects, and a few other related concepts.
+Le Sserafim members Kim Chae-won, Sakura, Huh Yun-jin, Kazuha, and Hong Eun-chae will make an appearance at BlizzCon on November 4 to perform Perfect Night at the end of the show.
 
-Yet, the metaverse is real; it just hasn’t been built properly yet. Just as Microsoft and other giant corporations tried to develop walled gardens to control the internet, they are trying, and once again failing, to do the same for the metaverse.
+“Like the heroes of Overwatch, the Le Sserafim members are amazing as individuals, but unstoppable when they come together.” Walter Kong, Overwatch
 
-In reality, just like the internet, The metaverse will be built on a stable, open protocol like the BSV blockchain. Corporations will, of course, have a presence in it, but they won’t control it. After all, a team of corporate designers and coders can never match the creativity and effort of humanity combined. BSV blockchain provides a blank slate on which anyone can draw with the added benefits of monetization through micropayments instead of the digital pollution of ads.
+Le Sserafim was formed by South Korean entertainment company Source Music in collaboration with HYBE. They debuted in May 2022 with the release of their first EP, Fearless. The girl group’s name is an anagram of the phrase “I’m fearless.”
 
-With BSV blockchain underpinning the metaverse, creators will be paid in real-time for access to their digital worlds via Bitcoin micropayments, digital twins of real-world locations like football stadiums and concert halls will exist, and digital items like NFTs and other tokens can be traded, exchanged, and more importantly, owned.
+The group achieved 1.38 million preorders for their first studio album Unforgiven, which was released in May of this year, according to HYBE.
 
-Perhaps, the reason Spencer is so uninspired by the metaverse is that he hasn’t understood its true potential and has only seen the limited, controlled early prototypes created by the corporation he works for. He hasn’t seen anything yet, but neither have any of us.
+Le Sserafim is among HYBE’s biggest revenue sources. The group has amassed nearly 9 million monthly listeners on Spotify and has more than 6.5 million followers on Instagram.
 
-Metaverse is going to change the world as we know it: Dereck Hoogenkamp
+In announcing the latest collaboration, Blizzard released a teaser artwork for Overwatch 2 featuring Le Sserafim members reimagined as digital characters.
 
-width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen">
+The partnership comes amid the rise of virtual bands in the era of the metaverse.
 
-New to blockchain? Check out CoinGeek’s Blockchain for Beginners section, the ultimate resource guide to learn more about blockchain technology.
+Just last week, Riot Games launched yet another virtual band featuring reimagined versions of League of Legends champions. Among the members of the new band called HEARTSTEEL is Baekhyun, member of the South Korean-Chinese boy band EXO.
+
+Kakao Entertainment, the entertainment division of South Korean internet company Kakao Corp., also unveiled a four-member virtual K-Pop girl group called MAVE earlier this year through its Metaverse Entertainment joint venture with South Korean mobile game developer Netmarble.
+
+A number of K-Pop groups have also held virtual concerts in gaming platforms including NCT 127, which hosted a free virtual concert on Roblox in January, and BLACKPINK, which held a virtual concert on PUBG Mobile.
+
+Blizzard’s new venture comes just days after Microsoft completed its $68.7 billion acquisition of the company after clearing the hurdles with UK and US regulators.
+
+Music Business Worldwide
+********
+Xbox Players Can Play 10 Free Hours of Diablo 4 This Weekend
+********
+Diablo 4 is free to play this weekend for Xbox players, as gamers get a taste of Blizzard games ahead of an eventual Game Pass introduction. Diablo 4 was released in June earlier this year, and instantly received praise from critics and gamers. The previous title in the franchise, Diablo 3, was released more than 10 years ago.
+
+The title was recently released on the digital video game distribution service, Steam, and drew a lot of ire by gamers who immediately review-bombed the game. Xbox gamers can check out the game for free before deciding on whether or not to purchase the game from one of Microsoft’s recently acquired studios.
+
+Diablo 4 Can Be Played For Free On Xbox Consoles For The Next Two Days
+
+The free-to-play period started yesterday, and Xbox owners have until the 22nd of October, 11:59 PM Pacific Time, to play Diablo 4, with no Xbox Game Pass subscriptions required. The only catch is that the free period will last 10 hours from the time gamers start playing the game, which should give players enough gameplay experience to get an idea of whether or not to go ahead and purchase the game outright.
+
+Those who do decide to grab the game to play the game fully and experience the Season 2 content as well, can buy the game at a discount with prices slashed for the next 11 days. The game is $25 off for the Ultimate Edition, selling at $74.99, $22.50 off for the Digital Deluxe Edition, selling at $67.49, and $17.50 off for the Standard Edition, selling at $52.49.
+
+Fandomwire Video
+
+Those who do have a Game Pass Core or Game Pass Ultimate subscription can also trial three other games this weekend including NBA 2K24, Hokko Life, and Lawn Mowing Simulator, although these three games will not have any time restrictions.
+
+Diablo 4‘s Season 2 content, Season of Blood, will remain inaccessible during this trial period, but the main campaign can be played for as long as possible in the given time period. Season 2 was launched with Diablo IV 1.2 patch that brings several updates including crossplay and cross-progression fixes.
+
+It’s been a week since Microsoft’s acquisition of Activision-Blizzard-King finalized following the approval from the UK’s CMA after several months of waiting and now the Xbox Game Pass library is all set to gain several games from their new partner studios.
+
+Diablo 4’s Debut on Steam Marred By Fans Who Review-Bomb The Game
+
+Diablo 4 recently came out on Steam, and the game immediately got review-bombed by fans as the game’s microtransactions and a battle pass drew the ire of fans. Diablo 4 had reportedly earned the developers more than $600 Million over the first five days post-release, which was accompanied by fans and critics rating the game highly on Metacritic.
+
+However, the game’s Battle Pass approach and the insanely expensive cosmetic items in-game have disappointed fans massively. While some gamers have voiced their opinion about Diablo 4‘s microtransactions in-game by scoring the game low, most of the reviews on Steam for the game are flooded with reviews by gamers whose accounts show less than half an hour of gameplay, and some with even less time spent in the game.
+
+Review-bombing games isn’t new and plenty of AAA games have faced the insane approach by gamers for non-legitimate reasons, which in turn affected the game’s overall ratings. Diablo 4 joins Starfield and Mortal Kombat 1 as the big titles to have their ratings affected due to fans review-bombing the title.
+
+While Metacritic has no filter to ensure a review’s legitimacy, Steam users can check the amount of time a reviewer has actually spent playing the game to differentiate legitimate reviews and review bombs.
+
+All that being said, Diablo 4 is still a critically acclaimed game that Xbox owners must still go ahead and try while the game’s free to play this weekend.
+
+Follow us for more entertainment coverage on Facebook, Twitter, Instagram, and YouTube.
+********
+Nintendo of America President: 'We Have a Great Relationship With Microsoft'
+********
+Nintendo of America President: 'We Have a Great Relationship With Microsoft' - News
+
+/ 4,703 Views
+
+by, posted 4 days ago
+
+Nintendo of America president Doug Bowser in an interview with Inverse was asked about his thoughts on the leaked documents that revealed Microsoft had discussions in acquiring Nintendo in 2020 and he said the two companies "have a great relationship."
+
+"We have a great relationship with Microsoft," said Bowser. "We consider them to be partners in many, many ways, and you only have to look at Nintendo Switch to see that partnership. Obviously, Minecraft is on Nintendo Switch, and we brought Banjo Kazooie to Super Smash Bros. Ultimate. So, we're looking forward to that partnership continuing.
+
+"As far as consolidation in the industry goes, I've been a part of this industry for 16-plus years now. One thing that's been constant is the acquisitions of studios. But the other constant is the fact that new studios are popping up every single year.
+
+"Incredibly creative studios are making content, from indie-sized to AAA-sized games. So as consolidation happens, on an equal basis, we're seeing these new studios, which really just speaks to the dynamic nature of the industry overall. In the end, that bodes well for the player."
+
+Microsoft and Nintendo earlier this year signed a "binding 10-year legal agreement" to bring Call of Duty games to Nintendo platforms now that Microsoft has completed its acquisition of Activision Blizzard.
+
+A life-long and avid gamer, William D'Angelo was first introduced to VGChartz in 2007. After years of supporting the site, he was brought on in 2010 as a junior analyst, working his way up to lead analyst in 2012 and taking over the hardware estimates in 2017. He has expanded his involvement in the gaming community by producing content on his own YouTube channel and Twitch channel. You can contact the author on Twitter @TrunksWD.
+
+More Articles
+********
+Microsoft, Google post strong quarterly sales growth as Big Tech continues its comeback
+********
+New York CNN —
+
+Big tech companies are continuing a turnaround from last year, as Alphabet, Microsoft and Snap kicked off earnings season with strong sales results for the quarter ended in September.
+
+Google parent company Alphabet on Tuesday reported quarterly sales of $76.69 billion, up 11% from the same period in the prior year. The company also posted profits of $19.69 billion for the quarter.
+
+Meanwhile, Microsoft posted 13% year-on-year sales growth to $56.5 billion, also beating expectations. Microsoft’s quarterly profits hit $22.3 billion, up 27% from the year-ago period.
+
+Snapchat parent Snap on Tuesday reported a return to sales growth in the September quarter, after two consecutive quarters of declining sales. The company reported revenue of nearly $1.2 billion, an increase of 5% from the same period in the prior year and ahead of analysts’ projections. The company reported a net loss of $368 million.
+
+The strong results come after Microsoft, Alphabet, Snap and other tech companies carried out mass layoffs and other cost cutting moves over the past year following a difficult 2022 when advertisers and other clients cut back on their spending due to concerns over the macroeconomic environment.
+
+Despite beating Wall Street’s sales expectations, shares of both Alphabet (GOOGL) and Snap (SNAP) each dipped around 5% in after-hours trading following the reports, although Snap’s quickly regained some ground. Microsoft (MSFT) shares gained around 4% in after-hours trading.
+
+“Q3 tech season has been quite strong thus far,” Tejas Dessai, research analyst at investment fund GlobalX said in a statement. “These numbers clearly defy concerns of near term economic weakness looming.”
+
+Google earnings
+
+Google’s advertising business generated quarterly revenue of $59.6 billion, up from $54.5 billion in the prior year. YouTube ads, meanwhile, garnered some $7.9 billion in revenue, up roughly 12% year-over-year.
+
+YouTube Shorts, the company’s TikTok competitor, hit a milestone 70 billion daily views last quarter, Alphabet CEO Sundar Pichai said on a call with analysts Tuesday afternoon.
+
+Google’s cloud business, however, reported revenue of $8.41 billion — missing analysts’ estimates.
+
+Jesse Cohen, a senior analyst at Investing.com, attributed Alphabet’s after-hours stock fall to the “relatively weak performance in its Google cloud platform, which is at risk of falling further behind [Microsoft’s] Azure and [Amazon’s] AWS.” Still, despite taking a hit in 2022 amid a broader tech sector downturn, shares for Alphabet have climbed roughly 56% since the start of 2023, beating the tech-heavy Nasdaq index.
+
+Google’s report comes as the tech giant is in the antitrust hot seat. US prosecutors officially opened a landmark antitrust trial against Google last month with sweeping allegations that the company engaged in anticompetitive behavior to maintain its dominance over search. (As the legal showdown rages on, Google has continued to deny allegations that it operated illegally.)
+
+Google also confirmed last month plans to lay off hundreds of staffers in its recruiting division, as it continues cost cutting efforts in some areas. These more targeted layoffs came after Alphabet in January cut around 12,000 jobs — about 6% of its workforce.
+
+Still, Google has signaled that it remains committed to investing heavily in generative artificial intelligence technology. Last month, Google rolled out a major expansion of its Bard AI chatbot tool.
+
+“As we expand access to our new AI services, we continue to make meaningful investments in support of our AI efforts,” Pichai said on the call. “We remain committed to durably re-engineering our cost base in order to help create capacity for these investments, in support of long-term sustainable financial value.”
+
+Microsoft earnings
+
+Microsoft’s recent investments in AI technology helped boost its sales in the September quarter, especially in its key cloud division. Sales from Microsoft’s “intelligent cloud” business — its biggest revenue driver — grew 19% from the year-ago quarter to $24.3 billion.
+
+Revenue from the company’s “productivity and business processes” business, which includes LinkedIn and Office commercial and consumer products, also grew 13% year-over-year to $18.6 billion.
+
+“Microsoft is firing on all cylinders and AI is clearly driving growth,” Cohen said in a research note following the company’s report. “The results indicated that artificial intelligence products are stimulating sales and already contributing to top and bottom-line growth.”
+
+But economic jitters among consumers appear to still have some impact on the company’s bottom line. Devices revenue, which includes sales of laptops, tablets and Xbox consoles, decreased 22% year-over-year, despite a 3% sales increase in the overall “more personal computing” segment. Ongoing concerns about a potential economic slowdown could continue to weigh on the company as it heads into the crucial holiday device sales season.
+
+The report is Microsoft’s first since the company closed its $69 billion acquisition of “Call of Duty” maker Activision Blizzard earlier this month. While the deal didn’t factor into this quarter’s results, it’s expected to supercharge the company’s gaming business.
+
+“Microsoft now controls 30 game studios and some of the most well-known games across the industry,” Edward Jones analyst Logan Purk said in a research note earlier this month. “With a massive cloud network and now a compelling library of games, Microsoft has a leg up on peers” in gaming, he said.
+
+Following the Activision takeover, “we’re looking forward to one of our strongest first-party holiday [game] lineups ever, including new titles like Call of Duty Modern Warfare 3,” CEO Satya Nadella said on an analyst call Tuesday. The company said it expects roughly $400 million of operating expenses in the fourth quarter to come as a result of the acquisition.
+
+Snap earnings
+
+Snap said its sales growth was driven in part by its ongoing efforts to revamp its advertising technology, following changes to Apple’s app tracking policies that took a hit to the business models of Snapchat, Facebook and other platforms.
+
+“We are focused on improving our advertising platform to drive higher return on investment for our advertising partners, and we have evolved our go-to-market efforts to better serve our partners and drive customer success,” CEO Evan Spiegel said in a statement.
+
+Snap also reported that it now has 406 million daily active users, up 12% compared to the year-ago quarter. And time spent watching Spotlight — Snapchat’s TikTok clone — grew 200% year-over-year, according to the company.
+
+The company also recently announced that it had reached more than 5 million subscribers to its Snapchat+ subscription program, a key effort to diversify its revenue.
+
+Snap said Tuesday that its chief operating officer, Jerry Hunter, plans to retire. Hunter, who spent seven years at the company, will step down from his role as of the end of the month, but will remain at the company until July 1, 2024, to support the transition.
+
+The company noted that some advertisers temporarily paused their spending following the outbreak of the Israel-Hamas war. Because of the “unpredictable nature” of the war, Snap declined to provide formal guidance for the fourth quarter, but said its internal forecast assumes year-over-year quarterly revenue growth between 2% and 6%.
+********
+Microsoft ticks up on faster cloud growth and hopeful revenue forecast
+********
+Microsoft's net income jumped 27% as management cut back on spending.
+
+The company's Azure cloud revenue growth accelerated after two years of deceleration.
+
+Management called for more revenue than analysts had expected for the current quarter.
+
+Microsoft shares jumped as much as 6% in extended trading Tuesday after the software maker issued fiscal first-quarter results and quarterly revenue guidance that beat Wall Street estimates. The firm also reported a surge in profit due to a slower pace of operating expense growth.
+
+Here's how the company did, compared with the consensus among analysts surveyed by LSEG, formerly known as Refinitiv:
+
+Earnings per share: $2.99 vs. $2.65 expected
+
+$2.99 vs. $2.65 expected Revenue: $56.52 billion vs. $54.50 billion expected
+
+Feeling out of the loop? We'll catch you up on the Chicago news you need to know. Sign up for the weekly Chicago Catch-Up newsletter here.
+
+With respect to guidance, Amy Hood, Microsoft's finance chief, called for fiscal second-quarter revenue in the range of $60.4 billion to $61.4 billion on a conference call with analysts. That implies 15% growth. Analysts polled by Refinitiv had expected $60.9 billion in revenue.
+
+Revenue grew almost 13% year over year in the quarter from $50.12 billion in the year-ago quarter, according to a statement. Net income, at $22.29 billion, increased 27% from $17.56 billion, or $2.35 per share, in the same quarter a year ago.
+
+Microsoft's Intelligent Cloud segment produced $24.26 billion in revenue, up 19% and above the $23.49 billion consensus among analysts surveyed by StreetAccount. The unit comprises the Azure public cloud, SQL Server, Windows Server, Visual Studio, Nuance, GitHub and enterprise services.
+
+Revenue just from Azure jumped 29% during the quarter, higher than the 26% consensus among analysts that CNBC and StreetAccount polled. Microsoft doesn't disclose Azure revenue in dollars. At constant currency, Azure revenue rose 28%, accelerating from 27% in the fiscal fourth quarter.
+
+For the second half of the 2024 fiscal year, Hood said to expect Azure growth at constant currency to remain stable compared with the fiscal second quarter, which should come in at 26% to 27%, with an increasing contribution from artificial intelligence.
+
+Microsoft is "still helping customers use the Microsoft Cloud to get the most value out of their digital spend, and driving operating leverage," CEO Satya Nadella said in the earnings release. Hood said clients are still finding ways to save money on cloud spending, a trend multiple large cloud infrastructure providers have flagged in the past few quarters.
+
+"We'll lap some of those cycles that were fairly extreme perhaps in the second half" of the fiscal year, Nadella said.
+
+Meanwhile, clients are flocking to new generative AI tools in the cloud that are enhanced with software from Microsoft-backed startup OpenAI. The Azure OpenAI Service now has 18,000 customers, up from 11,000 customers in July. Higher capacity for graphics processing units in Azure boosted growth, Hood said.
+
+Around 3 percentage points of the quarter's Azure growth was tied to AI, Hood said. Three months ago, the company had forecast 2 points of Azure growth in that area.
+
+"Looking on a competitive basis, we feel good about our execution, we feel good about taking share and we feel good about consistent trends," Hood said. The AI contribution in Azure at constant currency in the second half of the fiscal year should be consistent with results in the fiscal second quarter, she said.
+
+The Productivity and Business Processes unit posted $18.59 billion in revenue, which was up 13% and more than StreetAccount's $18.19 billion consensus. The unit contains Microsoft 365 productivity app subscriptions, LinkedIn and Dynamics enterprise software. The Teams communication app now has more than 320 million monthly active users, up from 300 million six months ago, Nadella said on a conference call with analysts.
+
+Hood was cautious when talking about the potential revenue lift from the introduction of the Microsoft 365 Copilot AI add-on for existing productivity software subscriptions, which will become available to large companies Nov. 1, starting at $30 per person per month. She said the company expects "related revenue to grow gradually over time."
+
+Microsoft's More Personal Computing segment featuring Windows, Xbox, Bing and Surface contributed $13.67 billion in revenue. That was up 3% and higher than the $12.85 billion StreetAccount consensus.
+
+The company reported 4% growth in sales of Windows operating-system licenses to device makers, ending a streak of five quarters of year-over-year declines. The PC market has started to stabilize, Hood said. Shipments were down 9% in the third quarter, compared to a 30% decline in the first quarter, according to estimates from technology industry researcher Gartner.
+
+Microsoft continued to slow its growth in research and development and sales and marketing costs. Operating expenses increased 1.3%, the slowest rate since 2016. For the fiscal second quarter, management foresees about 5% growth.
+
+During the quarter, Microsoft introduced fresh cybersecurity services, announced new Surface PCs and said it would sell its Microsoft 365 Copilot AI add-on to enterprises starting Nov. 1.
+
+Earlier this month, Microsoft completed its $68.7 billion acquisition of video game publisher Activision Blizzard. While Activision isn't incorporated into Microsoft's fiscal first-quarter results, it will partly affect earnings for the next quarter, so executives will likely discuss it when providing guidance.
+
+Notwithstanding the after-hours move, Microsoft stock is up 38% so far this year, while the S&P 500 index is up about 11% during the same period.
+
+WATCH: The tailwinds of AI are starting to kick in for Microsoft, says Jefferies Brent Thill
+
+Don't miss these CNBC PRO stories:
+********
+The Video Game Industry Calls It “Crunch.” Workers Call It Exploitation.
+********
+In the video game industry, the term “crunch” refers to an extended period of strenuous unpaid work in the months on either side of a game launch. Employers often expect their employees to work extra hours and weekends, often sixty and sometimes a hundred hours a week. The most egregious instances of crunch are sometimes referred to as “death marches,” and can last for years.
+
+Industry giants have promoted crunch as a rite of passage that tests mettle and confers insider status on video game developers. But when we peel back the layers of spin, we can see crunch culture for what it really is: exploitation.
+
+A former artist at Activision, referred to here as Lucas, told Jacobin that one of his coworkers suffered a heart attack at his desk during a particularly brutal crunch period. Another colleague would come in while sick, said Lucas, and vomit into a trash can at their desk because they didn’t feel they could miss the crunch. These horror stories are pervasive in the industry, and crunches at big companies like Activision Blizzard are, as Lucas described them, a “total arms race” that raise expectations at other workplaces throughout the industry.
+
+Lucas told Jacobin that he was sometimes expected to work seventy-five hours a week for months. Beyond that, he reported that he routinely worked fifty or sixty hours a week throughout his ten-year tenure with the company, compelled by company culture and pressure from his boss. The work was physically strenuous, Lucas said, and came with diminishing bonuses. Lucas reported that the work culture caused problems in his relationship. He left the company, among other reasons, to spend more time with his children.
+
+A game developer at a middle-market or “AA” company, referred to here as Owen, told Jacobin that he once crunched seventy hours a week for a total of six months. Owen said he was compensated for overtime while on contract, but was told by his partner that he shouldn’t “give himself away for free” when he became salaried. He described his crunch experience as the “insidious kind” where he was compelled to sacrifice quality to meet unreasonable deadlines. He added, however, that this is “nothing like those multiyear death marches that people at Naughty Dog or Blizzard would have to do.” Neither Activision Blizzard nor Naughty Dog responded to a request for comment.
+
+Not all companies share the same work culture. A former environment artist at the Swedish company Avalanche Studios, referred to here as Miles, told Jacobin that he never really experienced crunch. He described his workplace as relatively “crunch-averse,” saying, “I was lucky no one exploited me and expected me to grind.”
+
+Many companies insist that crunch is voluntary and that nonexempt employees are compensated. However, salaried employees in the industry report that they often feel manipulated into working excessive hours. A 2019 survey from the International Game Developers Association reported that 40 percent of developers worked crunch time in the previous year for at least twenty extra hours above their standard forty-hour workweek, with only 8 percent of those receiving additional compensation for those hours.
+
+Between surveys and anecdotal reports, a picture is emerging of an industry that takes advantage of a primarily young male workforce, many of whom began their careers unpartnered and some of whom remain single, who are eager to prove themselves and make their mark in the industry. Since it’s also a relatively new industry and medium, there are few unions that draw up fair contracts and enforce existing worker protection laws, as well as a paucity of laws specific to the industry. Lucas told Jacobin that studios also increasingly outsource work overseas in order to pay lower wages, adding the threat of job insecurity on top of extravagant working hours.
+
+In the early days of the industry, games were made by much smaller teams of developers. Many who crunched had a vested financial interest in the product and would see financial returns at least somewhat proportional to their hard work. But the revenue-sharing model has become increasingly elusive, as big companies are staffed by hundreds or even thousands of employees. Lucas told Jacobin that many who work at large studios like Activision Blizzard can’t expect to be fairly compensated or credited. He added that “lionizing big games and studio executives” who engage in this “toxic behavior” is part of the problem.
+********
+Satya Nadella’s compensation no longer tied to Game Pass growth after missing targets for two straight years
+********
+In FY23, Microsoft CEO Satya Nadella’s performance-based pay targets were no longer tied to Game Pass growth, as opposed to the previous three fiscal years. This comes amid uncertainty and a lack of officially disclosed data about the current state of the subscription service.
+
+As spotted by Axios, Microsoft recently filed its 2023 proxy statement with the US Securities and Exchange Commission. For fiscal year 2023 (ended June 30, 2023), Satya Nadella’s performance incentives included the only metric related to the company’s gaming business — “Xbox Content and Services Revenue Growth.”
+
+Xbox’s 12-month content and services revenue growth target was 4.4%, but the division ended up growing just 0.7% year-over-year. It represented 10% of Nadella’s total performance targets, behind Teams’ MAU growth (20%), Microsoft Cloud’s subscribers growth (20%), and Microsoft Cloud’s revenue (30%).
+
+Overall, Nadella’s cash and stock compensation for FY23 was $48.5 million, down from $54.9 million in 2022.
+
+Core metric performance and payout percentages (FY23)
+
+What’s interesting here is that for the previous three years, one of his performance targets was “Xbox Game Pass Subscribers Growth” (via 2022’s SEC filing):
+
+In FY20 (ended June 30, 2020), the number of subscribers grew 85.75% year-over-year, above the 71% target;
+
+In FY21 (ended June 30, 2021), the target was 47.8%, but Game Pass subscribers grew only 37.5% from the previous year;
+
+In FY22 (ended June 30, 2022), Game Pass also missed its 72.88% target, growing only 28% year-over-year.
+
+Core metric performance and payout percentages (FY20-FY22)
+
+So Game Pass subscriber growth fell short of Nadella’s pay target in two of those three fiscal years, leading to a shift to a new metric tied to the Xbox division as a whole in FY23. This doesn’t mean that Microsoft itself is 100% disappointed with the performance of its subscription service, as the company may have different internal goals. However, these numbers don’t usually come out of thin air, leaving room for speculation that Game Pass may be growing slower than expected.
+
+The last time Microsoft officially disclosed the number of subscribers was in January 2022 (Q3 FY22), when Game Pass surpassed 25 million users. This was up 38.8% from the 18 million milestone reported in January 2021.
+
+In October 2022, Sony told the UK’s Competition and Markets Authority that the service had 29 million users and was expected to “grow substantially in the future,” but Xbox still insists that the 25 million milestone should be referred to as the “official tally.”
+
+It is hard to believe that Game Pass subscriber numbers haven’t changed in 21 months (since January 2022). Microsoft may have its own reasons for not providing any official updates, and one of them could be the lack of significant growth. Another question here is, how many users did the company plan to reach by 2023? 25 million seems unlikely.
+
+Perhaps, we can expect Microsoft to share new numbers in 2024, when it finally starts adding Activision Blizzard titles to Game Pass.
