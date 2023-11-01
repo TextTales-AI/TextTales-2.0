@@ -29,7 +29,8 @@
     "react-native-safe-area-context": "4.6.3",
     "react-native-screens": "~3.22.0",
     "react-native-sound-player": "^0.13.2",
-    "expo-dev-client": "~2.4.11"
+    "expo-dev-client": "~2.4.11",
+    "@react-native-picker/picker": "2.4.10"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"

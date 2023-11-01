@@ -1,7 +1,7 @@
 import { StyleSheet, Text, Pressable } from "react-native";
 
 export default function CustomButton(props) {
-  const { onPress, title = "Click" } = props;
+  const { onPress, title = "Click", } = props;
   return (
     <Pressable
       style={({ pressed }) => [
