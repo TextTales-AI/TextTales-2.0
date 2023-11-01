@@ -27,8 +27,13 @@ load_dotenv()
 openai.api_key = os.getenv("OPENAI_API_KEY")
 weather_api_key = os.getenv("WEATHER_API_KEY")
 ELEVEN_API_KEY = os.getenv("ELEVEN_API_KEY")
+team_drive_id = '1WdeZhQ_vegXPMA-JeoM0pldAOKbCCVcx'
+parent_folder_id = '1TtWk3uo0jTC0BR2CAlaH8DgcRtp0hDCb'
 # # Initialize chat model
 chat_model = ChatOpenAI(model_name='gpt-3.5-turbo-16k')  # Make sure to set the API key as an environment variable
+# http://localhost:3000/create?topic=a%20short%20king&min=1&style=STORY
+
+    
 
 class Podcast:
     def __init__(self, user_prompt, num_minutes, category):
@@ -40,7 +45,7 @@ class Podcast:
         self.outputPath = "./" + category.lower() + "_audio/"
         self.text_list = []
         self.sound_file_name = self.ID + ".mp3"
-        self.drive_name = ""
+        self.drive_audio_file_name = ""
         self.articlesDF = pd.DataFrame(columns=['article_title','article_body','embeddings'])
 
         # New Daniel
@@ -61,8 +66,8 @@ class Podcast:
         return self.ID
 
     def get_drive_name(self):
-        return self.drive_name
-    
+        return self.drive_audio_file_name
+
     def gen_story_podcast(self):
         
         if self.num_words < 1000:
@@ -166,36 +171,11 @@ class Podcast:
             print("./story_audio/{}".format(self.sound_file_name))
             combined.export("./story_audio/{}".format(self.sound_file_name), format="mp3")
 
-            #self.concatenate_audio_moviepy(self.sound_file_names, "./story_audio/{}".format(self.sound_file_name))
 
-    def upload_wav_file_and_get_ID(self):
-        print(777777)
-        gauth = GoogleAuth()
-
-        # Try to load saved client credentials
-        gauth.LoadCredentialsFile("mycreds.txt")
-
-        if gauth.credentials is None:
-            # Authenticate if they're not there
-            gauth.GetFlow()
-            gauth.flow.params.update({'access_type': 'offline'})
-            gauth.flow.params.update({'approval_prompt': 'force'})
-            gauth.LocalWebserverAuth()
-        elif gauth.access_token_expired:
-            # Refresh them if expired
-            gauth.Refresh()
-        else:
-            # Initialize the saved creds
-            gauth.Authorize()
-
-        # Save the current credentials to a file
-        gauth.SaveCredentialsFile("mycreds.txt")  
-
-        drive = GoogleDrive(gauth)
-
+    def upload_audio_file(self):
+        drive = drive_authenticate()
+        
         title = self.ID
-        team_drive_id = '1WdeZhQ_vegXPMA-JeoM0pldAOKbCCVcx'
-        parent_folder_id = '1TtWk3uo0jTC0BR2CAlaH8DgcRtp0hDCb'
         f = drive.CreateFile({
             'title': title,
             'parents': [{
@@ -208,27 +188,20 @@ class Podcast:
         f.SetContentFile(self.outputPath + self.sound_file_name)
         f.Upload(param={'supportsTeamDrives': True})
 
-        files = drive.ListFile({"q": "'" + parent_folder_id + "' in parents and mimeType!='application/vnd.google-apps.folder'"}).GetList()
-
+    def set_drive_audio_file_name(self):
+        drive_files = drive.ListFile({"q": "'" + parent_folder_id + "' in parents and mimeType!='application/vnd.google-apps.folder'"}).GetList()
         name = ""
-        for file in files:
+        for file in drive_files:
             if file['title'] == title:
                 name = file['id']
 
-        self.drive_name = name
+        self.drive_audio_file_name = name
     
     def list_to_text(self):
         text = ""
         for row in self.text_list:
             text += row + "\n"
         return text
-
-    def concatenate_audio_moviepy(self, audio_clip_paths, output_path):
-            """Concatenates several audio files into one audio file using MoviePy
-            and save it to `output_path`. Note that extension (mp3, etc.) must be added to `output_path`"""
-            clips = [AudioFileClip(c) for c in audio_clip_paths]
-            final_clip = concatenate_audioclips(clips)
-            final_clip.write_audiofile(output_path)
 
     def story_create_intro(self):
             # Generic intro
@@ -598,6 +571,40 @@ class Podcast:
         combined = sound_transition + sound_intro + sound_transition + sound_segment1 + sound_transition + sound_segment2 + sound_transition + sound_segment3 + sound_transition + sound_outro + sound_transition
         combined.export("./news_audio/" + self.ID + ".mp3", format="mp3")
 
+def drive_authenticate():
+    gauth = GoogleAuth()
+
+    # Try to load saved client credentials
+    gauth.LoadCredentialsFile("mycreds.txt")
+
+    if gauth.credentials is None:
+        # Authenticate if they're not there
+        gauth.GetFlow()
+        gauth.flow.params.update({'access_type': 'offline'})
+        gauth.flow.params.update({'approval_prompt': 'force'})
+        gauth.LocalWebserverAuth()
+    elif gauth.access_token_expired:
+        # Refresh them if expired
+        gauth.Refresh()
+    else:
+        # Initialize the saved creds
+        gauth.Authorize()
+
+    # Save the current credentials to a file
+    gauth.SaveCredentialsFile("mycreds.txt")  
+
+    drive = GoogleDrive(gauth)
+
+    return drive
+
+def return_drive_file_names(drive):
+    drive_files = drive.ListFile({"q": "'" + parent_folder_id + "' in parents and mimeType!='application/vnd.google-apps.folder'"}).GetList()
+    drive_files_names = []
+    for file in drive_files:
+        drive_files_names.append(file['id'])
+    return drive_files_names
+
+
 app = Flask(__name__)
 @app.route('/')
 def hello_world():
@@ -631,43 +638,25 @@ def get_create():
         print("3")
         new_podcast.audiofy_news()
         print("4")
-        new_podcast.upload_wav_file_and_get_ID()
+        new_podcast.upload_audio_file()
+        new_podcast.set_drive_audio_file_name()
         print("5")
     elif podcast_type == "STORY":
         new_podcast.gen_story_podcast()
         new_podcast.audiofy_story()
-        new_podcast.upload_wav_file_and_get_ID()
+        new_podcast.upload_audio_file()
+        new_podcast.set_drive_audio_file_name()
         
     data = {'text': new_podcast.list_to_text(), 'name': new_podcast.get_drive_name()}
     
     return jsonify(data)
     
+@app.route('/library')
+def get_library():
+    drive = drive_authenticate()
+    drive_file_names = return_drive_file_names(drive)
+
+    data = {'drive-files-names': drive_file_names}
+    return jsonify(data)
 
 app.run(host='0.0.0.0', port=3000)
-
-
-# def embedd_articles(self):
-#     # embedding model parameters
-#     embedding_model = "text-embedding-ada-002"
-#     embedding_encoding = "cl100k_base"  # this the encoding for text-embedding-ada-002
-#     max_tokens = 8000  # the maximum for text-embedding-ada-002 is 8191
-#     encoding = tiktoken.get_encoding(embedding_encoding)
-#     self.articlesDF["embeddings"] = self.articlesDF.combined.apply(lambda x: get_embedding(x, engine=embedding_model))
-
-#     # Save to csv for test purposes
-#     # self.articlesDF.to_csv("tmp/embeddings.csv")
-
-# def cluster(self):
-#     # datafile_path = "tmp/embeddings.csv"
-#     # df = pd.read_csv(datafile_path)
-#     self.articlesDF["embeddings"] = self.articlesDF.embeddings.apply(literal_eval).apply(np.array)  # convert string to numpy array
-#     matrix = np.vstack(self.articlesDF.embeddings.values)
-#     matrix.shape
-
-#     n_clusters = 3
-
-#     kmeans = KMeans(n_clusters=n_clusters, init="k-means++", random_state=42, n_init=10)
-#     kmeans.fit(matrix)
-#     labels = kmeans.labels_
-#     self.articlesDF["Cluster"] = labels
-#     self.articlesDF.groupby("Cluster")#.Score.mean().sort_values()
