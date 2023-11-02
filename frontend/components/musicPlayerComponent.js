@@ -40,7 +40,7 @@ export default function MusicPlayerComponent() {
   const bottomSheetRef = useRef(null);
 
   // variables
-  const snapPoints = useMemo(() => ["20%", "40%"], []);
+  const snapPoints = useMemo(() => ["20%", "90%"], []);
 
   // callbacks
   const handleSheetChanges = useCallback((index) => {

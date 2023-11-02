@@ -54,6 +54,7 @@ class Podcast:
         self.topic = ""
         self.genre = ""
         self.title = ""
+        self.drive = None
 
         # News part
         self.cleaned_intro = ""
@@ -173,10 +174,10 @@ class Podcast:
 
 
     def upload_audio_file(self):
-        drive = drive_authenticate()
+        self.drive = drive_authenticate()
         
         title = self.ID
-        f = drive.CreateFile({
+        f = self.drive.CreateFile({
             'title': title,
             'parents': [{
                 'kind': 'drive#fileLink',
@@ -189,8 +190,9 @@ class Podcast:
         f.Upload(param={'supportsTeamDrives': True})
 
     def set_drive_audio_file_name(self):
-        drive_files = drive.ListFile({"q": "'" + parent_folder_id + "' in parents and mimeType!='application/vnd.google-apps.folder'"}).GetList()
+        drive_files = self.drive.ListFile({"q": "'" + parent_folder_id + "' in parents and mimeType!='application/vnd.google-apps.folder'"}).GetList()
         name = ""
+        title = self.ID
         for file in drive_files:
             if file['title'] == title:
                 name = file['id']
@@ -618,6 +620,7 @@ def get_create():
     user_prompt = request.args.get('topic') # User input can be any string
     num_minutes = request.args.get('min') # Time [0-5, 5-10, 10-15]
     podcast_type = request.args.get("style") # style ["NEWS", "STORY"]
+    voice = request.args.get("voice")
     # num_words = int(num_minutes)*135
 
     # Pausar detta för tillfället
@@ -627,9 +630,9 @@ def get_create():
     #     return print(response)
 
     new_podcast = Podcast(user_prompt, num_minutes, podcast_type)
+    new_podcast.voice = voice
     data = {}
     if podcast_type == "NEWS":
-        new_podcast.voice = "Bella" # Kanske fixa snyggare sen
         # Todo fix
         print("1")
         new_podcast.scrape_news_from_topic_and_cluster_and_embedd()

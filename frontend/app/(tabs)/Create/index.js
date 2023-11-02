@@ -24,9 +24,20 @@ const uri = Constants?.expoConfig?.hostUri
   ? Constants.expoConfig.hostUri.split(`:`).shift().concat(`:3000`)
   : `/create`;
 
-renderWithData = async (t, min, style, voice, setGenText, setDriveName, setUser) => {
+renderWithData = async (
+  t,
+  min,
+  style,
+  voice,
+  setGenText,
+  setDriveName,
+  setUser
+) => {
   console.log("----");
-  fetch_url = "http://" + uri + `/create?topic=${t}&min=${min}&style=${style}&voice=${voice}`;
+  fetch_url =
+    "http://" +
+    uri +
+    `/create?topic=${t}&min=${min}&style=${style}&voice=${voice}`;
   console.log(fetch_url);
   const response = await fetch(fetch_url);
   const res = await response.json();
@@ -111,7 +122,7 @@ export default function index() {
           </View>
 
           <Text>What voice do you want?</Text>
-          <View style={{ width: 250, height: 150}}>
+          <View style={{ width: 250, height: 150 }}>
             <Picker
               style={{ width: 250, height: 150 }}
               itemStyle={{ height: 150 }}
@@ -128,6 +139,8 @@ export default function index() {
               <Picker.Item label="Irish (Masculine)" value="Fin" />
             </Picker>
           </View>
+          {category === "NEWS" ? <View></View> : (
+          <View>
           <Text>How long do you want to listen?</Text>
           <Slider
             value={length}
@@ -142,6 +155,9 @@ export default function index() {
           <Text style={{ left: ((length - 1) / 1) * 50 - 10 }}>
             {length} mintues
           </Text>
+        </View>
+          )}
+
         </View>
         <View style={styles.bottom}>
           <CustomButton
